@@ -1,333 +1,333 @@
 {
-  "common": {
-    "loading": "Chargement...",
-    "error": "Une erreur est survenue",
-    "notFound": "Page non trouvée",
-    "back": "Retour",
-    "seeMore": "Voir plus",
-    "cancel": "Annuler",
-    "submit": "Envoyer",
-    "search": "Rechercher",
-    "noResults": "Aucun résultat trouvé",
-    "close": "Fermer",
-    "save": "Sauvegarder",
-    "saving": "En cours…",
-    "explore": "Explorer",
-    "view": {
-      "grid": "Vue grille",
-      "list": "Vue liste"
-    }
-  },
-  "nav": {
-    "home": "Accueil",
-    "archives": "Archives",
-    "channels": "Chaînes",
-    "collections": "Collections",
-    "changelog": "Notes de mise à jour",
-    "legal": "Mentions légales",
-    "zapping": "Zapping TV",
-    "credits": "Crédits"
-  },
-  "home": {
-    "description": "Redécouvrez les trésors de la télévision. Accédez à des milliers d'archives, émissions cultes, génériques et moments inoubliables de l'histoire du petit écran.",
-    "exploreCollection": "Explorez notre collection de {{stats}} archives télévisuelles",
-    "search": {
-      "placeholder": "Rechercher dans les archives...",
-      "filters": {
-        "channel": "Toutes les chaînes",
-        "type": "Tous les types",
-        "year": "Toutes les années"
-      }
+    "common": {
+        "loading": "Chargement…",
+        "error": "Une erreur est survenue",
+        "notFound": "Page non trouvée",
+        "back": "Retour",
+        "seeMore": "Voir plus",
+        "cancel": "Annuler",
+        "submit": "Envoyer",
+        "search": "Rechercher",
+        "noResults": "Aucun résultat trouvé",
+        "close": "Fermer",
+        "save": "Sauvegarder",
+        "saving": "En cours…",
+        "explore": "Explorer",
+        "view": {
+            "grid": "Vue grille",
+            "list": "Vue liste"
+        }
     },
-    "recentTitle": "Derniers ajouts",
-    "slogan": "Redécouvrez les trésors de la télévision",
-    "explore": "Explorer les archives",
-    "seechannels": "Voir les chaînes",
-    "zap": "Zapping TV",
-    "discordTitle": "Rejoignez notre communauté Discord",
-    "discordText": "Partagez vos souvenirs, discutez avec d'autres passionnés de télévision et restez informé des dernières archives ajoutées !",
-    "discordJoin": "Rejoindre le serveur",
-    "popularTitle": "Archives populaires",
-    "popularCategories": "Catégories populaires",
-    "seeall": "Voir tout",
-    "seeall2": "Voir toutes",
-    "infiguresTitle": "+2Télé en chiffres",
-    "infiguresDescription": "Notre collection grandit chaque jour",
-    "infiguresArchives": "Archives disponibles",
-    "infiguresChannels": "Chaînes TV",
-    "infiguresViews": "Vues totales",
-    "featuredCollections": "Collections mises en avant",
-    "noFeaturedCollections": "Aucune collection mise en avant pour le moment",
-    "archivistProgramTitle": "Rejoignez la communauté +2Télé",
-    "archivistProgramDescription": "Participez à notre programme d'archivistes pour contribuer à conserver et partager les trésors de la télévision.",
-    "archivistProgramButton1": "Devenir archiviste",
-    "archivistProgramButton2": "Voir la charte",
-    "exploreCollectionStatic": "Explorez notre vaste collection d'archives télévisuelles",
-    "errors": {
-      "latest": "Impossible de charger les derniers ajouts",
-      "popular": "Impossible de charger les archives populaires",
-      "categories": "Impossible de charger les catégories",
-      "collections": "Impossible de charger les collections"
-    }
-  },
-  "archives": {
-    "title": "Archives",
-    "description": "Explorez notre collection d'archives télévisuelles",
-    "loadMore": "Charger plus d'archives",
-    "noArchives": "Aucune archive disponible",
-    "noResults": "Aucune archive trouvée pour ces critères",
-    "pageInfo": "Page {{current}} sur {{total}} • Affichage de {{showing}} sur {{totalItems}} archives"
-  },
-  "channels": {
-    "title": "Chaînes TV",
-    "description": "Découvrez toutes les chaînes disponibles"
-  },
-  "collections": {
-    "title": "Collections",
-    "description": "Découvrez nos collections d'archives thématiques",
-    "noCollections": "Aucune collection disponible",
-    "createdAt": "Créée le {{date}}",
-    "all": "Toutes les collections",
-    "searchPlaceholder": "Rechercher une collection...",
-    "searchResults": "{{count}} collection(s) trouvée(s) pour \"{{query}}\"",
-    "noSearchResults": "Aucune collection trouvée pour cette recherche"
-  },
-  "player": {
-    "channel": "Chaîne",
-    "type": "Type",
-    "year": "Année",
-    "similar": "Archives similaires",
-    "recent": "Ajouts récents",
-    "quickActions": "Actions rapides",
-    "views": "{{count}} vues",
-    "broadcastDate": "Diffusé le {{date}}",
-    "unknownDate": "Date de diffusion inconnue",
-    "postedBy": "Posté par {{username}}",
-    "noSimilarArchives": "Aucune archive similaire trouvée",
-    "noRecentArchives": "Aucun ajout récent disponible",
-    "credits": {
-      "title": "Crédits & Droits",
-      "copyright": "Droits"
-    },
-    "music": {
-      "title": "Musique",
-      "listen": "Écouter",
-      "externalLink": {
-        "title": "Lien externe",
-        "description": "Vous allez être redirigé vers un site externe pour écouter \"{{title}}\". Voulez-vous continuer ?",
-        "continue": "Continuer"
-      }
-    },
-    "private": "Privé",
-    "actions": {
-      "quick": "Actions rapides",
-      "random": "Archive aléatoire",
-      "explore": "Explorer la collection"
-    },
-    "toast": {
-      "linkCopied": "Lien copié dans le presse-papiers !"
-    },
-    "watchTitle": "Regarder {{title}} ({{year}}) sur {{channel}}. Découvrez cette archive sur +2Télé."
-  },
-  "zapping": {
-    "title": "Zapping TV",
-    "description": "Redécouvrez les archives télévisuelles de manière aléatoire",
-    "noSignal": "PAS DE SIGNAL",
-    "currentlyPlaying": "En cours de diffusion",
-    "viewHistory": "Historique de visionnage",
-    "viewPage": "Voir la page",
-    "skip": "Changer d'archive",
-    "explore": "Explorez les archives télévisuelles de manière aléatoire. Comme un vrai zapping !"
-  },
-  "comments": {
-    "title": "Commentaires",
-    "noComments": "Soyez le premier à commenter !",
-    "form": {
-      "placeholder": "Ajouter un commentaire...",
-      "replyPlaceholder": "Ajouter une réponse...",
-      "username": "Votre nom",
-      "submit": "Commenter"
-    },
-    "guidelines": {
-      "notice": "Vos commentaires doivent respecter notre charte de communauté.",
-      "link": "Consulter la charte"
-    },
-    "edit": "Modifier",
-    "delete": "Supprimer",
-    "reply": "Répondre",
-    "replyingTo": "En réponse à @{{username}}",
-    "deleteTitle": "Supprimer le commentaire ?",
-    "deleteDescription": "Cette action est irréversible. Le commentaire sera définitivement supprimé.",
-    "confirmDelete": "Oui, supprimer",
-    "deleting": "Suppression..."
-  },
-  "footer": {
-    "description": "Redécouvrez les trésors de la télévision à travers notre collection d'archives.",
-    "navigation": "Navigation",
-    "followUs": "Suivez-nous",
-    "copyright": "© 2022-{{year}} +2Télé. Tous droits réservés.",
-    "developedBy": "Développé par"
-  },
-  "services": {
-    "wiki": {
-      "title": "+2Wiki",
-      "description": "Explorez notre base de connaissances collaborative sur l'histoire de la télévision."
-    },
-    "discord": {
-      "title": "Discord",
-      "description": "Rejoignez notre communauté Discord pour discuter et partager vos souvenirs."
-    }
-  },
-  "carousel": {
-    "watch": "Regarder"
-  },
-  "cookies": {
-    "description": "Nous utilisons une instance auto-hébergée de Matomo Analytics pour améliorer votre expérience. Ces données sont hébergées en France et ne sont jamais partagées avec des tiers. Elles seront utilisées uniquement à des fins de statistiques et d'amélioration de la plateforme.",
-    "learnMore": "En savoir plus",
-    "accept": "Accepter",
-    "refuse": "Refuser",
-    "close": "Fermer le bandeau de cookies"
-  },
-  "filters": {
-    "advanced": "Filtres avancés",
-    "applied": "Filtres appliqués :",
-    "clear": "Effacer les filtres",
-    "results": "Résultats de recherche",
-    "allArchives": "Toutes les archives"
-  },
-  "auth": {
-    "login": "Connexion",
-    "logout": "Déconnexion",
-    "welcome": "Bienvenue sur +2Télé",
-    "description": "Connectez-vous ou créez un compte pour participer à la communauté.",
-    "loginOrRegister": "Se connecter / S'inscrire",
-    "termsNotice": "En continuant, vous acceptez nos",
-    "terms": "Conditions Générales d'Utilisation",
-    "and": "et",
-    "privacy": "Politique de Confidentialité"
-  },
-  "profile": {
-    "title": "Mon profil",
-    "description": "Gérez votre profil et vos paramètres",
-    "settings": "Paramètres",
-    "badges": {
-      "staff": "Staff",
-      "vip": "VIP",
-      "archivist": "Archiviste",
-      "verified": "Certifié"
-    },
-    "memberSince": "Membre depuis le {{date}}",
-    "logout": "Se déconnecter",
-    "deleteAccount": "Supprimer mon compte",
-    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible.",
-    "archives": "Archives",
-    "info": "Informations",
-    "yourArchives": "Vos archives",
-    "userArchives": "Archives de {{username}}",
-    "archivesCount": "{{count}} archives au total",
-    "noArchives": "Aucune archive publiée pour le moment",
-    "publicDescription": "Profil de {{username}} sur +2Télé",
-    "form": {
-      "motto": "Citation personnelle",
-      "mottoPlaceholder": "Partagez une citation qui vous représente...",
-      "pronouns": "Pronoms",
-      "pronounsPlaceholder": "Ex: Il/Lui, Elle/Elle",
-      "pronounsHelp": "Format: Pronom/Pronom (ex: Il/Lui)",
-      "pronounsInvalidFormat": "Format invalide. Utilisez le format Pronom/Pronom (ex: Il/Lui).",
-      "mottoTooLong": "La citation ne peut pas dépasser 100 caractères.",
-      "pronounsTooLong": "Les pronoms ne peuvent pas dépasser 50 caractères.",
-      "success": "Profil mis à jour avec succès.",
-      "characters": "caractères",
-      "optional": "optionnel",
-      "discordNotifications": "Notifications Discord",
-      "discordNotificationsHelp": "Recevoir des messages privés pour les notifications importantes."
-    }
-  },
-  "settings": {
-    "title": "Paramètres",
-    "description": "Gérez vos paramètres de compte",
-    "profile": {
-      "title": "Profil",
-      "viewPublic": "Voir mon profil public"
-    },
-    "account": {
-      "title": "Compte",
-      "logout": "Déconnexion",
-      "logoutDescription": "Se déconnecter de votre compte",
-      "delete": "Supprimer le compte",
-      "deleteDescription": "Supprimer définitivement votre compte",
-      "deleteConfirmTitle": "Supprimer le compte ?",
-      "deleteConfirmDescription": "Cette action est irréversible. Toutes vos données seront supprimées.",
-      "deleteConfirm": "Oui, supprimer mon compte"
-    }
-  },
-  "archivist": {
-    "title": "Espace Archiviste",
-    "description": "Gérez et ajoutez des archives",
-    "become": "Devenir archiviste",
     "nav": {
-      "stats": "Statistiques",
-      "upload": "Ajouter une archive"
+        "home": "Accueil",
+        "archives": "Archives",
+        "channels": "Chaînes",
+        "collections": "Collections",
+        "changelog": "Notes de mise à jour",
+        "legal": "Mentions légales",
+        "zapping": "Zapping TV",
+        "credits": "Crédits"
     },
-    "stats": {
-      "archives": "Archives",
-      "channels": "Chaînes",
-      "views": "Vues totales"
+    "home": {
+        "description": "Redécouvrez les trésors de la télévision. Accédez à des milliers d'archives, émissions cultes, génériques et moments inoubliables de l'histoire du petit écran.",
+        "exploreCollection": "Explorez notre collection de {{stats}} archives télévisuelles",
+        "search": {
+            "placeholder": "Rechercher dans les archives...",
+            "filters": {
+                "channel": "Toutes les chaînes",
+                "type": "Tous les types",
+                "year": "Toutes les années"
+            }
+        },
+        "recentTitle": "Derniers ajouts",
+        "slogan": "Redécouvrez les trésors de la télévision",
+        "explore": "Explorer les archives",
+        "seechannels": "Voir les chaînes",
+        "zap": "Zapping TV",
+        "discordTitle": "Rejoignez notre communauté Discord",
+        "discordText": "Partagez vos souvenirs, discutez avec d'autres passionnés de télévision et restez informé des dernières archives ajoutées !",
+        "discordJoin": "Rejoindre le serveur",
+        "popularTitle": "Archives populaires",
+        "popularCategories": "Catégories populaires",
+        "seeall": "Voir tout",
+        "seeall2": "Voir toutes",
+        "infiguresTitle": "+2Télé en chiffres",
+        "infiguresDescription": "Notre collection grandit chaque jour",
+        "infiguresArchives": "Archives disponibles",
+        "infiguresChannels": "Chaînes TV",
+        "infiguresViews": "Vues totales",
+        "featuredCollections": "Collections mises en avant",
+        "noFeaturedCollections": "Aucune collection mise en avant pour le moment",
+        "archivistProgramTitle": "Rejoignez la communauté +2Télé",
+        "archivistProgramDescription": "Participez à notre programme d'archivistes pour contribuer à conserver et partager les trésors de la télévision.",
+        "archivistProgramButton1": "Devenir archiviste",
+        "archivistProgramButton2": "Voir la charte",
+        "exploreCollectionStatic": "Explorez notre vaste collection d'archives télévisuelles",
+        "errors": {
+            "latest": "Impossible de charger les derniers ajouts",
+            "popular": "Impossible de charger les archives populaires",
+            "categories": "Impossible de charger les catégories",
+            "collections": "Impossible de charger les collections"
+        }
     },
-    "upload": {
-      "title": "Titre",
-      "description": "Description (Markdown supporté)",
-      "category": "Type d'archive",
-      "selectCategory": "Choisir un type",
-      "channel": "Chaîne",
-      "selectChannel": "Choisir une chaîne",
-      "copyright": "Copyright",
-      "year": "Année",
-      "broadcastDate": "Date de diffusion",
-      "music": "Musique",
-      "musicTitle": "Titre de la musique",
-      "missingFields": "Veuillez remplir tous les champs obligatoires (Type d'archive et Chaîne) pour tous les fichiers.",
-      "musicUrl": "URL de la musique",
-      "resolution": "Résolution",
-      "video": "Vidéo",
-      "videoHelp": "Fichiers MP4 uniquement. Résolution à respecter.",
-      "submit": "Ajouter l'archive",
-      "uploading": "Envoi en cours...",
-      "uploadingTitle": "Envoi en cours",
-      "uploadingDescription": "Veuillez patienter pendant l'envoi de votre archive...",
-      "error": "Erreur lors de l'envoi de l'archive"
+    "archives": {
+        "title": "Archives",
+        "description": "Explorez notre collection d'archives télévisuelles",
+        "loadMore": "Charger plus d'archives",
+        "noArchives": "Aucune archive disponible",
+        "noResults": "Aucune archive trouvée pour ces critères",
+        "pageInfo": "Page {{current}} sur {{total}} • Affichage de {{showing}} sur {{totalItems}} archives"
+    },
+    "channels": {
+        "title": "Chaînes TV",
+        "description": "Découvrez toutes les chaînes disponibles"
+    },
+    "collections": {
+        "title": "Collections",
+        "description": "Découvrez nos collections d'archives thématiques",
+        "noCollections": "Aucune collection disponible",
+        "createdAt": "Créée le {{date}}",
+        "all": "Toutes les collections",
+        "searchPlaceholder": "Rechercher une collection...",
+        "searchResults": "{{count}} collection(s) trouvée(s) pour \"{{query}}\"",
+        "noSearchResults": "Aucune collection trouvée pour cette recherche"
+    },
+    "player": {
+        "channel": "Chaîne",
+        "type": "Type",
+        "year": "Année",
+        "similar": "Archives similaires",
+        "recent": "Ajouts récents",
+        "quickActions": "Actions rapides",
+        "views": "{{count}} vues",
+        "broadcastDate": "Diffusé le {{date}}",
+        "unknownDate": "Date de diffusion inconnue",
+        "postedBy": "Posté par {{username}}",
+        "noSimilarArchives": "Aucune archive similaire trouvée",
+        "noRecentArchives": "Aucun ajout récent disponible",
+        "credits": {
+            "title": "Crédits & Droits",
+            "copyright": "Droits"
+        },
+        "music": {
+            "title": "Musique",
+            "listen": "Écouter",
+            "externalLink": {
+                "title": "Lien externe",
+                "description": "Vous allez être redirigé vers un site externe pour écouter \"{{title}}\". Voulez-vous continuer ?",
+                "continue": "Continuer"
+            }
+        },
+        "private": "Privé",
+        "actions": {
+            "quick": "Actions rapides",
+            "random": "Archive aléatoire",
+            "explore": "Explorer la collection"
+        },
+        "toast": {
+            "linkCopied": "Lien copié dans le presse-papiers !"
+        },
+        "watchTitle": "Regarder {{title}} ({{year}}) sur {{channel}}. Découvrez cette archive sur +2Télé."
+    },
+    "zapping": {
+        "title": "Zapping TV",
+        "description": "Redécouvrez les archives télévisuelles de manière aléatoire",
+        "noSignal": "PAS DE SIGNAL",
+        "currentlyPlaying": "En cours de diffusion",
+        "viewHistory": "Historique de visionnage",
+        "viewPage": "Voir la page",
+        "skip": "Changer d'archive",
+        "explore": "Explorez les archives télévisuelles de manière aléatoire. Comme un vrai zapping !"
+    },
+    "comments": {
+        "title": "Commentaires",
+        "noComments": "Soyez le premier à commenter !",
+        "form": {
+            "placeholder": "Ajouter un commentaire...",
+            "replyPlaceholder": "Ajouter une réponse...",
+            "username": "Votre nom",
+            "submit": "Commenter"
+        },
+        "guidelines": {
+            "notice": "Vos commentaires doivent respecter notre charte de communauté.",
+            "link": "Consulter la charte"
+        },
+        "edit": "Modifier",
+        "delete": "Supprimer",
+        "reply": "Répondre",
+        "replyingTo": "En réponse à @{{username}}",
+        "deleteTitle": "Supprimer le commentaire ?",
+        "deleteDescription": "Cette action est irréversible. Le commentaire sera définitivement supprimé.",
+        "confirmDelete": "Oui, supprimer",
+        "deleting": "Suppression..."
+    },
+    "footer": {
+        "description": "Redécouvrez les trésors de la télévision à travers notre collection d'archives.",
+        "navigation": "Navigation",
+        "followUs": "Suivez-nous",
+        "copyright": "© 2022-{{year}} +2Télé. Tous droits réservés.",
+        "developedBy": "Développé par"
+    },
+    "services": {
+        "wiki": {
+            "title": "+2Wiki",
+            "description": "Explorez notre base de connaissances collaborative sur l'histoire de la télévision."
+        },
+        "discord": {
+            "title": "Discord",
+            "description": "Rejoignez notre communauté Discord pour discuter et partager vos souvenirs."
+        }
+    },
+    "carousel": {
+        "watch": "Regarder"
+    },
+    "cookies": {
+        "description": "Nous utilisons une instance auto-hébergée de Matomo Analytics pour améliorer votre expérience. Ces données sont hébergées en France et ne sont jamais partagées avec des tiers. Elles seront utilisées uniquement à des fins de statistiques et d'amélioration de la plateforme.",
+        "learnMore": "En savoir plus",
+        "accept": "Accepter",
+        "refuse": "Refuser",
+        "close": "Fermer le bandeau de cookies"
+    },
+    "filters": {
+        "advanced": "Filtres avancés",
+        "applied": "Filtres appliqués :",
+        "clear": "Effacer les filtres",
+        "results": "Résultats de recherche",
+        "allArchives": "Toutes les archives"
+    },
+    "auth": {
+        "login": "Connexion",
+        "logout": "Déconnexion",
+        "welcome": "Bienvenue sur +2Télé",
+        "description": "Connectez-vous ou créez un compte pour participer à la communauté.",
+        "loginOrRegister": "Se connecter / S'inscrire",
+        "termsNotice": "En continuant, vous acceptez nos",
+        "terms": "Conditions Générales d'Utilisation",
+        "and": "et",
+        "privacy": "Politique de Confidentialité"
+    },
+    "profile": {
+        "title": "Mon profil",
+        "description": "Gérez votre profil et vos paramètres",
+        "settings": "Paramètres",
+        "badges": {
+            "staff": "Staff",
+            "vip": "VIP",
+            "archivist": "Archiviste",
+            "verified": "Certifié"
+        },
+        "memberSince": "Membre depuis le {{date}}",
+        "logout": "Se déconnecter",
+        "deleteAccount": "Supprimer mon compte",
+        "deleteConfirm": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible.",
+        "archives": "Archives",
+        "info": "Informations",
+        "yourArchives": "Vos archives",
+        "userArchives": "Archives de {{username}}",
+        "archivesCount": "{{count}} archives au total",
+        "noArchives": "Aucune archive publiée pour le moment",
+        "publicDescription": "Profil de {{username}} sur +2Télé",
+        "form": {
+            "motto": "Citation personnelle",
+            "mottoPlaceholder": "Partagez une citation qui vous représente...",
+            "pronouns": "Pronoms",
+            "pronounsPlaceholder": "Ex: Il/Lui, Elle/Elle",
+            "pronounsHelp": "Format: Pronom/Pronom (ex: Il/Lui)",
+            "pronounsInvalidFormat": "Format invalide. Utilisez le format Pronom/Pronom (ex: Il/Lui).",
+            "mottoTooLong": "La citation ne peut pas dépasser 100 caractères.",
+            "pronounsTooLong": "Les pronoms ne peuvent pas dépasser 50 caractères.",
+            "success": "Profil mis à jour avec succès.",
+            "characters": "caractères",
+            "optional": "optionnel",
+            "discordNotifications": "Notifications Discord",
+            "discordNotificationsHelp": "Recevoir des messages privés pour les notifications importantes."
+        }
+    },
+    "settings": {
+        "title": "Paramètres",
+        "description": "Gérez vos paramètres de compte",
+        "profile": {
+            "title": "Profil",
+            "viewPublic": "Voir mon profil public"
+        },
+        "account": {
+            "title": "Compte",
+            "logout": "Déconnexion",
+            "logoutDescription": "Se déconnecter de votre compte",
+            "delete": "Supprimer le compte",
+            "deleteDescription": "Supprimer définitivement votre compte",
+            "deleteConfirmTitle": "Supprimer le compte ?",
+            "deleteConfirmDescription": "Cette action est irréversible. Toutes vos données seront supprimées.",
+            "deleteConfirm": "Oui, supprimer mon compte"
+        }
+    },
+    "archivist": {
+        "title": "Espace Archiviste",
+        "description": "Gérez et ajoutez des archives",
+        "become": "Devenir archiviste",
+        "nav": {
+            "stats": "Statistiques",
+            "upload": "Ajouter une archive"
+        },
+        "stats": {
+            "archives": "Archives",
+            "channels": "Chaînes",
+            "views": "Vues totales"
+        },
+        "upload": {
+            "title": "Titre",
+            "description": "Description (Markdown supporté)",
+            "category": "Type d'archive",
+            "selectCategory": "Choisir un type",
+            "channel": "Chaîne",
+            "selectChannel": "Choisir une chaîne",
+            "copyright": "Copyright",
+            "year": "Année",
+            "broadcastDate": "Date de diffusion",
+            "music": "Musique",
+            "musicTitle": "Titre de la musique",
+            "missingFields": "Veuillez remplir tous les champs obligatoires (Type d'archive et Chaîne) pour tous les fichiers.",
+            "musicUrl": "URL de la musique",
+            "resolution": "Résolution",
+            "video": "Vidéo",
+            "videoHelp": "Fichiers MP4 uniquement. Résolution à respecter.",
+            "submit": "Ajouter l'archive",
+            "uploading": "Envoi en cours...",
+            "uploadingTitle": "Envoi en cours",
+            "uploadingDescription": "Veuillez patienter pendant l'envoi de votre archive...",
+            "error": "Erreur lors de l'envoi de l'archive"
+        }
+    },
+    "community": {
+        "title": "Charte de la communauté",
+        "description": "Règles et lignes directrices pour une communauté respectueuse",
+        "intro": "Pour maintenir un environnement accueillant et constructif, nous avons établi des règles que tous les membres doivent respecter lors de leurs interactions sur +2Télé.",
+        "rules": {
+            "title": "Règles de la communauté",
+            "respect": {
+                "title": "Respect mutuel",
+                "description": "Traitez les autres avec respect. Les insultes, le harcèlement, les propos discriminatoires ou offensants ne sont pas tolérés."
+            },
+            "ontopic": {
+                "title": "Pertinence des commentaires",
+                "description": "Les commentaires doivent être en rapport avec l'archive ou la discussion en cours. Évitez le hors-sujet."
+            },
+            "spam": {
+                "title": "Pas de spam",
+                "description": "Les messages répétitifs, la publicité non sollicitée et les liens malveillants sont interdits."
+            }
+        },
+        "moderation": {
+            "title": "Modération",
+            "description": "Notre équipe de modération veille au respect de ces règles pour maintenir un environnement sain.",
+            "warning": "Les commentaires ne respectant pas ces règles seront supprimés sans préavis."
+        },
+        "sanctions": {
+            "title": "Sanctions",
+            "description": "En cas de non-respect des règles, des sanctions peuvent être appliquées :",
+            "warning": "Avertissement",
+            "temporary": "Suspension temporaire",
+            "permanent": "Bannissement définitif"
+        }
     }
-  },
-  "community": {
-    "title": "Charte de la communauté",
-    "description": "Règles et lignes directrices pour une communauté respectueuse",
-    "intro": "Pour maintenir un environnement accueillant et constructif, nous avons établi des règles que tous les membres doivent respecter lors de leurs interactions sur +2Télé.",
-    "rules": {
-      "title": "Règles de la communauté",
-      "respect": {
-        "title": "Respect mutuel",
-        "description": "Traitez les autres avec respect. Les insultes, le harcèlement, les propos discriminatoires ou offensants ne sont pas tolérés."
-      },
-      "ontopic": {
-        "title": "Pertinence des commentaires",
-        "description": "Les commentaires doivent être en rapport avec l'archive ou la discussion en cours. Évitez le hors-sujet."
-      },
-      "spam": {
-        "title": "Pas de spam",
-        "description": "Les messages répétitifs, la publicité non sollicitée et les liens malveillants sont interdits."
-      }
-    },
-    "moderation": {
-      "title": "Modération",
-      "description": "Notre équipe de modération veille au respect de ces règles pour maintenir un environnement sain.",
-      "warning": "Les commentaires ne respectant pas ces règles seront supprimés sans préavis."
-    },
-    "sanctions": {
-      "title": "Sanctions",
-      "description": "En cas de non-respect des règles, des sanctions peuvent être appliquées :",
-      "warning": "Avertissement",
-      "temporary": "Suspension temporaire",
-      "permanent": "Bannissement définitif"
-    }
-  }
 }
