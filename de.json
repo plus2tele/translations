@@ -1,300 +1,300 @@
 {
-  "common": {
-    "loading": "Laden...",
-    "error": "Ein Fehler ist aufgetreten",
-    "notFound": "Seite nicht gefunden",
-    "back": "Zurück",
-    "seeMore": "Mehr sehen",
-    "cancel": "Abbrechen",
-    "submit": "Senden",
-    "search": "Suchen",
-    "noResults": "Keine Ergebnisse gefunden",
-    "close": "Schließen",
-    "save": "Speichern",
-    "saving": "Speichere..."
-  },
-  "nav": {
-    "home": "Startseite",
-    "archives": "Archiv",
-    "channels": "Kanäle",
-    "collections": "Sammlungen",
-    "changelog": "Änderungsprotokoll",
-    "legal": "Rechtliche Informationen",
-    "zapping": "Zapping TV",
-    "credits": "Kredite"
-  },
-  "home": {
-    "description": "Entdecken Sie die Schätze des Fernsehens",
-    "exploreCollection": "Entdecken Sie unsere Sammlung von {{stats}} Fernseharchiven",
-    "search": {
-      "placeholder": "Suchen im Archiv...",
-      "filters": {
-        "channel": "Alle Kanäle",
-        "type": "Alle Typen",
-        "year": "Alle Jahre"
-      }
+    "common": {
+        "loading": "Laden...",
+        "error": "Ein Fehler ist aufgetreten",
+        "notFound": "Seite nicht gefunden",
+        "back": "Zurück",
+        "seeMore": "Mehr sehen",
+        "cancel": "Abbrechen",
+        "submit": "Senden",
+        "search": "Suchen",
+        "noResults": "Keine Ergebnisse gefunden",
+        "close": "Schließen",
+        "save": "Speichern",
+        "saving": "Speichere..."
     },
-    "recentTitle": "Neueste Ergänzungen",
-    "featuredTitle": "Höhepunkte",
-    "slogan": "Entdecken Sie die Schätze des Fernsehens neu",
-    "explore": "Archiv durchsuchen",
-    "seechannels": "Kanäle anzeigen",
-    "zap": "Fernsehen zappen",
-    "discordTitle": "Trete unserer Discord-Community bei",
-    "discordText": "Teilen Sie Ihre Erinnerungen, tauschen Sie sich mit anderen TV-Begeisterten aus und bleiben Sie über die neuesten Archivzugänge informiert!",
-    "discordJoin": "Dem Server beitreten",
-    "popularTitle": "Beliebte Archive",
-    "popularCategories": "Beliebte Kategorien",
-    "seeall": "Alles anzeigen",
-    "seeall2": "Alle anzeigen",
-    "infiguresTitle": "+2Télé in Zahlen",
-    "infiguresDescription": "Unsere Sammlung wächst täglich",
-    "infiguresArchives": "Verfügbare Archive",
-    "infiguresChannels": "Fernsehsender",
-    "infiguresViews": "Gesamtansichten",
-    "featuredCollections": "Empfohlene Kollektionen",
-    "noFeaturedCollections": "Derzeit keine Kollektion hervorgehoben",
-    "archivistProgramTitle": "Werden Sie Teil der +2Télé-Community",
-    "archivistProgramDescription": "Nehmen Sie an unserem Archivierungsprogramm teil und helfen Sie dabei, die Schätze des Fernsehens zu bewahren und zu teilen.",
-    "archivistProgramButton1": "Archivist werden",
-    "archivistProgramButton2": "Siehe Charta"
-  },
-  "archives": {
-    "title": "Archiv",
-    "description": "Erkunden Sie unsere Fernseharchivsammlung",
-    "loadMore": "Mehr Archivinhalte laden",
-    "noArchives": "Keine Archivinhalte verfügbar",
-    "noResults": "Keine Archivinhalte für diese Kriterien gefunden"
-  },
-  "channels": {
-    "title": "Fernsehkanäle",
-    "description": "Entdecken Sie alle verfügbaren Kanäle"
-  },
-  "collections": {
-    "title": "Sammlungen",
-    "description": "Entdecken Sie unsere thematischen Archivsammlungen",
-    "noCollections": "Keine Sammlungen verfügbar",
-    "createdAt": "Erstellt am {{date}}"
-  },
-  "player": {
-    "channel": "Kanal",
-    "type": "Typ",
-    "year": "Jahr",
-    "similar": "Ähnliche Archivinhalte",
-    "recent": "Neueste Hinzufügungen",
-    "views": "{{count}} Aufrufe",
-    "broadcastDate": "Ausgestrahlt am {{date}}",
-    "unknownDate": "Unbekanntes Ausstrahlungsdatum",
-    "postedBy": "Veröffentlicht von {{username}}",
-    "noSimilarArchives": "Keine ähnlichen Archivinhalte gefunden",
-    "noRecentArchives": "Keine neuesten Hinzufügungen verfügbar",
-    "credits": {
-      "title": "Urheberrechte und Credits",
-      "copyright": "Urheberrechte"
-    },
-    "music": {
-      "title": "Musik",
-      "listen": "Hören",
-      "externalLink": {
-        "title": "Externer Link",
-        "description": "Sie werden zu einer externen Website weitergeleitet, um \"{{title}}\" zu hören. Möchten Sie fortfahren?",
-        "continue": "Fortfahren"
-      }
-    }
-  },
-  "zapping": {
-    "title": "Zapping TV",
-    "description": "Entdecken Sie die Fernseharchivinhalte auf zufällige Weise",
-    "noSignal": "KEIN SIGNAL",
-    "currentlyPlaying": "Aktuell ausgestrahlt",
-    "viewHistory": "Anzeige-Verlauf",
-    "viewPage": "Seite anzeigen",
-    "skip": "Zum nächsten Archivinhalt",
-    "explore": "Erkunden Sie die Fernseharchivinhalte auf zufällige Weise. Wie ein echtes Zapping!"
-  },
-  "comments": {
-    "title": "Kommentare",
-    "noComments": "Seien Sie der Erste, der einen Kommentar hinterlässt",
-    "form": {
-      "placeholder": "Kommentar hinzufügen...",
-      "replyPlaceholder": "Antwort hinzufügen...",
-      "username": "Ihr Name",
-      "submit": "Kommentieren"
-    },
-    "guidelines": {
-      "notice": "Ihre Kommentare müssen unsere Gemeinschaftsregeln beachten.",
-      "link": "Gemeinschaftsregeln anzeigen"
-    },
-    "edit": "Bearbeiten",
-    "delete": "Löschen",
-    "reply": "Antworten",
-    "replyingTo": "Antwort an @{{username}}",
-    "deleteTitle": "Kommentar löschen",
-    "deleteDescription": "Diese Aktion ist irreversibel. Der Kommentar wird endgültig gelöscht.",
-    "confirmDelete": "Ja, löschen",
-    "deleting": "Löschen..."
-  },
-  "footer": {
-    "description": "Entdecken Sie die Schätze des Fernsehens durch unsere Archivsammlung.",
-    "navigation": "Navigation",
-    "followUs": "Folgen Sie uns",
-    "copyright": "© 2022-{{year}} +2Télé. Alle Rechte vorbehalten.",
-    "developedBy": "Entwickelt von"
-  },
-  "services": {
-    "wiki": {
-      "title": "+2Wiki",
-      "description": "Erkunden Sie unsere gemeinsame Wissensdatenbank über die Geschichte des französischen Fernsehens."
-    },
-    "mastodon": {
-      "title": "Mastodon",
-      "description": "Folgen Sie unseren Aktualisierungen und interagieren Sie mit der Gemeinschaft auf unserer Mastodon-Instanz."
-    },
-    "discord": {
-      "title": "Discord",
-      "description": "Treten Sie unserer Discord-Gemeinschaft bei, um zu diskutieren und Ihre Erinnerungen zu teilen."
-    }
-  },
-  "carousel": {
-    "watch": "Ansehen"
-  },
-  "cookies": {
-    "description": "Wir verwenden eine selbstgehostete Matomo-Analytics-Instanz, um Ihre Erfahrung zu verbessern. Diese Daten werden in Frankreich gespeichert und nie an Dritte weitergegeben. Sie werden nur für statistische Zwecke und zur Verbesserung der Plattform verwendet.",
-    "learnMore": "Mehr erfahren",
-    "accept": "Akzeptieren",
-    "refuse": "Ablehnen",
-    "close": "Cookie-Banner schließen"
-  },
-  "auth": {
-    "login": "Anmelden",
-    "logout": "Abmelden",
-    "welcome": "Willkommen bei +2Télé",
-    "description": "Melden Sie sich an oder erstellen Sie ein Konto, um an der Gemeinschaft teilzunehmen.",
-    "loginOrRegister": "Anmelden / Registrieren",
-    "termsNotice": "Indem Sie fortfahren, akzeptieren Sie unsere",
-    "terms": "Nutzungsbedingungen",
-    "and": "und",
-    "privacy": "Datenschutzbestimmungen"
-  },
-  "profile": {
-    "title": "Mein Profil",
-    "description": "Verwalten Sie Ihr Profil und Ihre Einstellungen",
-    "settings": "Einstellungen",
-    "badges": {
-      "staff": "Personal",
-      "vip": "VIP",
-      "archivist": "Archivar",
-      "verified": "Verifiziert"
-    },
-    "memberSince": "Mitglied seit {{date}}",
-    "logout": "Abmelden",
-    "deleteAccount": "Konto löschen",
-    "deleteConfirm": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten? Diese Aktion ist irreversibel.",
-    "archives": "Archive",
-    "info": "Informationen",
-    "yourArchives": "Ihre Archive",
-    "userArchives": "Archive von {{username}}",
-    "archivesCount": "{{count}} Archive insgesamt",
-    "noArchives": "Noch keine veröffentlichten Archive",
-    "publicDescription": "Profil von {{username}} auf +2Télé",
-    "form": {
-      "motto": "Persönliches Zitat",
-      "mottoPlaceholder": "Teilen Sie ein Zitat, das Sie beschreibt...",
-      "pronouns": "Pronomen",
-      "pronounsPlaceholder": "Beispiel: Er/Ihn, Sie/Ihr",
-      "pronounsHelp": "Format: Pronomen/Pronomen (z. B. Er/Ihn)",
-      "pronounsInvalidFormat": "Ungültiges Format. Verwenden Sie das Format Pronomen/Pronomen (z. B. Er/Ihn).",
-      "mottoTooLong": "Das Zitat darf 100 Zeichen nicht überschreiten.",
-      "pronounsTooLong": "Die Pronomen dürfen 50 Zeichen nicht überschreiten.",
-      "success": "Profil erfolgreich aktualisiert.",
-      "characters": "Zeichen",
-      "optional": "optional"
-    }
-  },
-  "settings": {
-    "title": "Einstellungen",
-    "description": "Verwalten Sie Ihre Kontoeinstellungen",
-    "profile": {
-      "title": "Profil",
-      "viewPublic": "Mein öffentliches Profil anzeigen"
-    },
-    "account": {
-      "title": "Konto",
-      "logout": "Abmelden",
-      "logoutDescription": "Abmelden von Ihrem Konto",
-      "delete": "Konto löschen",
-      "deleteDescription": "Konto endgültig löschen",
-      "deleteConfirmTitle": "Konto löschen",
-      "deleteConfirmDescription": "Diese Aktion ist irreversibel. Alle Ihre Daten werden gelöscht.",
-      "deleteConfirm": "Ja, Konto löschen"
-    }
-  },
-  "archivist": {
-    "title": "Archivar-Bereich",
-    "description": "Verwalten und hinzufügen von Archivinhalten",
-    "become": "Archivar werden",
     "nav": {
-      "stats": "Statistiken",
-      "upload": "Archivinhalt hinzufügen"
+        "home": "Startseite",
+        "archives": "Archiv",
+        "channels": "Kanäle",
+        "collections": "Sammlungen",
+        "changelog": "Änderungsprotokoll",
+        "legal": "Rechtliche Informationen",
+        "zapping": "Zapping TV",
+        "credits": "Kredite"
     },
-    "stats": {
-      "archives": "Archivinhalte",
-      "channels": "Kanäle",
-      "views": "Gesamtaufrufe"
+    "home": {
+        "description": "Entdecken Sie die Schätze des Fernsehens",
+        "exploreCollection": "Entdecken Sie unsere Sammlung von {{stats}} Fernseharchiven",
+        "search": {
+            "placeholder": "Suchen im Archiv...",
+            "filters": {
+                "channel": "Alle Kanäle",
+                "type": "Alle Typen",
+                "year": "Alle Jahre"
+            }
+        },
+        "recentTitle": "Neueste Ergänzungen",
+        "featuredTitle": "Höhepunkte",
+        "slogan": "Entdecken Sie die Schätze des Fernsehens neu",
+        "explore": "Archiv durchsuchen",
+        "seechannels": "Kanäle anzeigen",
+        "zap": "Fernsehen zappen",
+        "discordTitle": "Trete unserer Discord-Community bei",
+        "discordText": "Teilen Sie Ihre Erinnerungen, tauschen Sie sich mit anderen TV-Begeisterten aus und bleiben Sie über die neuesten Archivzugänge informiert!",
+        "discordJoin": "Dem Server beitreten",
+        "popularTitle": "Beliebte Archive",
+        "popularCategories": "Beliebte Kategorien",
+        "seeall": "Alles anzeigen",
+        "seeall2": "Alle anzeigen",
+        "infiguresTitle": "+2Télé in Zahlen",
+        "infiguresDescription": "Unsere Sammlung wächst täglich",
+        "infiguresArchives": "Verfügbare Archive",
+        "infiguresChannels": "Fernsehsender",
+        "infiguresViews": "Gesamtansichten",
+        "featuredCollections": "Empfohlene Kollektionen",
+        "noFeaturedCollections": "Derzeit keine Kollektion hervorgehoben",
+        "archivistProgramTitle": "Werden Sie Teil der +2Télé-Community",
+        "archivistProgramDescription": "Nehmen Sie an unserem Archivierungsprogramm teil und helfen Sie dabei, die Schätze des Fernsehens zu bewahren und zu teilen.",
+        "archivistProgramButton1": "Archivist werden",
+        "archivistProgramButton2": "Siehe Charta"
     },
-    "upload": {
-      "title": "Titel",
-      "description": "Beschreibung (Markdown unterstützt)",
-      "category": "Archivinhalt-Typ",
-      "selectCategory": "Typ auswählen",
-      "channel": "Kanal",
-      "selectChannel": "Kanal auswählen",
-      "copyright": "Urheberrechte",
-      "year": "Jahr",
-      "broadcastDate": "Ausstrahlungsdatum",
-      "music": "Musik",
-      "musicTitle": "Musiktitel",
-      "musicUrl": "Musik-URL",
-      "resolution": "Auflösung",
-      "video": "Video",
-      "videoHelp": "Nur MP4-Dateien. Auflösung beachten.",
-      "submit": "Archivinhalt hinzufügen",
-      "uploading": "Hochladen...",
-      "uploadingTitle": "Hochladen",
-      "uploadingDescription": "Bitte warten Sie, während Ihr Archivinhalt hochgeladen wird...",
-      "error": "Fehler beim Hochladen des Archivinhalts"
+    "archives": {
+        "title": "Archiv",
+        "description": "Erkunden Sie unsere Fernseharchivsammlung",
+        "loadMore": "Mehr Archivinhalte laden",
+        "noArchives": "Keine Archivinhalte verfügbar",
+        "noResults": "Keine Archivinhalte für diese Kriterien gefunden"
+    },
+    "channels": {
+        "title": "Fernsehkanäle",
+        "description": "Entdecken Sie alle verfügbaren Kanäle"
+    },
+    "collections": {
+        "title": "Sammlungen",
+        "description": "Entdecken Sie unsere thematischen Archivsammlungen",
+        "noCollections": "Keine Sammlungen verfügbar",
+        "createdAt": "Erstellt am {{date}}"
+    },
+    "player": {
+        "channel": "Kanal",
+        "type": "Typ",
+        "year": "Jahr",
+        "similar": "Ähnliche Archivinhalte",
+        "recent": "Neueste Hinzufügungen",
+        "views": "{{count}} Aufrufe",
+        "broadcastDate": "Ausgestrahlt am {{date}}",
+        "unknownDate": "Unbekanntes Ausstrahlungsdatum",
+        "postedBy": "Veröffentlicht von {{username}}",
+        "noSimilarArchives": "Keine ähnlichen Archivinhalte gefunden",
+        "noRecentArchives": "Keine neuesten Hinzufügungen verfügbar",
+        "credits": {
+            "title": "Urheberrechte und Credits",
+            "copyright": "Urheberrechte"
+        },
+        "music": {
+            "title": "Musik",
+            "listen": "Hören",
+            "externalLink": {
+                "title": "Externer Link",
+                "description": "Sie werden zu einer externen Website weitergeleitet, um \"{{title}}\" zu hören. Möchten Sie fortfahren?",
+                "continue": "Fortfahren"
+            }
+        }
+    },
+    "zapping": {
+        "title": "Zapping TV",
+        "description": "Entdecken Sie die Fernseharchivinhalte auf zufällige Weise",
+        "noSignal": "KEIN SIGNAL",
+        "currentlyPlaying": "Aktuell ausgestrahlt",
+        "viewHistory": "Anzeige-Verlauf",
+        "viewPage": "Seite anzeigen",
+        "skip": "Zum nächsten Archivinhalt",
+        "explore": "Erkunden Sie die Fernseharchivinhalte auf zufällige Weise. Wie ein echtes Zapping!"
+    },
+    "comments": {
+        "title": "Kommentare",
+        "noComments": "Seien Sie der Erste, der einen Kommentar hinterlässt",
+        "form": {
+            "placeholder": "Kommentar hinzufügen...",
+            "replyPlaceholder": "Antwort hinzufügen...",
+            "username": "Ihr Name",
+            "submit": "Kommentieren"
+        },
+        "guidelines": {
+            "notice": "Ihre Kommentare müssen unsere Gemeinschaftsregeln beachten.",
+            "link": "Gemeinschaftsregeln anzeigen"
+        },
+        "edit": "Bearbeiten",
+        "delete": "Löschen",
+        "reply": "Antworten",
+        "replyingTo": "Antwort an @{{username}}",
+        "deleteTitle": "Kommentar löschen",
+        "deleteDescription": "Diese Aktion ist irreversibel. Der Kommentar wird endgültig gelöscht.",
+        "confirmDelete": "Ja, löschen",
+        "deleting": "Löschen..."
+    },
+    "footer": {
+        "description": "Entdecken Sie die Schätze des Fernsehens durch unsere Archivsammlung.",
+        "navigation": "Navigation",
+        "followUs": "Folgen Sie uns",
+        "copyright": "© 2022-{{year}} +2Télé. Alle Rechte vorbehalten.",
+        "developedBy": "Entwickelt von"
+    },
+    "services": {
+        "wiki": {
+            "title": "+2Wiki",
+            "description": "Erkunden Sie unsere gemeinsame Wissensdatenbank über die Geschichte des französischen Fernsehens."
+        },
+        "mastodon": {
+            "title": "Mastodon",
+            "description": "Folgen Sie unseren Aktualisierungen und interagieren Sie mit der Gemeinschaft auf unserer Mastodon-Instanz."
+        },
+        "discord": {
+            "title": "Discord",
+            "description": "Treten Sie unserer Discord-Gemeinschaft bei, um zu diskutieren und Ihre Erinnerungen zu teilen."
+        }
+    },
+    "carousel": {
+        "watch": "Ansehen"
+    },
+    "cookies": {
+        "description": "Wir verwenden eine selbstgehostete Matomo-Analytics-Instanz, um Ihre Erfahrung zu verbessern. Diese Daten werden in Frankreich gespeichert und nie an Dritte weitergegeben. Sie werden nur für statistische Zwecke und zur Verbesserung der Plattform verwendet.",
+        "learnMore": "Mehr erfahren",
+        "accept": "Akzeptieren",
+        "refuse": "Ablehnen",
+        "close": "Cookie-Banner schließen"
+    },
+    "auth": {
+        "login": "Anmelden",
+        "logout": "Abmelden",
+        "welcome": "Willkommen bei +2Télé",
+        "description": "Melden Sie sich an oder erstellen Sie ein Konto, um an der Gemeinschaft teilzunehmen.",
+        "loginOrRegister": "Anmelden / Registrieren",
+        "termsNotice": "Indem Sie fortfahren, akzeptieren Sie unsere",
+        "terms": "Nutzungsbedingungen",
+        "and": "und",
+        "privacy": "Datenschutzbestimmungen"
+    },
+    "profile": {
+        "title": "Mein Profil",
+        "description": "Verwalten Sie Ihr Profil und Ihre Einstellungen",
+        "settings": "Einstellungen",
+        "badges": {
+            "staff": "Personal",
+            "vip": "VIP",
+            "archivist": "Archivar",
+            "verified": "Verifiziert"
+        },
+        "memberSince": "Mitglied seit {{date}}",
+        "logout": "Abmelden",
+        "deleteAccount": "Konto löschen",
+        "deleteConfirm": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten? Diese Aktion ist irreversibel.",
+        "archives": "Archive",
+        "info": "Informationen",
+        "yourArchives": "Ihre Archive",
+        "userArchives": "Archive von {{username}}",
+        "archivesCount": "{{count}} Archive insgesamt",
+        "noArchives": "Noch keine veröffentlichten Archive",
+        "publicDescription": "Profil von {{username}} auf +2Télé",
+        "form": {
+            "motto": "Persönliches Zitat",
+            "mottoPlaceholder": "Teilen Sie ein Zitat, das Sie beschreibt...",
+            "pronouns": "Pronomen",
+            "pronounsPlaceholder": "Beispiel: Er/Ihn, Sie/Ihr",
+            "pronounsHelp": "Format: Pronomen/Pronomen (z. B. Er/Ihn)",
+            "pronounsInvalidFormat": "Ungültiges Format. Verwenden Sie das Format Pronomen/Pronomen (z. B. Er/Ihn).",
+            "mottoTooLong": "Das Zitat darf 100 Zeichen nicht überschreiten.",
+            "pronounsTooLong": "Die Pronomen dürfen 50 Zeichen nicht überschreiten.",
+            "success": "Profil erfolgreich aktualisiert.",
+            "characters": "Zeichen",
+            "optional": "optional"
+        }
+    },
+    "settings": {
+        "title": "Einstellungen",
+        "description": "Verwalten Sie Ihre Kontoeinstellungen",
+        "profile": {
+            "title": "Profil",
+            "viewPublic": "Mein öffentliches Profil anzeigen"
+        },
+        "account": {
+            "title": "Konto",
+            "logout": "Abmelden",
+            "logoutDescription": "Abmelden von Ihrem Konto",
+            "delete": "Konto löschen",
+            "deleteDescription": "Konto endgültig löschen",
+            "deleteConfirmTitle": "Konto löschen",
+            "deleteConfirmDescription": "Diese Aktion ist irreversibel. Alle Ihre Daten werden gelöscht.",
+            "deleteConfirm": "Ja, Konto löschen"
+        }
+    },
+    "archivist": {
+        "title": "Archivar-Bereich",
+        "description": "Verwalten und hinzufügen von Archivinhalten",
+        "become": "Archivar werden",
+        "nav": {
+            "stats": "Statistiken",
+            "upload": "Archivinhalt hinzufügen"
+        },
+        "stats": {
+            "archives": "Archivinhalte",
+            "channels": "Kanäle",
+            "views": "Gesamtaufrufe"
+        },
+        "upload": {
+            "title": "Titel",
+            "description": "Beschreibung (Markdown unterstützt)",
+            "category": "Archivinhalt-Typ",
+            "selectCategory": "Typ auswählen",
+            "channel": "Kanal",
+            "selectChannel": "Kanal auswählen",
+            "copyright": "Urheberrechte",
+            "year": "Jahr",
+            "broadcastDate": "Ausstrahlungsdatum",
+            "music": "Musik",
+            "musicTitle": "Musiktitel",
+            "musicUrl": "Musik-URL",
+            "resolution": "Auflösung",
+            "video": "Video",
+            "videoHelp": "Nur MP4-Dateien. Auflösung beachten.",
+            "submit": "Archivinhalt hinzufügen",
+            "uploading": "Hochladen...",
+            "uploadingTitle": "Hochladen",
+            "uploadingDescription": "Bitte warten Sie, während Ihr Archivinhalt hochgeladen wird...",
+            "error": "Fehler beim Hochladen des Archivinhalts"
+        }
+    },
+    "community": {
+        "title": "Gemeinschaftsregeln",
+        "description": "Regeln und Richtlinien für eine respektvolle Gemeinschaft",
+        "intro": "Um ein einladendes und konstruktives Umfeld zu erhalten, haben wir Regeln festgelegt, die alle Mitglieder bei ihren Interaktionen auf +2Télé beachten müssen.",
+        "rules": {
+            "title": "Gemeinschaftsregeln",
+            "respect": {
+                "title": "Gegenseitiger Respekt",
+                "description": "Behandeln Sie andere mit Respekt. Beleidigungen, Belästigung, diskriminierende oder beleidigende Kommentare sind nicht toleriert."
+            },
+            "ontopic": {
+                "title": "Kommentar-Relevanz",
+                "description": "Kommentare müssen thematisch relevant sein. Vermeiden Sie Themen, die nicht zum aktuellen Thema gehören."
+            },
+            "spam": {
+                "title": "Kein Spam",
+                "description": "Wiederholte Nachrichten, unerwünschte Werbung und schädliche Links sind verboten."
+            }
+        },
+        "moderation": {
+            "title": "Moderation",
+            "description": "Unser Moderationsteam achtet darauf, dass diese Regeln eingehalten werden, um ein gesundes Umfeld zu erhalten.",
+            "warning": "Kommentare, die diese Regeln nicht beachten, werden ohne Vorwarnung gelöscht."
+        },
+        "sanctions": {
+            "title": "Sanktionen",
+            "description": "Im Falle einer Nichteinhaltung der Regeln können Sanktionen verhängt werden:",
+            "warning": "Verwarnung",
+            "temporary": "Vorübergehende Sperre",
+            "permanent": "Permanente Sperre"
+        }
     }
-  },
-  "community": {
-    "title": "Gemeinschaftsregeln",
-    "description": "Regeln und Richtlinien für eine respektvolle Gemeinschaft",
-    "intro": "Um ein einladendes und konstruktives Umfeld zu erhalten, haben wir Regeln festgelegt, die alle Mitglieder bei ihren Interaktionen auf +2Télé beachten müssen.",
-    "rules": {
-      "title": "Gemeinschaftsregeln",
-      "respect": {
-        "title": "Gegenseitiger Respekt",
-        "description": "Behandeln Sie andere mit Respekt. Beleidigungen, Belästigung, diskriminierende oder beleidigende Kommentare sind nicht toleriert."
-      },
-      "ontopic": {
-        "title": "Kommentar-Relevanz",
-        "description": "Kommentare müssen thematisch relevant sein. Vermeiden Sie Themen, die nicht zum aktuellen Thema gehören."
-      },
-      "spam": {
-        "title": "Kein Spam",
-        "description": "Wiederholte Nachrichten, unerwünschte Werbung und schädliche Links sind verboten."
-      }
-    },
-    "moderation": {
-      "title": "Moderation",
-      "description": "Unser Moderationsteam achtet darauf, dass diese Regeln eingehalten werden, um ein gesundes Umfeld zu erhalten.",
-      "warning": "Kommentare, die diese Regeln nicht beachten, werden ohne Vorwarnung gelöscht."
-    },
-    "sanctions": {
-      "title": "Sanktionen",
-      "description": "Im Falle einer Nichteinhaltung der Regeln können Sanktionen verhängt werden:",
-      "warning": "Verwarnung",
-      "temporary": "Vorübergehende Sperre",
-      "permanent": "Permanente Sperre"
-    }
-  }
 }
