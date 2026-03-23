@@ -91,6 +91,62 @@
             "defunct": "Martwy"
         },
         "seeLess": "Zobacz mniej",
-        "readMore": "Przeczytaj więcej"
+        "readMore": "Przeczytaj więcej",
+        "resultsCount_one": "{{count}} archiwów",
+        "resultsCount_other": "{{count}} w archiwum",
+        "filters": {
+            "sortBy": "Sortuj według",
+            "year": "Rok",
+            "type": "Rodzaj"
+        },
+        "emptyState": "Nie znaleziono żadnych archiwów dla tego kanału za pomocą tych filtrów. Zmień filtry i spróbuj ponownie.",
+        "pageInfo_one": "Strona {{current}} z {{total}} · {{count}} w archiwum",
+        "pageInfo_other": "Strona {{current}} z {{total}} wszystkich · {{count}} w archiwum"
+    },
+    "collections": {
+        "title": "Kolekcje",
+        "description": "Odkrywaj nasze tematyczne archiwalne kolekcje",
+        "noCollections": "Brak kolekcji",
+        "createdAt": "Utworzono {{date}}",
+        "all": "Wszystkie kolekcje",
+        "searchPlaceholder": "Szukaj w kolekcjach...",
+        "searchResults": "Znaleziono {{count}} kolekcji dla zapytania „{{query}}”",
+        "noSearchResults": "Nie znaleziono żadnych kolekcji"
+    },
+    "player": {
+        "collection": "Kolekcja",
+        "previousVideo": "Poprzednie wideo",
+        "nextVideo": "Następne wideo",
+        "autoplay": "Automatyczne odtwarzanie",
+        "noCollectionArchives": "Brak archiwów w tej kolekcji",
+        "channel": "Kanał",
+        "type": "Rodzaj",
+        "year": "Rok",
+        "similar": "Podobne",
+        "recent": "Opublikowane niedawno",
+        "quickActions": "Szybkie skróty",
+        "views": "{{count}} wyświetleń",
+        "broadcastDate": "Wyemitowano {{date}}",
+        "unknownDate": "Nieznana data",
+        "postedBy": "Opublikowane przez {{username}}",
+        "noSimilarArchives": "Brak podobnych archiwów",
+        "noRecentArchives": "Brak opublikowanych niedawno archiwów",
+        "credits": {
+            "title": "Autorzy i prawa autorskie",
+            "copyright": "Prawa autorskie"
+        },
+        "music": {
+            "title": "Muzyka",
+            "listen": "Słuchaj",
+            "externalLink": {
+                "title": "Link zewnętrzny",
+                "description": "Zostaniesz przekierowany na zewnętrzną stronę, aby posłuchać utworu „{{title}}”. Czy chcesz kontynuować?",
+                "continue": "Kontynuuj"
+            }
+        },
+        "private": "Prywatny",
+        "actions": {
+            "quick": "Szybkie akcje"
+        }
     }
 }
