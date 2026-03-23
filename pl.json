@@ -417,7 +417,7 @@
                     "description": "Tylko osoby posiadające link (lub Ty) będą mogły obejrzeć film. Nie pojawi się on w wynikach wyszukiwania."
                 },
                 "public": {
-                    "title": "Publiczny",
+                    "title": "Publiczny (Natychmiastowe)",
                     "description": "Każdy może zobaczyć Twój film. Zostanie on opublikowany natychmiast po przetworzeniu."
                 },
                 "scheduled": {
@@ -476,7 +476,7 @@
             },
             "confirmDelete": "Czy na pewno chcesz trwale usunąć to archiwum? Ta czynność jest nieodwracalna.",
             "successDelete": "Archiwum zostało pomyślnie usunięte.",
-            "successTitle": "Zmiana zapisana!",
+            "successTitle": "Zapisano zmiany!",
             "successUpdate": "Archiwum zostało pomyślnie zaktualizowane.",
             "titlePrefix": "Edytuj:",
             "thumbnail": "Miniaturka",
@@ -494,7 +494,7 @@
         }
     },
     "community": {
-        "title": "Karta Społeczności",
+        "title": "Wytyczne dla społeczności",
         "description": "Zasady i wytyczne dla społeczności",
         "intro": "Aby utrzymać przyjazną i konstruktywną atmosferę, ustanowiliśmy zasady, których wszyscy członkowie muszą przestrzegać podczas interakcji na portalu +2Télé.",
         "rules": {
@@ -653,14 +653,17 @@
                 "titlePlaceholder": "Przykład: przeprojektowanie marki TMC",
                 "descriptionPlaceholder": "Opcjonalnie",
                 "save": "Zapisz",
-                "create": "Utwórz"
+                "create": "Utwórz",
+                "title": "Tytuł",
+                "description": "Opis"
             },
             "join": {
                 "title": "Dołącz",
                 "editTitle": "Edytor ma udział",
                 "roleLabel": "Twoja rola / Co nagrywasz",
                 "rolePlaceholder": "Przykład: Nagrywam TF1 o 18:00",
-                "submit": "Zatwierdź"
+                "submit": "Zatwierdź",
+                "cancel": "Anuluj"
             },
             "pagination": {
                 "previous": "Poprzedni",
@@ -671,21 +674,25 @@
                 "prev": "Poprzedni",
                 "next": "Następny >",
                 "days": [
-                    "Poniedziałek",
-                    "Wtorek",
-                    "Środa",
-                    "Czwartek",
-                    "Piątek",
-                    "Sobota",
-                    "Niedziela"
+                    "Pon",
+                    "Wt",
+                    "Śr",
+                    "Czw",
+                    "Pt",
+                    "Sob",
+                    "Niedz"
                 ],
                 "months": [
                     "Styczeń",
                     "Luty",
                     "Marzec",
                     "Kwiecień"
-                ]
-            }
+                ],
+                "today": "Dzisiaj"
+            },
+            "viewList": "Lista",
+            "viewCalendar": "Kalendarz",
+            "dateRange": "Od {{start}} do {{end}}"
         }
     }
 }
