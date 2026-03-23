@@ -26,7 +26,7 @@
         "collections": "Collections",
         "changelog": "Changelog",
         "legal": "Legal",
-        "zapping": "Zapping TV",
+        "zapping": "TV Zapping",
         "community": "Community",
         "credits": "Credits"
     },
@@ -163,7 +163,7 @@
         }
     },
     "zapping": {
-        "title": "Zapping TV",
+        "title": "TV Zapping",
         "description": "Rediscover television archives in a random way",
         "noSignal": "NO SIGNAL",
         "currentlyPlaying": "Currently playing",
