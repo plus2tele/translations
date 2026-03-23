@@ -11,7 +11,7 @@
         "noResults": "Nessun risultato trovato",
         "close": "Chiudi",
         "save": "Salva",
-        "saving": "Salvataggio...",
+        "saving": "Salvataggio…",
         "chooseFile": "Scegli file",
         "explore": "Esplora",
         "view": {
@@ -27,10 +27,11 @@
         "changelog": "Note di rilascio",
         "legal": "Note legali",
         "zapping": "Zapping TV",
-        "credits": "Crediti"
+        "credits": "Crediti",
+        "community": "Comunità"
     },
     "home": {
-        "description": "Riscopri i tesori della televisione. Accedi a migliaia di archivi, programmi cult, sigle e momenti indimenticabili della storia del piccolo schermo.",
+        "description": "Riscopri i tesori della televisione. Accedi a migliaia di archivi, costumi di programmi cult, titoli e momenti indimenticabili della storia del piccolo schermo.",
         "exploreCollection": "Esplora la nostra collezione di {{stats}} archivi televisivi",
         "search": {
             "placeholder": "Cerca negli archivi...",
@@ -91,8 +92,8 @@
         },
         "seeLess": "See less",
         "readMore": "Read more",
-        "resultsCount_one": "{{count}} archive",
-        "resultsCount_other": "{{count}} archives",
+        "resultsCount_one": "{{count}} archivio",
+        "resultsCount_other": "{{count}} archivi",
         "filters": {
             "sortBy": "Sort by",
             "year": "Year",
@@ -230,7 +231,14 @@
         "applied": "Filtri applicati:",
         "clear": "Cancella filtri",
         "results": "Risultati della ricerca",
-        "allArchives": "Tutti gli archivi"
+        "allArchives": "Tutti gli archivi",
+        "sort": {
+            "date": "Più recente",
+            "oldest": "Più tempo",
+            "popular": "Popolarità",
+            "alphabetical": "A-Z",
+            "alphabetical_desc": "Z-A"
+        }
     },
     "auth": {
         "login": "Accedi",
@@ -302,6 +310,10 @@
             "deleteConfirmTitle": "Eliminare l'account?",
             "deleteConfirmDescription": "Questa azione è irreversibile. Tutti i tuoi dati saranno eliminati.",
             "deleteConfirm": "Sì, elimina il mio account"
+        },
+        "notifications": {
+            "title": "Notifiche",
+            "discordTitle": "Preferenze di Discord"
         }
     },
     "archivist": {
@@ -662,6 +674,33 @@
                     "Dicembre"
                 ]
             }
+        }
+    },
+    "community_page": {
+        "title": "La Comunità",
+        "subtitle": "Scopri chi fa vivere +2Télé e i suoi progetti associati.",
+        "description": "Pagina dedicata alla comunità e al team di +2Télé.",
+        "creations": {
+            "title": "Creazioni della comunità",
+            "p2retro": {
+                "title": "+2Retro",
+                "subtitle": "Il podcast che ti fa rivivere i momenti più belli della televisione 📺",
+                "description": "Nel menu: storie che non dimenticherete, giochi e notizie.",
+                "credits": "Prodotto e animato da Manu Lassabe. Relatori: Max (Zeima), Guillaume e Valentin.",
+                "listen": "Ascoltare su :"
+            },
+            "fandetele": {
+                "title": "Fan de Télé, Le Direct",
+                "subtitle": "Il programma che racconta le notizie sulla TV francese",
+                "description": "Scopri tutte le notizie della televisione francese in diretta.",
+                "credits": "Per 60 Hz Productions",
+                "watch": "Guardare su YouTube"
+            }
+        },
+        "team": {
+            "title": "Il team",
+            "staff": "Il Staff",
+            "archivists": "Archivisti"
         }
     }
 }
