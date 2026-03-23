@@ -476,7 +476,29 @@
             },
             "confirmDelete": "Czy na pewno chcesz trwale usunąć to archiwum? Ta czynność jest nieodwracalna.",
             "successDelete": "Archiwum zostało pomyślnie usunięte.",
-            "successTitle": "Zmiana zapisana!"
+            "successTitle": "Zmiana zapisana!",
+            "successUpdate": "Archiwum zostało pomyślnie zaktualizowane.",
+            "titlePrefix": "Edytuj:",
+            "thumbnail": "Miniaturka",
+            "regenerate": "Regeneruj",
+            "current": "Aktualny",
+            "choose": "Wybierz",
+            "replaceMedia": "Zastąp media",
+            "replaceMediaDescription": {
+                "line1": "Możesz zastąpić plik wideo w tym archiwum.",
+                "line2": "Ostrzeżenie: spowoduje to ponowne przetworzenie i regenerację miniatur."
+            },
+            "confirmReplaceMedia": "Czy na pewno chcesz zastąpić wideo? Ta czynność jest nieodwracalna.",
+            "dragDropReplace": "Kliknij lub przeciągnij tutaj film, aby go zastąpić",
+            "delete": "USUŃ"
+        }
+    },
+    "community": {
+        "title": "Karta Społeczności",
+        "description": "Zasady i wytyczne dla społeczności",
+        "intro": "Aby utrzymać przyjazną i konstruktywną atmosferę, ustanowiliśmy zasady, których wszyscy członkowie muszą przestrzegać podczas interakcji na portalu +2Télé.",
+        "rules": {
+            "title": "Zasady społeczności"
         }
     }
 }
