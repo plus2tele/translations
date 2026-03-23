@@ -13,9 +13,11 @@
         "chooseFile": "Wybierz plik",
         "explore": "Odkrywaj",
         "view": {
-            "grid": "Widok",
+            "grid": "Widok siatki",
             "list": "Widok listy"
-        }
+        },
+        "loading": "Ładowanie...",
+        "error": "Wystąpił błąd"
     },
     "nav": {
         "home": "Główna",
@@ -29,12 +31,12 @@
         "credits": "Autor"
     },
     "home": {
-        "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, bumperów, czołówek i wielu innych ujęć z telewizora.",
+        "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, dżingli, czołówek i wielu innych ujęć z telewizora.",
         "exploreCollection": "Odkryj naszą kolekcję {{stats}} archiwów telewizyjnych",
         "search": {
             "placeholder": "Szukaj archiwów...",
             "filters": {
-                "channel": "Wybrane kanały",
+                "channel": "Wszystkie kanały",
                 "type": "Rodzaje archiwów",
                 "year": "Rok archiwów"
             }
@@ -75,7 +77,8 @@
         "description": "Przeglądaj nasze archiwum telewizyjne",
         "loadMore": "Wczytaj więcej archiwów",
         "noResults": "Nie znaleziono wyników",
-        "pageInfo": "Strona {{current}} z {{total}} • Wyświetlanie {{showing}} z {{totalItems}} archiwów"
+        "pageInfo": "Strona {{current}} z {{total}} • Pokazywanie {{showing}} z {{totalItems}} archiwów",
+        "noArchives": "Brak dostępnych archiwów"
     },
     "channels": {
         "title": "Kanały TV",
