@@ -11,7 +11,7 @@
         "noResults": "No results found",
         "close": "Close",
         "save": "Save",
-        "saving": "Saving...",
+        "saving": "Saving…",
         "chooseFile": "Choose file",
         "explore": "Explore",
         "view": {
@@ -31,7 +31,7 @@
         "credits": "Credits"
     },
     "home": {
-        "description": "Rediscover the treasures of television",
+        "description": "Rediscover the treasures of television. Access thousands of archives, iconic show idents, opening sequences, and unforgettable moments from television history.",
         "exploreCollection": "Explore our collection of {{stats}} television archives",
         "search": {
             "placeholder": "Search in archives...",
@@ -134,7 +134,7 @@
         "noRecentArchives": "No recent additions available",
         "credits": {
             "title": "Credits & Rights",
-            "copyright": "Copyright"
+            "copyright": "Rights"
         },
         "music": {
             "title": "Music",
