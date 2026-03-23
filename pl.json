@@ -498,7 +498,186 @@
         "description": "Zasady i wytyczne dla społeczności",
         "intro": "Aby utrzymać przyjazną i konstruktywną atmosferę, ustanowiliśmy zasady, których wszyscy członkowie muszą przestrzegać podczas interakcji na portalu +2Télé.",
         "rules": {
-            "title": "Zasady społeczności"
+            "title": "Zasady społeczności",
+            "respect": {
+                "title": "Wzajemny szacunek",
+                "description": "Traktuj innych z szacunkiem. Obelgi, nękanie, uwagi dyskryminujące lub obraźliwe nie są tolerowane."
+            },
+            "ontopic": {
+                "title": "Istotność komentarzy",
+                "description": "Komentarze muszą odnosić się do archiwum lub bieżącej dyskusji. Unikaj odchodzenia od tematu."
+            },
+            "spam": {
+                "title": "Bez spamu",
+                "description": "Zabronione jest wysyłanie powtarzających się wiadomości, reklam i złośliwych linków."
+            },
+            "avatar": {
+                "title": "Zdjęcia profilowe",
+                "description": "Twoje zdjęcie profilowe nie może zawierać treści obraźliwych, dyskryminujących, brutalnych, o charakterze seksualnym ani treści naruszających nasze wartości. Zabrania się publikowania zdjęć imitujących wybraną osobę lub podszywania się pod nią."
+            }
+        },
+        "moderation": {
+            "title": "Moderatorzy",
+            "description": "Nasz zespół moderatorów czuwa nad przestrzeganiem tych zasad, aby zachować zdrowe środowisko.",
+            "warning": "Komentarze niezgodne z tymi zasadami będą usuwane bez uprzedzenia."
+        },
+        "sanctions": {
+            "title": "Sankcje",
+            "description": "Niedostosowanie się do zasad może skutkować sankcjami:",
+            "warning": "Ostrzeżenie",
+            "temporary": "Tymczasowe zawieszenie",
+            "permanent": "Stały ban"
+        }
+    },
+    "community_page": {
+        "title": "Społeczność +2Télé",
+        "subtitle": "Poznaj ludzi, którzy rozwijają +2Télé i angażują się w społeczności.",
+        "description": "Strona poświęcona społeczności i zespołowi +2Télé.",
+        "creations": {
+            "title": "Twórczość społeczności",
+            "p2retro": {
+                "title": "+2Retro",
+                "subtitle": "Podcast, dzięki któremu możesz poznać najlepsze momenty telewizji 📺",
+                "description": "Odkryjesz: historie, których szybko nie zapomnisz, gry i informacje.",
+                "credits": "Produkcja i prowadzenie: Manu Lassabe. Uczestnicy: Max (Zeima), Guillaume i Valentin.",
+                "listen": "Słuchaj na:"
+            },
+            "fandetele": {
+                "title": "Fan de Télé",
+                "subtitle": "Program, w którym prezentowane są wiadomości z telewizji francuskiej",
+                "description": "Dowiaduj się najnowszych francuskich wiadomości telewizyjnych na żywo.",
+                "credits": "Przez 60 Hz Productions",
+                "watch": "Oglądaj na YouTube"
+            }
+        },
+        "team": {
+            "title": "Zespół",
+            "staff": "Personel",
+            "archivists": "Archiwiści"
+        }
+    },
+    "staff": {
+        "moderation": {
+            "title": "Moderatorzy",
+            "ban": "Banuj na stałe",
+            "banDescription": "Zablokuj cały dostęp do konta",
+            "unban": "Unbanuj",
+            "unbanDescription": "Przywróć pełny dostęp do konta",
+            "suspend": "Tymczasowe zawieszenie",
+            "suspendDescription": "Dostęp zablokowany do określonej daty",
+            "suspendedUntil": "Zawieszone do",
+            "lift": "Podnieś",
+            "apply": "Zastosuj sankcje",
+            "restrictComments": "Wyłącz komentarze",
+            "restrictCommentsDescription": "Użytkownik nie będzie już mógł komentować",
+            "unrestrictComments": "Zezwalaj na komentarze",
+            "unrestrictCommentsDescription": "Odwołaj zakaz komentowania",
+            "banned": "Konto zbanowane",
+            "suspended": "Konto zawieszone",
+            "commentRestricted": "Komentarze ograniczone",
+            "confirmBan": "Czy zablokować tego użytkownika na stałe? Tę czynność można później cofnąć.",
+            "confirmRestrictComments": "Czy zabronić komentowanie temu użytkownikowi?"
+        },
+        "settings": {
+            "title": "Ustawienia platformy",
+            "description": "Zarządzaj globalnymi ustawieniami platformy.",
+            "encoding": {
+                "title": "Przetwarzania",
+                "description": "Parametry związane z przetwarzaniem wideo.",
+                "activeEncodings": "Aktywne przetwarzania",
+                "queued": "W kolejce",
+                "concurrentLimit": "Jednoczesny limit",
+                "maxConcurrentLabel": "Maksymalna liczba jednoczesnych przetwarzań",
+                "maxConcurrentHelp": "Wartość od 1 do 20. Przetwarzania przekraczające ten limit zostaną umieszczone w kolejce.",
+                "save": "Zapisz ustawienia",
+                "saving": "Zapisywanie...",
+                "saved": "Zapisano!",
+                "saveError": "Błąd w zapisywaniu"
+            }
+        },
+        "encoding": {
+            "title": "Panel przetwarzania",
+            "description": "Śledź status wszystkich przetwarzań aktualnie realizowanych na platformie.",
+            "updatedAt": "Zaaktualizowano o:",
+            "noEncodings": "Brak przetwarzań.",
+            "queued": "przetwarzania w kolejce",
+            "restartAll": "Zrestartuj wszystkie",
+            "restartAllConfirm": "Czy uruchomić ponownie wszystkie nieudane/zablokowane przetwarzania?",
+            "table": {
+                "title": "Nazwa",
+                "user": "Użytkownik",
+                "status": "Status",
+                "progress": "Postęp",
+                "updatedAt": "Zaaktualizowano o",
+                "actions": "Akcje"
+            },
+            "status": {
+                "completed": "Zakończono",
+                "failed": "Zakończono niepomyślnie",
+                "processing": "Pracowanie",
+                "pending": "Oczekiwanie"
+            },
+            "actions": {
+                "restart": "Restartowanie",
+                "forceComplete": "Ukończono (wymuszone przez użytkownika)"
+            }
+        },
+        "events": {
+            "title": "Wydarzenia koordynacyjne",
+            "description": "Zarządzaj dużymi ruchami i koordynuj nagrania.",
+            "createEvent": "Utwórz wydarzenie",
+            "noEvents": "Nie utworzono jeszcze żadnych wydarzeń.",
+            "createdBy": "Stworzone przez {{name}}",
+            "noDescription": "Brak opisu.",
+            "targetChannels": "📺 Kanały docelowe:",
+            "participants": "👥 Uczestnicy ({{count}}):",
+            "noParticipants": "Nikt się jeszcze nie zarejestrował.",
+            "editRole": "✍️ Rola",
+            "unregister": "Anuluj subskrypcję",
+            "register": "Zasubskrybuj",
+            "edit": "Edytuj",
+            "delete": "Usuń",
+            "confirmDelete": "Czy na pewno chcesz usunąć to wydarzenie?",
+            "confirmUnregister": "Czy na pewno chcesz zrezygnować z subskrypcji?",
+            "saveError": "Błąd podczas rejestrowania wydarzenia.",
+            "preview": "Przegląd wydarzeń",
+            "createTitle": "Utwórz nazwę wydarzenia",
+            "editTitle": "Edytuj nazwę wydarzenia",
+            "form": {
+                "startDate": "Data / Godzina rozpoczęcia",
+                "endDate": "Data / Godzina zakończenia",
+                "channels": "Zaangażowane kanały",
+                "channelSearch": "Wyszukaj kanał, który chcesz dodać...",
+                "noChannelFound": "Nie znaleziono kanału",
+                "remove": "Wycofaj",
+                "titlePlaceholder": "Przykład: przeprojektowanie marki TMC",
+                "descriptionPlaceholder": "Opcjonalnie",
+                "save": "Zapisz",
+                "create": "Utwórz"
+            },
+            "join": {
+                "title": "Dołącz",
+                "editTitle": "Edytor ma udział",
+                "roleLabel": "Twoja rola / Co nagrywasz",
+                "rolePlaceholder": "Przykład: Nagrywam TF1 o 18:00",
+                "submit": "Zatwierdź"
+            },
+            "pagination": {
+                "previous": "Poprzedni",
+                "next": "Następny",
+                "page": "Strona {{current}} / {{total}}"
+            },
+            "calendar": {
+                "prev": "Poprzedni",
+                "next": "Następny >",
+                "days": [
+                    "Poniedziałek",
+                    "Wtorek",
+                    "Środa",
+                    "Czwartek",
+                    "Piątek"
+                ]
+            }
         }
     }
 }
