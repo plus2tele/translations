@@ -421,9 +421,62 @@
                     "description": "Każdy może zobaczyć Twój film. Zostanie on opublikowany natychmiast po przetworzeniu."
                 },
                 "scheduled": {
-                    "title": "Zaplanuj (wkrótce)"
+                    "title": "Zaplanuj (wkrótce)",
+                    "description": "Wybierz datę, kiedy Twój film zostanie automatycznie upubliczniony."
+                }
+            },
+            "actions": {
+                "previous": "Poprzednie",
+                "next": "Następne",
+                "validateAndNext": "Potwierdź i idź dalej",
+                "importAll": "Importuj wszystko",
+                "processing": "Przetwarzanie...",
+                "cancel": {
+                    "continue": "Kontynuuj edycję",
+                    "confirm": "Anuluj wszystko"
+                },
+                "copyAll": {
+                    "cancel": "Anuluj",
+                    "confirm": "Tak, zastosuj do wszystkich"
+                },
+                "copyField": {
+                    "cancel": "Anuluj",
+                    "confirm": "Tak, zastosuj"
+                }
+            },
+            "modals": {
+                "cancel": {
+                    "title": "Anulować operację?",
+                    "description": "Wszystkie wprowadzone dane zostaną utracone, a lista plików zostanie wyczyszczona."
+                },
+                "copyAll": {
+                    "title": "Zastosować do wszystkich plików?",
+                    "description": "Czy chcesz skopiować wszystkie metadane z tego pliku (kategorię, ciąg znaków, opis itp.) do pozostałych plików na liście? Tytuł nie zostanie skopiowany."
+                },
+                "copyField": {
+                    "title": "Skopiować te informacje?",
+                    "description": "Czy chcesz skopiować te informacje do wszystkich pozostałych plików na liście?"
                 }
             }
+        },
+        "edit": {
+            "title": "Edytuj",
+            "errors": {
+                "load": "Nie można załadować archiwum",
+                "changeThumbnail": "Nie można zmienić miniatury",
+                "regenerateThumbnails": "Nie można wygenerować miniatur",
+                "delete": "Błąd podczas usuwania",
+                "upload": "Błąd podczas przesyłania"
+            },
+            "visibility": {
+                "publicTitle": "Publiczny",
+                "publicDescription": "Widoczne dla wszystkich.",
+                "privateTitle": "Prywatne / Niepubliczne",
+                "privateDescription": "Widoczne tylko poprzez bezpośredni link."
+            },
+            "confirmDelete": "Czy na pewno chcesz trwale usunąć to archiwum? Ta czynność jest nieodwracalna.",
+            "successDelete": "Archiwum zostało pomyślnie usunięte.",
+            "successTitle": "Zmiana zapisana!"
         }
     }
 }
