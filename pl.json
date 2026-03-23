@@ -16,5 +16,30 @@
             "grid": "Widok",
             "list": "Widok listy"
         }
+    },
+    "nav": {
+        "home": "Główna",
+        "archives": "Archiwa",
+        "channels": "Kanały",
+        "collections": "Kolekcje",
+        "changelog": "Dziennik zmian",
+        "legal": "Informacje prawne",
+        "zapping": "Zapping",
+        "community": "Społeczność",
+        "credits": "Autor"
+    },
+    "home": {
+        "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, bumperów, czołówek i wielu innych ujęć z telewizora.",
+        "exploreCollection": "Odkryj naszą kolekcję {{stats}} archiwów telewizyjnych",
+        "search": {
+            "placeholder": "Szukaj archiwów...",
+            "filters": {
+                "channel": "Wybrane kanały",
+                "type": "Rodzaje archiwów",
+                "year": "Rok archiwów"
+            }
+        },
+        "recentTitle": "Najnowsze archiwa",
+        "slogan": "Odkrywaj na nowo perełki telewizji"
     }
 }
