@@ -1,1 +1,20 @@
-{}
+{
+    "common": {
+        "notFound": "Nie znaleziono strony",
+        "back": "Powrót",
+        "seeMore": "Zobacz więcej",
+        "cancel": "Anuluj",
+        "submit": "Potwierdź",
+        "search": "Szukaj",
+        "noResults": "Brak wyników",
+        "close": "Zamknij",
+        "save": "Zapisz",
+        "saving": "Zapisywanie…",
+        "chooseFile": "Wybierz plik",
+        "explore": "Odkrywaj",
+        "view": {
+            "grid": "Widok",
+            "list": "Widok listy"
+        }
+    }
+}
