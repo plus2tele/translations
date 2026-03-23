@@ -40,6 +40,54 @@
             }
         },
         "recentTitle": "Najnowsze archiwa",
-        "slogan": "Odkrywaj na nowo perełki telewizji"
+        "slogan": "Odkrywaj na nowo perełki telewizji",
+        "explore": "Odkrywaj archiwa",
+        "seechannels": "Zobacz listę kanałów",
+        "zap": "Zapping",
+        "discordTitle": "Dołącz do naszej społeczności na Discord",
+        "discordText": "Podziel się swoimi doświadczeniami, porozmawiaj z innymi fanami telewizji i bądź na bieżąco z naszymi nowościami w archiwum!",
+        "discordJoin": "Dołącz do serwera",
+        "popularTitle": "Popularne archiwa",
+        "popularCategories": "Popularne kategorie",
+        "seeall": "Zobacz wszystko",
+        "seeall2": "Zobacz wszystkie",
+        "infiguresTitle": "+2Télé w cyfrach",
+        "infiguresDescription": "Nasze archiwum rośnie z każdym dniem",
+        "infiguresArchives": "Dostępne archiwa",
+        "infiguresChannels": "Dostępne kanały",
+        "infiguresViews": "Łączna liczba wyświetleń",
+        "featuredCollections": "Proponowane kolekcje",
+        "noFeaturedCollections": "Obecnie nie proponujemy żadnej kolekcji",
+        "archivistProgramTitle": "Dołącz do społeczności +2Télé",
+        "archivistProgramDescription": "Dołącz do naszego programu archiwistycznego, aby pomóc nam dokumentować telewizyjne perełki.",
+        "archivistProgramButton1": "Zostań archiwistą",
+        "archivistProgramButton2": "Zobacz spis",
+        "exploreCollectionStatic": "Przeglądaj nasze obszerne archiwum telewizyjne",
+        "errors": {
+            "latest": "Nie można załadować najnowszych archiwów",
+            "popular": "Nie można załadować popularnych archiwów",
+            "categories": "Nie można wczytać kategorii",
+            "collections": "Nie można załadować kolekcji"
+        }
+    },
+    "archives": {
+        "title": "Archiwa",
+        "description": "Przeglądaj nasze archiwum telewizyjne",
+        "loadMore": "Wczytaj więcej archiwów",
+        "noResults": "Nie znaleziono wyników",
+        "pageInfo": "Strona {{current}} z {{total}} • Wyświetlanie {{showing}} z {{totalItems}} archiwów"
+    },
+    "channels": {
+        "title": "Kanały TV",
+        "description": "Sprawdź wszystkie dostępne kanały"
+    },
+    "channel": {
+        "back": "Powrót do kanałów",
+        "status": {
+            "active": "Nadaje",
+            "defunct": "Martwy"
+        },
+        "seeLess": "Zobacz mniej",
+        "readMore": "Przeczytaj więcej"
     }
 }
