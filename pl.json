@@ -686,7 +686,15 @@
                     "Styczeń",
                     "Luty",
                     "Marzec",
-                    "Kwiecień"
+                    "Kwiecień",
+                    "Maj",
+                    "Czerwiec",
+                    "Lipiec",
+                    "Sierpień",
+                    "Wrzesień",
+                    "Październik",
+                    "Listopad",
+                    "Grudzień"
                 ],
                 "today": "Dzisiaj"
             },
