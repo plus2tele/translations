@@ -1,1 +1,347 @@
-{}
+{
+    "common": {
+        "loading": "Se încarcă...",
+        "error": "A intervenit o eroare.",
+        "notFound": "Pagină negăsită",
+        "back": "Înapoi",
+        "seeMore": "Mai multe",
+        "cancel": "Anulare",
+        "submit": "Publicare",
+        "search": "Căutare",
+        "noResults": "Nu s-au găsit rezultate",
+        "close": "Închide",
+        "save": "Salvează",
+        "saving": "Se salvează…",
+        "chooseFile": "Alege un fișier",
+        "explore": "Explorează",
+        "view": {
+            "grid": "Vezi grila",
+            "list": "Vezi lista"
+        }
+    },
+    "nav": {
+        "home": "Acasă",
+        "archives": "Arhive",
+        "channels": "Canale",
+        "collections": "Colecții",
+        "changelog": "Schimbări",
+        "legal": "Mențiuni legale",
+        "zapping": "Zapping TV",
+        "community": "Comunitate",
+        "credits": "Mulțumiri"
+    },
+    "home": {
+        "description": "Redescoperă comorile televiziunii. Acesează mii de arhive TV, pachetele grafice ale posturilor de altădată, generice și momente importante din istoria micului ecran.",
+        "exploreCollection": "Explorează colecția noastră formată din {{stats}} arhive audiovizuale",
+        "search": {
+            "placeholder": "Caută prin arhive...",
+            "filters": {
+                "channel": "Toate canalele",
+                "type": "Toate tipurile",
+                "year": "Toți anii"
+            }
+        },
+        "recentTitle": "Ultimele postări",
+        "slogan": "Redescoperă comorile televiziunii",
+        "explore": "Explorează arhivele",
+        "seechannels": "Vezi canalele",
+        "zap": "Zapping TV",
+        "discordTitle": "Intră pe serverul nostru Discord",
+        "discordText": "Povestește-ți amintirile, discută cu alți fani ai televiziunii și fii la curent cu cele mai noi arhive de pe site!",
+        "discordJoin": "Intră pe server",
+        "popularTitle": "Arhive populare",
+        "popularCategories": "Categorii populare",
+        "seeall": "Vezi tot",
+        "seeall2": "Vezi tot",
+        "infiguresTitle": "+2Télé în cifre",
+        "infiguresDescription": "Colecția noastră se mărește în fiecare zi",
+        "infiguresArchives": "Arhive disponibile",
+        "infiguresChannels": "Canale TV",
+        "infiguresViews": "Vizualizări totale",
+        "featuredCollections": "Colecții recomandate",
+        "noFeaturedCollections": "Nu există colecții recomandate.",
+        "archivistProgramTitle": "Alătură-te comunității +2Télé",
+        "archivistProgramDescription": "Participă în programul nostru de arhivism pentru a ajuta la conservarea și partajarea arhivelor TV.",
+        "archivistProgramButton1": "Devenirea unui arhivist",
+        "archivistProgramButton2": "Vezi tabelul",
+        "exploreCollectionStatic": "Explorează colecția noastră de arhive TV",
+        "errors": {
+            "latest": "Nu s-au putut încărca cele mai recente adăugări",
+            "popular": "Nu s-au putut încărca cele mai populare adăugări",
+            "categories": "Nu s-au putut încărca categoriile",
+            "collections": "Nu s-au putut încărca colecțiile"
+        }
+    },
+    "archives": {
+        "title": "Arhive",
+        "description": "Explorează colecția noastră de arhive TV",
+        "loadMore": "Mai multe arhive",
+        "noArchives": "Nu sunt disponibile arhive",
+        "noResults": "Nu s-au găsit înregistrări corespunzătoare acestor criterii",
+        "pageInfo": "Pagina {{current}} din {{total}} • Se afișează {{showing}} din {{totalItems}} arhive"
+    },
+    "channels": {
+        "title": "Canale TV",
+        "description": "Descoperă toate canalele disponibile"
+    },
+    "channel": {
+        "back": "Înapoi la canale",
+        "status": {
+            "active": "Activ",
+            "defunct": "Închis"
+        },
+        "seeLess": "Mai puțin",
+        "readMore": "Citește mai mult",
+        "resultsCount_one": "{{count}} arhive",
+        "resultsCount_other": "{{count}} arhive",
+        "filters": {
+            "sortBy": "Filtrează după",
+            "year": "An",
+            "type": "Tip"
+        },
+        "emptyState": "Nu s-au găsit arhive pentru acest canal folosind filtrele date.",
+        "pageInfo_one": "Pagina {{current}} din {{total}} · {{count}} arhivă",
+        "pageInfo_other": "Pagina {{current}} din {{total}} · {{count}} arhive"
+    },
+    "collections": {
+        "title": "Colecții",
+        "description": "Descoperă colecțiile noastre tematice de arhive",
+        "noCollections": "Nicio colecție disponibilă",
+        "createdAt": "Creat pe {{date}}",
+        "all": "Toate colecțiile",
+        "searchPlaceholder": "Caută o colecție...",
+        "searchResults": "{{count}} colecții găsite pentru „{{query}}”",
+        "noSearchResults": "Nu au fost găsite colecții pentru această căutare."
+    },
+    "player": {
+        "collection": "Colecție",
+        "previousVideo": "Clipul precedent",
+        "nextVideo": "Clipul următor",
+        "autoplay": "Redare automată",
+        "noCollectionArchives": "Nicio arhivă în această colecție",
+        "channel": "Canal",
+        "type": "Tip",
+        "year": "An",
+        "similar": "Arhive similare",
+        "recent": "Adăugări recente",
+        "quickActions": "Acțiuni rapide",
+        "views": "{{count}} vizionări",
+        "broadcastDate": "Difuzat pe {{date}}",
+        "unknownDate": "Dată de difuzare necunoscută",
+        "postedBy": "Postat de {{username}}",
+        "noSimilarArchives": "Nu s-au găsit arhive similare",
+        "noRecentArchives": "Nu sunt disponibile adăugări recente",
+        "credits": {
+            "title": "Mulțumiri și drepturi",
+            "copyright": "Drepturi"
+        },
+        "music": {
+            "title": "Muzică",
+            "listen": "Ascultă",
+            "externalLink": {
+                "title": "Linkuri externe",
+                "description": "Vei fi redirecționat către un site extern pentru a asculta „{{title}}”. Dorești să continui?",
+                "continue": "Continuă"
+            }
+        },
+        "private": "Privat",
+        "actions": {
+            "quick": "Acțiuni rapide",
+            "random": "Arhivă aleatorie",
+            "explore": "Explorează colecția"
+        },
+        "toast": {
+            "linkCopied": "Link copiat în clipboard!"
+        },
+        "watchTitle": "Urmărește {{title}} {{year}} pe {{channel}}. Vezi această arhivă pe +2Télé.",
+        "adultWarning": {
+            "title": "Conținut sensibil",
+            "message": "Acest conținut poate conține violență sau nuditate și vă poate afecta emoțional.",
+            "confirm": "Am peste 18 ani",
+            "cancel": "Anulare"
+        }
+    },
+    "zapping": {
+        "title": "Zapping TV",
+        "description": "Redescoperă arhive TV într-un mod aleatoriu",
+        "noSignal": "FĂRĂ SEMNAL",
+        "currentlyPlaying": "Se redă",
+        "viewHistory": "Istoric",
+        "viewPage": "Vezi pagina",
+        "skip": "Schimbă arhiva",
+        "explore": "Explorează arhive TV într-un mod aleatoriu, ca la un zapping TV adevărat!"
+    },
+    "comments": {
+        "title": "Comentarii",
+        "loginRequired": "Trebuie să fii autentificat pentru a lăsa un comentariu.",
+        "error": {
+            "captcha": "Te rog să validezi Captcha-ul",
+            "banned": "Contul tău a fost banat. Nu mai poți folosi această funcție.",
+            "comment_restricted": "Accesul tău la comentarii a fost restricționat de echipa de moderatori."
+        },
+        "noComments": "Fii primul care lasă un comentariu!",
+        "form": {
+            "placeholder": "Lasă un comentariu...",
+            "replyPlaceholder": "Lasă un răspuns...",
+            "username": "Numele tău",
+            "submit": "Comentariu"
+        },
+        "guidelines": {
+            "notice": "Comentariile tale trebuie să respecte regulile comunității.",
+            "link": "Vezi regulamentul"
+        },
+        "edit": "Editează",
+        "delete": "Șterge",
+        "reply": "Răspunde",
+        "replyingTo": "Ca răspuns la @{{username}}",
+        "deleteTitle": "Șterge comentariul?",
+        "deleteDescription": "Această acțiune este ireversibilă. Comentariul va fi șters definitiv.",
+        "confirmDelete": "Da, șterge",
+        "deleting": "Se șterge..."
+    },
+    "footer": {
+        "description": "Redescoperă comorile televiziunii prin colecția noastră de arhive.",
+        "navigation": "Navigație",
+        "followUs": "Urmăriți-ne",
+        "copyright": "© 2022-{{year}} +2Télé. Toate drepturile rezervate.",
+        "developedBy": "Dezvoltat de"
+    },
+    "services": {
+        "wiki": {
+            "title": "+2Wiki",
+            "description": "Explorează baza noastră de cunoștințe despre istoria televiziunii."
+        },
+        "discord": {
+            "title": "Discord",
+            "description": "Alătură-te comunității noastre Discord pentru a-ți împărtăși amintirile tale."
+        }
+    },
+    "carousel": {
+        "watch": "Vizionează"
+    },
+    "cookies": {
+        "description": "Noi folosim o instanță self-hosted Matomo Analytics pentru a-ți îmbunătăți experiența. Aceste date sunt stocate în Franța și nu vor fi niciodată împărțite altor companii. Vor fi folosite doar cu scop statistic și pentru îmbunătățirea platformei.",
+        "learnMore": "Află mai multe",
+        "accept": "Acceptă",
+        "refuse": "Refuză",
+        "close": "Închide banner-ul de cookie-uri"
+    },
+    "filters": {
+        "advanced": "Filtre avansate",
+        "applied": "Filtre aplicate:",
+        "clear": "Șterge filtrele",
+        "results": "Rezultatele căutării",
+        "allArchives": "Toate arhivele",
+        "sort": {
+            "date": "Cele mai noi",
+            "oldest": "Cele mai vechi",
+            "popular": "Popularitate",
+            "alphabetical": "A-Z",
+            "alphabetical_desc": "Z-A"
+        }
+    },
+    "auth": {
+        "login": "Loghează-te",
+        "logout": "Deloghează-te",
+        "welcome": "Bine ai venit la +2Télé",
+        "description": "Conectează-te sau creează un cont pentru a te alătura comunității.",
+        "loginOrRegister": "Loghează-te / Înregistrează-te",
+        "termsNotice": "Pentru a continua, ne accepți",
+        "terms": "Termenii de Utilizare",
+        "and": "și",
+        "privacy": "Politica de Confidențialitate"
+    },
+    "profile": {
+        "title": "Profilul meu",
+        "description": "Gestionează-ți profilul și setările",
+        "settings": "Setări",
+        "badges": {
+            "staff": "Moderatori",
+            "vip": "VIP",
+            "archivist": "Arhivist",
+            "verified": "Verificat"
+        },
+        "memberSince": "Membru din {{date}}",
+        "logout": "Deconectează-te",
+        "deleteAccount": "Șterge-mi contul",
+        "deleteConfirm": "Ești sigur că vrei să îți ștergi contul? Această acțiune este ireversibilă.",
+        "archives": "Arhive",
+        "info": "Informații",
+        "yourArchives": "Arhivele tale",
+        "userArchives": "Arhivele lui {{username}}",
+        "archivesCount": "{{count}} arhive în total",
+        "noArchives": "Încă nu au fost publicate arhive",
+        "publicDescription": "Profilul lui {{username}} pe +2Télé",
+        "form": {
+            "avatar": "Avatar",
+            "motto": "Citat personal",
+            "mottoPlaceholder": "Scrie un citat care te reprezintă...",
+            "pronouns": "Pronume",
+            "pronounsPlaceholder": "ex: el/ea",
+            "pronounsHelp": "Format: Pronume/Pronume (ex: el/el)",
+            "pronounsInvalidFormat": "Format invalid. Folosește formatul Pronume/Pronume (ex. el/el)",
+            "mottoTooLong": "Citatul nu poate depăși 100 de caractere.",
+            "pronounsTooLong": "Pronumele nu pot depăși 50 de caractere.",
+            "success": "Profilul a fost actualizat.",
+            "characters": "caractere",
+            "optional": "opțional",
+            "discordNotifications": "Notificări Discord",
+            "discordNotificationsHelp": "Primește mesaje private pentru notificări importante.",
+            "discordArchiveCommentNotifications": "Arhive notificări pentru comentarii",
+            "discordArchiveCommentNotificationsHelp": "Primește un mesaj Discord când cineva lasă un comentariu pe una din arhivele tale.",
+            "cropImage": "Decupează imaginea",
+            "avatarGuidelinesNotice": "Poza ta de profil trebuie să corespundă regulilor comunității.",
+            "avatarGuidelinesLink": "Vezi regulamentul"
+        }
+    },
+    "settings": {
+        "title": "Setări",
+        "description": "Gestionează setările contului",
+        "profile": {
+            "title": "Profil",
+            "viewPublic": "Vezi profilul meu public"
+        },
+        "notifications": {
+            "title": "Notificări",
+            "discordTitle": "Preferințe Discord"
+        },
+        "account": {
+            "title": "Cont",
+            "logout": "Deloghează-te",
+            "logoutDescription": "Deloghează-te din cont",
+            "delete": "Șterge-ți contul",
+            "deleteDescription": "Șterge-ți permanent contul",
+            "deleteConfirmTitle": "Ștergeți contul?",
+            "deleteConfirmDescription": "Această acțiune este ireversibilă. Toate datele tale vor fi șterse.",
+            "deleteConfirm": "Da, șterge-mi contul"
+        }
+    },
+    "archivist": {
+        "title": "Spațiul pentru arhiviști",
+        "description": "Gestionează și adaugă arhive",
+        "become": "Devino un arhivist",
+        "nav": {
+            "stats": "Statistici",
+            "upload": "Adaugă o arhivă",
+            "channels": "Canale",
+            "collections": "Colecții",
+            "encodings": "Codificări",
+            "certification": "Certificare"
+        },
+        "stats": {
+            "archives": "Arhive",
+            "channels": "Canale",
+            "views": "Vizualizări totale"
+        },
+        "upload": {
+            "title": "Titlu",
+            "description": "Descriere (Markdown este suportat)",
+            "category": "Tipul arhivei",
+            "selectCategory": "Alege un tip",
+            "channel": "Canal",
+            "selectChannel": "Alege un canal",
+            "copyright": "Drepturi de autor",
+            "year": "An"
+        }
+    }
+}
