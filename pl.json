@@ -675,7 +675,15 @@
                     "Wtorek",
                     "Środa",
                     "Czwartek",
-                    "Piątek"
+                    "Piątek",
+                    "Sobota",
+                    "Niedziela"
+                ],
+                "months": [
+                    "Styczeń",
+                    "Luty",
+                    "Marzec",
+                    "Kwiecień"
                 ]
             }
         }
