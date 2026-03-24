@@ -1,7 +1,7 @@
 {
     "common": {
         "loading": "Se încarcă...",
-        "error": "A intervenit o eroare.",
+        "error": "A intervenit o eroare",
         "notFound": "Pagină negăsită",
         "back": "Înapoi",
         "seeMore": "Mai multe",
@@ -59,7 +59,7 @@
         "infiguresChannels": "Canale TV",
         "infiguresViews": "Vizualizări totale",
         "featuredCollections": "Colecții recomandate",
-        "noFeaturedCollections": "Nu există colecții recomandate.",
+        "noFeaturedCollections": "Nu există colecții recomandate",
         "archivistProgramTitle": "Alătură-te comunității +2Télé",
         "archivistProgramDescription": "Participă în programul nostru de arhivism pentru a ajuta la conservarea și partajarea arhivelor TV.",
         "archivistProgramButton1": "Devenirea unui arhivist",
@@ -111,7 +111,7 @@
         "all": "Toate colecțiile",
         "searchPlaceholder": "Caută o colecție...",
         "searchResults": "{{count}} colecții găsite pentru „{{query}}”",
-        "noSearchResults": "Nu au fost găsite colecții pentru această căutare."
+        "noSearchResults": "Nu au fost găsite colecții pentru această căutare"
     },
     "player": {
         "collection": "Colecție",
@@ -279,7 +279,7 @@
             "pronouns": "Pronume",
             "pronounsPlaceholder": "ex: el/ea",
             "pronounsHelp": "Format: Pronume/Pronume (ex: el/el)",
-            "pronounsInvalidFormat": "Format invalid. Folosește formatul Pronume/Pronume (ex. el/el)",
+            "pronounsInvalidFormat": "Format invalid. Folosește formatul Pronume/Pronume (ex. el/el).",
             "mottoTooLong": "Citatul nu poate depăși 100 de caractere.",
             "pronounsTooLong": "Pronumele nu pot depăși 50 de caractere.",
             "success": "Profilul a fost actualizat.",
@@ -341,7 +341,18 @@
             "channel": "Canal",
             "selectChannel": "Alege un canal",
             "copyright": "Drepturi de autor",
-            "year": "An"
+            "year": "An",
+            "broadcastDate": "Data difuzării",
+            "music": "Muzică",
+            "musicTitle": "Titlul muzicii",
+            "missingFields": "Te rugăm să completezi toate câmpurile obligatorii (tipul arhivei și canalul) pentru fiecare fișier.",
+            "musicUrl": "URL-ul muzicii",
+            "resolution": "Rezoluția",
+            "video": "Video",
+            "videoHelp": "Arhivele pot fi doar în format MP4. Ține cont de rezoluție.",
+            "submit": "Adaugă arhivă",
+            "uploading": "Se încarcă...",
+            "uploadingTitle": "Se încarcă"
         }
     }
 }
