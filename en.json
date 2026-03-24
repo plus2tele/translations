@@ -31,7 +31,7 @@
         "credits": "Credits"
     },
     "home": {
-        "description": "Rediscover the treasures of television. Access thousands of archives, iconic show idents, opening sequences, and unforgettable moments from television history.",
+        "description": "Rediscover the treasures of television. Access thousands of archives, brandings of popular shows, intros and unforgettable moments of television history.",
         "exploreCollection": "Explore our collection of {{stats}} television archives",
         "search": {
             "placeholder": "Search in archives...",
@@ -194,7 +194,7 @@
         "edit": "Edit",
         "delete": "Delete",
         "reply": "Reply",
-        "replyingTo": "In response to @{{username}}",
+        "replyingTo": "Replying to @{{username}}",
         "deleteTitle": "Delete comment?",
         "deleteDescription": "This action is irreversible. The comment will be permanently deleted.",
         "confirmDelete": "Yes, delete",
