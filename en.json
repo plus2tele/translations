@@ -644,7 +644,7 @@
             "unregister": "Unregister",
             "register": "Register",
             "edit": "Edit",
-            "delete": "Delete",
+            "delete": "Del.",
             "confirmDelete": "Are you sure you want to delete this event?",
             "confirmUnregister": "Are you sure you want to unregister?",
             "saveError": "Error saving the event.",
