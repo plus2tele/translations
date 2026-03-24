@@ -28,7 +28,7 @@
         "legal": "Note legali",
         "zapping": "Zapping TV",
         "credits": "Crediti",
-        "community": "Comunità"
+        "community": "Community"
     },
     "home": {
         "description": "Riscopri i tesori della televisione. Accedi a migliaia di archivi, costumi di programmi cult, titoli e momenti indimenticabili della storia del piccolo schermo.",
@@ -677,11 +677,11 @@
         }
     },
     "community_page": {
-        "title": "La Comunità",
+        "title": "La Community",
         "subtitle": "Scopri chi fa vivere +2Télé e i suoi progetti associati.",
-        "description": "Pagina dedicata alla comunità e al team di +2Télé.",
+        "description": "Pagina dedicata alla community e al team di +2Télé.",
         "creations": {
-            "title": "Creazioni della comunità",
+            "title": "Creazioni della community",
             "p2retro": {
                 "title": "+2Retro",
                 "subtitle": "Il podcast che ti fa rivivere i momenti più belli della televisione 📺",
