@@ -352,7 +352,131 @@
             "videoHelp": "Arhivele pot fi doar în format MP4. Ține cont de rezoluție.",
             "submit": "Adaugă arhivă",
             "uploading": "Se încarcă...",
-            "uploadingTitle": "Se încarcă"
+            "uploadingTitle": "Se încarcă",
+            "uploadingDescription": "Te rog să aștepți până arhiva ta va fi publicată...",
+            "error": "Eroare în încărcarea arhivei",
+            "status": {
+                "completed": "Terminat",
+                "failed": "Eșuat",
+                "waiting": "Se așteaptă...",
+                "processing": "{{step}} ({{progress}}%)",
+                "incomplete": "incomplet",
+                "ready": "Gata",
+                "error": "Eroare",
+                "errorServer": "Eroare de server",
+                "errorNetwork": "Eroare de rețea"
+            },
+            "viewArchive": "Vezi arhiva",
+            "success": {
+                "title": "Încărcare completă!",
+                "description": "Cele {{count}} fișiere de-ale tale au fost încărcate și se procesează.<br />Vor fi disponibile când codificarea este gata.",
+                "returnToArchives": "ÎNAPOI LA ARHIVE",
+                "sendMore": "ÎNCARCĂ MAI MULTE FIȘIERE"
+            },
+            "dropzone": {
+                "title": "Trage și plasează clipurile tale aici",
+                "subtitle": "Poți încărca mai multe fișiere simultan.",
+                "button": "ALEGE FIȘIERELE",
+                "warning": "Te rugăm să respecți drepturile de autor și termenii de folosire."
+            },
+            "filesCount": "{{count}} fișiere",
+            "importation": "Încarcă",
+            "filesListTitle": "Fișiere ({{count}})",
+            "tabs": {
+                "details": "Detalii",
+                "technical": "Tehnic",
+                "visibility": "Vizibilitate"
+            },
+            "applyToAll": {
+                "button": "Aplică pentru toate",
+                "title": "Aplică această informație pentru toate fișierele",
+                "copy": "Copiază",
+                "copyTitle": "Copiază pentru toate fișierele"
+            },
+            "optional": "(opțional)",
+            "translations": {
+                "add": "Adaugă traduceri",
+                "hide": "Ascunde traduceri",
+                "descriptionPlaceholder": "Descriere tradusă..."
+            },
+            "placeholders": {
+                "title": "Adaugă un titlu ce îți descrie clipul",
+                "description": "Detalii în legătură cu această arhivă",
+                "copyright": "Informații legate de drepturile de autor",
+                "select": "Selectează..."
+            },
+            "adultContent": {
+                "title": "Conținut pentru adulți (18+)",
+                "description": "Acest conținut va fi blurat și va necesita verificarea vârstei. Va fi vizibil doar pentru utilizatorii adulți."
+            },
+            "visibilityConfig": {
+                "title": "Vizibilitate",
+                "description": "Alege când să îți publici clipul și cine îl vede.",
+                "private": {
+                    "title": "Privat / Nelistat (în curând)",
+                    "description": "Doar tu și oamenii cu linkul vor putea viziona clipul. Nu va apărea în căutări."
+                },
+                "public": {
+                    "title": "Public (imediat)",
+                    "description": "Toată lumea poate să îți vizioneze clipul. Va fi publicat imediat după procesare."
+                },
+                "scheduled": {
+                    "title": "Programat (în curând)",
+                    "description": "Alege o dată pentru publicarea automată a clipului tău."
+                }
+            },
+            "actions": {
+                "previous": "Precedent",
+                "next": "Următor",
+                "validateAndNext": "Validează și continuă",
+                "importAll": "Încarcă tot",
+                "processing": "Se procesează...",
+                "cancel": {
+                    "continue": "Continuă editarea",
+                    "confirm": "Anulează tot"
+                },
+                "copyAll": {
+                    "cancel": "Anulare",
+                    "confirm": "Da, aplică pentru tot"
+                },
+                "copyField": {
+                    "cancel": "Anulare",
+                    "confirm": "Da, copiază"
+                }
+            },
+            "modals": {
+                "cancel": {
+                    "title": "Anulează operația?",
+                    "description": "Toate datele inserate se vor pierde și lista fișierelor va fi golită."
+                },
+                "copyAll": {
+                    "title": "Aplică pentru toate fișierele?",
+                    "description": "Vrei să copiezi tot metadata-ul fișierului (categorie, canal, descriere etc.) pentru celelalte fișiere din listă? Titlul nu va fi copiat."
+                },
+                "copyField": {
+                    "title": "Copiază informația?",
+                    "description": "Vrei să copiezi această informație către restul fișierelor din listă?"
+                }
+            }
+        },
+        "edit": {
+            "title": "Editează",
+            "errors": {
+                "load": "Încărcarea arhivei a eșuat",
+                "changeThumbnail": "Încărcarea miniaturii a eșuat",
+                "regenerateThumbnails": "Regenerarea miniaturilor a eșuat",
+                "delete": "Eroare de ștergere",
+                "upload": "Eroare de încărcare"
+            },
+            "visibility": {
+                "publicTitle": "Public",
+                "publicDescription": "Vizibil pentru toată lumea.",
+                "privateTitle": "Privat / Nelistat",
+                "privateDescription": "Vizibil doar prin link direct."
+            },
+            "confirmDelete": "Ești sigur că vrei ștergerea permanentă a acestei arhive? Această acțiune nu se poate anula.",
+            "successDelete": "Arhiva a fost ștearsă cu succes.",
+            "successTitle": "Schimbări salvate!"
         }
     }
 }
