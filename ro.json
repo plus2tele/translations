@@ -476,7 +476,231 @@
             },
             "confirmDelete": "Ești sigur că vrei ștergerea permanentă a acestei arhive? Această acțiune nu se poate anula.",
             "successDelete": "Arhiva a fost ștearsă cu succes.",
-            "successTitle": "Schimbări salvate!"
+            "successTitle": "Schimbări salvate!",
+            "successUpdate": "Arhiva a fost actualizată cu succes.",
+            "titlePrefix": "Editează:",
+            "thumbnail": "Miniatură",
+            "regenerate": "Regenerează",
+            "current": "Actual",
+            "choose": "Alege",
+            "replaceMedia": "Înlocuiește media",
+            "replaceMediaDescription": {
+                "line1": "Poți înlocui videoclipul arhivei.",
+                "line2": "Atenție: se va iniția o nouă codificare și se vor regenera miniaturile."
+            },
+            "confirmReplaceMedia": "Ești sigur că vrei să înlocuiești videoclipul? Această acțiune este ireversibilă.",
+            "dragDropReplace": "Apasă sau trage un video aici pentru înlocuire",
+            "delete": "ȘTERGE"
+        }
+    },
+    "community": {
+        "title": "Ghidul comunității",
+        "description": "Reguli și ghiduri pentru o comunitate respectuoasă",
+        "intro": "Pentru a menține o atmosferă primitoare și constructivă, am stabilit reguli pe care orice membru trebuie să le respecte în cadrul interacțiunilor pe +2Télé.",
+        "rules": {
+            "title": "Regulile Comunității",
+            "respect": {
+                "title": "Respect reciproc",
+                "description": "Tratează-i pe ceilalți utilizatori cu respect. Insulte, hărțuirea, discriminarea sau remarci jignitoare nu sunt tolerate."
+            },
+            "ontopic": {
+                "title": "Păstrează subiectul",
+                "description": "Comentariile trebuie să fie relevante arhivei sau subiectului în desfășurare. Evită conținutul ce nu are nicio legătură cu cele două menționate."
+            },
+            "spam": {
+                "title": "Fără spam",
+                "description": "Mesajele repetitive, promovarea nesolicitată și linkurile periculoase sunt interzise."
+            },
+            "avatar": {
+                "title": "Poze de profil",
+                "description": "Poza ta de profil nu poate conține conținut jignitor, discriminatoriu, violet, conținut explicit sau neadecvat. Furtul de identitate al oricui este de asemenea interzis. Orice poză ce nu respectă aceste reguli va fi ștersă și poate să ducă la sancțiuni."
+            }
+        },
+        "moderation": {
+            "title": "Moderație",
+            "description": "Echipa noastră de moderație se asigură că aceste reguli vor fi respectate pentru a menține o atmosferă pașnică.",
+            "warning": "Comentariile ce încalcă acest regulament vor fi șterse fără notificare."
+        },
+        "sanctions": {
+            "title": "Sancțiuni",
+            "description": "În cazul încălcării regulamentului, se pot aplica sancțiuni:",
+            "warning": "Avertisment",
+            "temporary": "Suspendare temporară",
+            "permanent": "Interdicție permanentă"
+        }
+    },
+    "community_page": {
+        "title": "Comunitatea",
+        "subtitle": "Descoperă oamenii ce dau viață site-ului +2Télé și proiectelor asociate.",
+        "description": "Pagină dedicată echipei și comunității +2Télé.",
+        "creations": {
+            "title": "Creațiile comunității",
+            "p2retro": {
+                "title": "+2Rétro",
+                "subtitle": "Podcastul ce te duce înapoi în timp către cele mai memorabile întâmplări din televiziune 📺",
+                "description": "Pe meniu: Povești pe care nu le vei uita, jocuri și știri.",
+                "credits": "Produs și susținut de Manu Lassabe. Participanți: Max (Zeima), Guillaume și Valentin.",
+                "listen": "Ascultă pe:"
+            },
+            "fandetele": {
+                "title": "Fan de Télé, Le Direct",
+                "subtitle": "Serialul ce acoperă știrile televiziunii franceze",
+                "description": "Găsește toate știrile franceze în direct.",
+                "credits": "De 60 Hz Productions",
+                "watch": "Urmărește pe YouTube"
+            }
+        },
+        "team": {
+            "title": "Echipa",
+            "staff": "Personalul",
+            "archivists": "Arhiviștii"
+        }
+    },
+    "staff": {
+        "moderation": {
+            "title": "Moderația",
+            "ban": "Interdicția permanentă",
+            "banDescription": "Interzicerea accesului autentificat",
+            "unban": "Revocarea interdicției",
+            "unbanDescription": "Restaurează accesul la cont",
+            "suspend": "Suspendare temporară",
+            "suspendDescription": "Accesul este interzis până la o dată stabilită",
+            "suspendedUntil": "Suspendat până la",
+            "lift": "Revocare",
+            "apply": "Aplică",
+            "restrictComments": "Restricționează comentariile",
+            "restrictCommentsDescription": "Utilizatorul nu va mai putea comenta",
+            "unrestrictComments": "Permite comentariile",
+            "unrestrictCommentsDescription": "Revocarea interdicțiilor pentru comentarii",
+            "banned": "Cont interzis",
+            "suspended": "Cont suspendat",
+            "commentRestricted": "Comentariile restricționate",
+            "confirmBan": "Interziceți permanent acest utilizator? Această acțiune poate fi anulată ulterior.",
+            "confirmRestrictComments": "Interziceți accesul utilizatorului la comentarii?"
+        },
+        "settings": {
+            "title": "Setările platformei",
+            "description": "Gestionează setările globale ale platformei.",
+            "encoding": {
+                "title": "Codificare",
+                "description": "Setări de codare video.",
+                "activeEncodings": "Codificări active",
+                "queued": "Se așteaptă",
+                "concurrentLimit": "Limită concurentă",
+                "maxConcurrentLabel": "Numărul maxim de codificări simultane",
+                "maxConcurrentHelp": "Valoare cuprinsă între 1 și 20. Codificările ce depășesc această limită vor intra în lista de așteptare.",
+                "save": "Salvează",
+                "saving": "Se salvează...",
+                "saved": "Salvat!",
+                "saveError": "Eroare"
+            }
+        },
+        "encoding": {
+            "title": "Panou de codificare",
+            "description": "Monitorizează toate codificările active de pe platformă.",
+            "updatedAt": "Actualizat:",
+            "noEncodings": "Nu sunt codificări recente.",
+            "queued": "în așteptare",
+            "restartAll": "Repornește tot",
+            "restartAllConfirm": "Repornește toate codificările eșuate/înghețate?",
+            "table": {
+                "title": "Titlu",
+                "user": "Utilizator",
+                "status": "Stare",
+                "progress": "Progres",
+                "updatedAt": "Actualizat",
+                "actions": "Acțiuni"
+            },
+            "status": {
+                "completed": "Finalizat",
+                "failed": "Eșuat",
+                "processing": "În curs",
+                "pending": "În așteptare"
+            },
+            "actions": {
+                "restart": "Repornire",
+                "forceComplete": "Finalizat"
+            }
+        },
+        "events": {
+            "title": "Evenimente de coordonare",
+            "description": "Gestionează operațiuni importante și coordonează înregistrări.",
+            "createEvent": "+ Creează un eveniment",
+            "noEvents": "Nu au fost create evenimente.",
+            "viewList": "Listă",
+            "viewCalendar": "Calendar",
+            "dateRange": "De la {{start}} la {{end}}",
+            "createdBy": "Creat de {{name}}",
+            "noDescription": "Fără descriere.",
+            "targetChannels": "📺 Canale vizate:",
+            "participants": "👥 Participanți ({{count}}):",
+            "noParticipants": "Momentan, nu s-a înscris nimeni.",
+            "editRole": "✍️ Rol",
+            "unregister": "Dezînregistrare",
+            "register": "Înregistrare",
+            "edit": "Editează",
+            "delete": "Șterge",
+            "confirmDelete": "Ești sigur că vrei să ștergi acest eveniment?",
+            "confirmUnregister": "Ești sigur că vrei să te deînregistrezi?",
+            "saveError": "Eroare în salvarea evenimentului.",
+            "preview": "Previzualizare eveniment",
+            "createTitle": "Creează un eveniment",
+            "editTitle": "Editează evenimentul",
+            "form": {
+                "title": "Titlu",
+                "description": "Descriere",
+                "startDate": "Data / Ora începerii",
+                "endDate": "Data / Ora încheierii",
+                "channels": "Canale asociate",
+                "channelSearch": "Caută un canal de adăugat...",
+                "noChannelFound": "Nu s-a găsit niciun canal",
+                "remove": "Șterge",
+                "titlePlaceholder": "ex. Rebranding TMC",
+                "descriptionPlaceholder": "Opțional",
+                "save": "Salvează",
+                "create": "Creează evenimentul"
+            },
+            "join": {
+                "title": "Înregistrează-te",
+                "editTitle": "Editează participarea mea",
+                "roleLabel": "Rolul tău / Ce înregistrezi",
+                "rolePlaceholder": "ex. Înregistrez postul TF1 la ora 18",
+                "cancel": "Anulare",
+                "submit": "Validare"
+            },
+            "pagination": {
+                "previous": "Anterior",
+                "next": "Următor",
+                "page": "Pagina {{current}} / {{total}}"
+            },
+            "calendar": {
+                "today": "Astăzi",
+                "prev": "< Ant",
+                "next": "Urm >",
+                "days": [
+                    "Lun",
+                    "Mar",
+                    "Mie",
+                    "Joi",
+                    "Vin",
+                    "Sâm",
+                    "Dum"
+                ],
+                "months": [
+                    "Ianuarie",
+                    "Februarie",
+                    "Martie",
+                    "Aprilie",
+                    "Mai",
+                    "Iunie",
+                    "Iulie",
+                    "August",
+                    "Septembrie",
+                    "Octombrie",
+                    "Noiembrie",
+                    "Decembrie"
+                ]
+            }
         }
     }
 }
