@@ -36,9 +36,9 @@
         "search": {
             "placeholder": "Szukaj archiwów...",
             "filters": {
-                "channel": "Wszystkie kanały",
-                "type": "Rodzaje archiwów",
-                "year": "Rok archiwów"
+                "channel": "Kanały",
+                "type": "Rodzaje",
+                "year": "Rok"
             }
         },
         "recentTitle": "Najnowsze archiwa",
