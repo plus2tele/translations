@@ -36,9 +36,9 @@
         "search": {
             "placeholder": "Suchen im Archiv...",
             "filters": {
-                "channel": "Alle Kanäle",
-                "type": "Alle Typen",
-                "year": "Alle Jahre"
+                "channel": "Kanäle",
+                "type": "Typen",
+                "year": "Jahre"
             }
         },
         "recentTitle": "Neueste Ergänzungen",
