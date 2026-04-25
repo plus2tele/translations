@@ -35,9 +35,9 @@
         "search": {
             "placeholder": "Pesquisar nos arquivos...",
             "filters": {
-                "channel": "Todos os canais",
-                "type": "Todos os tipos",
-                "year": "Todos os anos"
+                "channel": "Canais",
+                "type": "Tipos",
+                "year": "Anos"
             }
         },
         "recentTitle": "Últimas adições",
