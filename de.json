@@ -69,7 +69,8 @@
     },
     "archives": {
         "title": "Archiv",
-        "description": "Erkunde unser Fernseharchiv",
+        "seo_title": "Fernseharchiv - Sendungen, Intros & Werbung",
+        "description": "Erkunde unser umfangreiches internationales Fernseharchiv: Kult-Sendungsintros, Werbung, Senderdesign und unvergessliche Momente der Fernsehgeschichte.",
         "loadMore": "Mehr Archivinhalte laden",
         "noArchives": "Keine Archivinhalte verfügbar",
         "noResults": "Keine Archivinhalte für diese Kriterien gefunden",
@@ -77,7 +78,8 @@
     },
     "channels": {
         "title": "TV-Sender",
-        "description": "Entdecke alle verfügbaren Sender",
+        "seo_title": "Alle Fernsehsender - Internationales TV-Archiv",
+        "description": "Entdecke Archive von Fernsehsendern weltweit: große nationale Sender, Regionalsender und verschwundene oder noch aktive Themensender.",
         "watchTitle": "Schaue {{title}} ({{year}}) auf {{channel}}. Entdecke dieses Archiv auf +2Télé.",
         "adultWarning": {
             "title": "Sensibler Inhalt",
@@ -107,7 +109,8 @@
     },
     "collections": {
         "title": "Sammlungen",
-        "description": "Entdecke unsere thematischen Archivsammlungen",
+        "seo_title": "Thematische Fernseharchiv-Sammlungen",
+        "description": "Entdecke unsere kuratierten thematischen Sammlungen aus dem internationalen Fernseharchiv: Auswahlen rund um Kultsendungen, Sender oder prägende Epochen der Fernsehgeschichte.",
         "noCollections": "Keine Sammlungen verfügbar",
         "createdAt": "Erstellt am {{date}}",
         "all": "Alle Sammlungen",
@@ -163,9 +166,16 @@
             "cancel": "Abbrechen"
         }
     },
+    "ranking": {
+        "title": "Rangliste",
+        "seo_title": "Beliebteste Fernseharchiv-Rangliste - +2Télé",
+        "description": "Entdecke die meistgesehenen Fernseharchive auf +2Télé: Kult-Sendungsintros, Werbung und legendäre Sendungen, bewertet von unserer Community.",
+        "subtitle": "Die meistgesehenen Archive"
+    },
     "zapping": {
         "title": "TV-Zapping",
-        "description": "Entdecke die Fernseharchivinhalte auf zufällige Weise",
+        "seo_title": "Zufälliges TV-Zapping - Entdecke das Fernseharchiv",
+        "description": "Entdecke versteckte Perlen des internationalen Fernsehens mit unserem zufälligen Zapping. Lass dich von Archiven aus allen Epochen und Sendern überraschen.",
         "noSignal": "KEIN SIGNAL",
         "currentlyPlaying": "Aktuell gezeigt",
         "viewHistory": "Wiedergabeverlauf",

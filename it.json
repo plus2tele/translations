@@ -74,7 +74,8 @@
     },
     "archives": {
         "title": "Archivi",
-        "description": "Esplora la nostra collezione di archivi televisivi",
+        "seo_title": "Archivi Televisivi - Programmi, Sigle & Pubblicità",
+        "description": "Esplora la nostra vasta collezione di archivi televisivi internazionali: sigle di programmi iconici, pubblicità, identità visiva dei canali e momenti indimenticabili della storia televisiva.",
         "loadMore": "Carica altri archivi",
         "noArchives": "Nessun archivio disponibile",
         "noResults": "Nessun archivio trovato per questi criteri",
@@ -82,7 +83,8 @@
     },
     "channels": {
         "title": "Canali TV",
-        "description": "Scopri tutti i canali disponibili"
+        "seo_title": "Tutti i Canali Televisivi - Archivi TV Internazionali",
+        "description": "Esplora gli archivi di canali televisivi da tutto il mondo: grandi reti nazionali, canali regionali e canali tematici scomparsi o ancora attivi."
     },
     "channel": {
         "back": "Back to channels",
@@ -105,7 +107,8 @@
     },
     "collections": {
         "title": "Collezioni",
-        "description": "Scopri le nostre collezioni di archivi tematici",
+        "seo_title": "Collezioni Tematiche di Archivi Televisivi",
+        "description": "Sfoglia le nostre collezioni tematiche di archivi televisivi internazionali: selezioni curate intorno a programmi iconici, canali o epoche significative della storia della televisione.",
         "noCollections": "Nessuna collezione disponibile",
         "createdAt": "Creata il {{date}}",
         "all": "Tutte le collezioni",
@@ -161,9 +164,16 @@
             "cancel": "Annulla"
         }
     },
+    "ranking": {
+        "title": "Classifica",
+        "seo_title": "Classifica degli Archivi Televisivi Più Popolari - +2Télé",
+        "description": "Scopri gli archivi televisivi più visti su +2Télé: sigle iconiche, pubblicità e programmi cult votati dalla nostra community.",
+        "subtitle": "Gli archivi più visti"
+    },
     "zapping": {
         "title": "Zapping TV",
-        "description": "Riscopri gli archivi televisivi in modo casuale",
+        "seo_title": "Zapping TV Casuale - Riscopri gli Archivi Televisivi",
+        "description": "Riscopri le gemme nascoste della televisione mondiale con il nostro zapping casuale. Lasciati sorprendere da archivi di ogni epoca e canale.",
         "noSignal": "NESSUN SEGNALE",
         "currentlyPlaying": "In onda",
         "viewHistory": "Cronologia visualizzazioni",

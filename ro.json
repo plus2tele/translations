@@ -74,7 +74,8 @@
     },
     "archives": {
         "title": "Arhive",
-        "description": "Explorează colecția noastră de arhive TV",
+        "seo_title": "Arhive TV - Emisiuni, Generic & Publicitate",
+        "description": "Explorează vasta noastră colecție de arhive TV internaționale: genericuri de emisiuni iconice, publicitate, identitate vizuală a canalelor și momente de neuitat din istoria televiziunii.",
         "loadMore": "Mai multe arhive",
         "noArchives": "Nu sunt disponibile arhive",
         "noResults": "Nu s-au găsit înregistrări corespunzătoare acestor criterii",
@@ -82,7 +83,8 @@
     },
     "channels": {
         "title": "Canale TV",
-        "description": "Descoperă toate canalele disponibile"
+        "seo_title": "Toate Canalele TV - Arhive Televiziune Internaționale",
+        "description": "Descoperă arhive de la canale de televiziune din întreaga lume: rețele naționale majore, canale regionale și canale tematice dispărute sau încă active."
     },
     "channel": {
         "back": "Înapoi la canale",
@@ -105,7 +107,8 @@
     },
     "collections": {
         "title": "Colecții",
-        "description": "Descoperă colecțiile noastre tematice de arhive",
+        "seo_title": "Colecții Tematice de Arhive TV",
+        "description": "Explorează colecțiile noastre tematice de arhive TV internaționale: selecții curatate despre emisiuni iconice, canale sau epoci importante din istoria televiziunii.",
         "noCollections": "Nicio colecție disponibilă",
         "createdAt": "Creat pe {{date}}",
         "all": "Toate colecțiile",
@@ -161,9 +164,16 @@
             "cancel": "Anulare"
         }
     },
+    "ranking": {
+        "title": "Clasament",
+        "seo_title": "Clasamentul Celor Mai Populare Arhive TV - +2Télé",
+        "description": "Descoperă cele mai vizionate arhive TV pe +2Télé: genericuri iconice, publicitate și emisiuni cult votate de comunitatea noastră.",
+        "subtitle": "Cele mai vizionate arhive"
+    },
     "zapping": {
         "title": "Zapping TV",
-        "description": "Redescoperă arhive TV într-un mod aleatoriu",
+        "seo_title": "Zapping TV Aleatoriu - Redescoperă Arhivele TV",
+        "description": "Redescoperă comorile ascunse ale televiziunii mondiale cu funcția noastră de zapping aleatoriu. Lasă-te surprins de arhive din toate epocile și canalele.",
         "noSignal": "FĂRĂ SEMNAL",
         "currentlyPlaying": "Se redă",
         "viewHistory": "Istoric",

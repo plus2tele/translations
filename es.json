@@ -62,14 +62,16 @@
     },
     "archives": {
         "title": "Archivos",
-        "description": "Explora nuestra colección de archivos de televisión",
+        "seo_title": "Archivos de Televisión - Programas, Genéricos & Publicidad",
+        "description": "Explora nuestra vasta colección de archivos de televisión internacional: genéricos de programas icónicos, publicidades, diseño de cadenas y momentos inolvidables de la historia televisiva.",
         "loadMore": "Cargar más archivos",
         "noArchives": "No hay archivos disponibles",
         "noResults": "No se encontraron archivos para estos criterios"
     },
     "channels": {
         "title": "Canales de TV",
-        "description": "Descubre todos los canales disponibles"
+        "seo_title": "Todos los Canales de Televisión - Archivos TV Internacionales",
+        "description": "Encuentra archivos de canales de televisión de todo el mundo: grandes cadenas nacionales, canales regionales y canales temáticos desaparecidos o aún activos."
     },
     "channel": {
         "back": "Back to channels",
@@ -92,7 +94,8 @@
     },
     "collections": {
         "title": "Colecciones",
-        "description": "Descubre nuestras colecciones de archivos temáticos",
+        "seo_title": "Colecciones Temáticas de Archivos Televisivos",
+        "description": "Explora nuestras colecciones temáticas de archivos de televisión internacional: selecciones curatoriales sobre programas icónicos, cadenas o épocas destacadas de la historia de la televisión.",
         "noCollections": "No hay colecciones disponibles",
         "createdAt": "Creada el {{date}}"
     },
@@ -134,9 +137,16 @@
             "cancel": "Cancelar"
         }
     },
+    "ranking": {
+        "title": "Clasificación",
+        "seo_title": "Clasificación de los Archivos Televisivos Más Populares - +2Télé",
+        "description": "Descubre los archivos de televisión más vistos en +2Télé: genéricos icónicos, publicidades y programas de culto votados por nuestra comunidad.",
+        "subtitle": "Los archivos más vistos"
+    },
     "zapping": {
         "title": "Zapping TV",
-        "description": "Redescubre los archivos de televisión de manera aleatoria",
+        "seo_title": "Zapping TV Aleatorio - Redescubre los Archivos Televisivos",
+        "description": "Redescubre las joyas ocultas de la televisión mundial con nuestro zapping aleatorio. Déjate sorprender por archivos de todas las épocas y cadenas.",
         "noSignal": "NO HAY SEÑAL",
         "currentlyPlaying": "En transmisión actual",
         "viewHistory": "Historial de visualización",

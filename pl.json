@@ -74,7 +74,8 @@
     },
     "archives": {
         "title": "Archiwa",
-        "description": "Przeglądaj nasze archiwum telewizyjne",
+        "seo_title": "Archiwa Telewizyjne - Programy, Czołówki & Reklamy",
+        "description": "Przeglądaj naszą rozległą kolekcję międzynarodowych archiwów telewizyjnych: czołówki kultowych programów, reklamy, oprawę graficzną stacji i niezapomniane chwile z historii telewizji.",
         "loadMore": "Wczytaj więcej archiwów",
         "noResults": "Nie znaleziono wyników",
         "pageInfo": "Strona {{current}} z {{total}} • Pokazywanie {{showing}} z {{totalItems}} archiwów",
@@ -82,7 +83,8 @@
     },
     "channels": {
         "title": "Kanały TV",
-        "description": "Sprawdź wszystkie dostępne kanały"
+        "seo_title": "Wszystkie Kanały Telewizyjne - Międzynarodowe Archiwum TV",
+        "description": "Przeglądaj archiwa kanałów telewizyjnych z całego świata: wielkie sieci ogólnokrajowe, kanały regionalne oraz nieistniejące lub nadal aktywne kanały tematyczne."
     },
     "channel": {
         "back": "Powrót do kanałów",
@@ -105,7 +107,8 @@
     },
     "collections": {
         "title": "Kolekcje",
-        "description": "Odkrywaj nasze tematyczne archiwalne kolekcje",
+        "seo_title": "Tematyczne Kolekcje Archiwów Telewizyjnych",
+        "description": "Przeglądaj nasze kuratorskie kolekcje tematyczne międzynarodowych archiwów telewizyjnych: wybory poświęcone kultowym programom, stacjom lub przełomowym epokom w historii telewizji.",
         "noCollections": "Brak kolekcji",
         "createdAt": "Utworzono {{date}}",
         "all": "Wszystkie kolekcje",
@@ -161,9 +164,16 @@
             "cancel": "Anuluj"
         }
     },
+    "ranking": {
+        "title": "Ranking",
+        "seo_title": "Ranking Najpopularniejszych Archiwów Telewizyjnych - +2Télé",
+        "description": "Odkryj najczęściej oglądane archiwa telewizyjne na +2Télé: kultowe czołówki, reklamy i legendarne programy oceniane przez naszą społeczność.",
+        "subtitle": "Najczęściej oglądane archiwa"
+    },
     "zapping": {
         "title": "Zapping",
-        "description": "Odkryj losowe archiwa telewizyjne",
+        "seo_title": "Losowy Zapping TV - Odkryj Archiwa Telewizyjne",
+        "description": "Odkryj ukryte perełki telewizji światowej dzięki naszemu losowemu zappingowi. Daj się zaskoczyć archiwami ze wszystkich epok i stacji.",
         "noSignal": "BRAK SYGNAŁU",
         "currentlyPlaying": "Teraz oglądasz",
         "viewHistory": "Historia oglądania",

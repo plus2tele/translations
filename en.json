@@ -75,7 +75,8 @@
     },
     "archives": {
         "title": "Archives",
-        "description": "Explore our collection of television archives",
+        "seo_title": "Television Archives - Shows, Intros & Ads",
+        "description": "Explore our vast collection of international television archives: iconic show intros, advertisements, channel branding and unforgettable moments from television history.",
         "loadMore": "Load more archives",
         "noArchives": "No archives available",
         "noResults": "No archives found for these criteria",
@@ -83,7 +84,8 @@
     },
     "channels": {
         "title": "TV Channels",
-        "description": "Discover all available channels"
+        "seo_title": "All TV Channels - International Television Archives",
+        "description": "Browse archives from television channels worldwide: major national networks, regional channels and defunct or still-active thematic channels."
     },
     "channel": {
         "back": "Back to channels",
@@ -106,7 +108,8 @@
     },
     "collections": {
         "title": "Collections",
-        "description": "Discover our thematic archive collections",
+        "seo_title": "Thematic Television Archive Collections",
+        "description": "Browse our curated thematic collections of international television archives: selections around iconic shows, channels or defining eras of television history.",
         "noCollections": "No collections available",
         "createdAt": "Created on {{date}}",
         "all": "All collections",
@@ -162,9 +165,16 @@
             "cancel": "Cancel"
         }
     },
+    "ranking": {
+        "title": "Rankings",
+        "seo_title": "Most Popular Television Archive Rankings - +2Télé",
+        "description": "Discover the most-watched television archives on +2Télé: iconic show intros, ads and cult programmes ranked by our community.",
+        "subtitle": "The most-watched archives"
+    },
     "zapping": {
         "title": "TV Zapping",
-        "description": "Rediscover television archives in a random way",
+        "seo_title": "Random TV Zapping - Rediscover Television Archives",
+        "description": "Rediscover hidden gems of international television with our random zapping feature. Let yourself be surprised by archives from all eras and all channels.",
         "noSignal": "NO SIGNAL",
         "currentlyPlaying": "Currently playing",
         "viewHistory": "View history",
