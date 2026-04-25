@@ -36,9 +36,9 @@
         "search": {
             "placeholder": "Caută prin arhive...",
             "filters": {
-                "channel": "Toate canalele",
-                "type": "Toate tipurile",
-                "year": "Toți anii"
+                "channel": "Canalele",
+                "type": "Tipurile",
+                "year": "Anii"
             }
         },
         "recentTitle": "Ultimele postări",
