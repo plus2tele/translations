@@ -36,9 +36,9 @@
         "search": {
             "placeholder": "Cerca negli archivi...",
             "filters": {
-                "channel": "Tutti i canali",
-                "type": "Tutti i tipi",
-                "year": "Tutti gli anni"
+                "channel": "Canali",
+                "type": "Tipi",
+                "year": "Anni"
             }
         },
         "recentTitle": "Ultimi arrivi",
