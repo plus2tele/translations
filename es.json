@@ -30,9 +30,9 @@
         "search": {
             "placeholder": "Buscar en los archivos...",
             "filters": {
-                "channel": "Todos los canales",
-                "type": "Todos los tipos",
-                "year": "Todos los años"
+                "channel": "Canales",
+                "type": "Tipos",
+                "year": "Años"
             }
         },
         "recentTitle": "Últimas incorporaciones",
