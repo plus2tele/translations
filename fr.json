@@ -17,6 +17,10 @@
     "view": {
       "grid": "Vue grille",
       "list": "Vue liste"
+    },
+    "update": {
+      "available": "Une nouvelle version est disponible.",
+      "button": "Mettre à jour"
     }
   },
   "nav": {

@@ -1,716 +1,720 @@
 {
-    "common": {
-        "notFound": "Nie znaleziono strony",
-        "back": "Powrót",
-        "seeMore": "Zobacz więcej",
-        "cancel": "Anuluj",
-        "submit": "Potwierdź",
-        "search": "Szukaj",
-        "noResults": "Brak wyników",
-        "close": "Zamknij",
-        "save": "Zapisz",
-        "saving": "Zapisywanie…",
-        "chooseFile": "Wybierz plik",
-        "explore": "Odkrywaj",
-        "view": {
-            "grid": "Widok siatki",
-            "list": "Widok listy"
-        },
-        "loading": "Ładowanie...",
-        "error": "Wystąpił błąd"
+  "common": {
+    "notFound": "Nie znaleziono strony",
+    "back": "Powrót",
+    "seeMore": "Zobacz więcej",
+    "cancel": "Anuluj",
+    "submit": "Potwierdź",
+    "search": "Szukaj",
+    "noResults": "Brak wyników",
+    "close": "Zamknij",
+    "save": "Zapisz",
+    "saving": "Zapisywanie…",
+    "chooseFile": "Wybierz plik",
+    "explore": "Odkrywaj",
+    "view": {
+      "grid": "Widok siatki",
+      "list": "Widok listy"
     },
-    "nav": {
-        "home": "Główna",
-        "archives": "Archiwa",
-        "channels": "Kanały",
-        "collections": "Kolekcje",
-        "changelog": "Dziennik zmian",
-        "legal": "Informacje prawne",
-        "zapping": "Zapping",
-        "community": "Społeczność",
-        "credits": "Autor"
+    "loading": "Ładowanie...",
+    "error": "Wystąpił błąd",
+    "update": {
+      "available": "Dostępna jest nowa wersja.",
+      "button": "Aktualizuj"
+    }
+  },
+  "nav": {
+    "home": "Główna",
+    "archives": "Archiwa",
+    "channels": "Kanały",
+    "collections": "Kolekcje",
+    "changelog": "Dziennik zmian",
+    "legal": "Informacje prawne",
+    "zapping": "Zapping",
+    "community": "Społeczność",
+    "credits": "Autor"
+  },
+  "home": {
+    "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, dżingli, czołówek i wielu innych ujęć z telewizora.",
+    "exploreCollection": "Odkryj naszą kolekcję {{stats}} archiwów telewizyjnych",
+    "search": {
+      "placeholder": "Szukaj archiwów...",
+      "filters": {
+        "channel": "Kanały",
+        "type": "Rodzaje",
+        "year": "Rok"
+      }
     },
-    "home": {
-        "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, dżingli, czołówek i wielu innych ujęć z telewizora.",
-        "exploreCollection": "Odkryj naszą kolekcję {{stats}} archiwów telewizyjnych",
-        "search": {
-            "placeholder": "Szukaj archiwów...",
-            "filters": {
-                "channel": "Kanały",
-                "type": "Rodzaje",
-                "year": "Rok"
-            }
-        },
-        "recentTitle": "Najnowsze archiwa",
-        "slogan": "Odkrywaj na nowo perełki telewizji",
-        "explore": "Odkrywaj archiwa",
-        "seechannels": "Zobacz listę kanałów",
-        "zap": "Zapping",
-        "discordTitle": "Dołącz do naszej społeczności na Discord",
-        "discordText": "Podziel się swoimi doświadczeniami, porozmawiaj z innymi fanami telewizji i bądź na bieżąco z naszymi nowościami w archiwum!",
-        "discordJoin": "Dołącz do serwera",
-        "popularTitle": "Popularne archiwa",
-        "popularCategories": "Popularne kategorie",
-        "seeall": "Zobacz wszystko",
-        "seeall2": "Zobacz wszystkie",
-        "infiguresTitle": "+2Télé w cyfrach",
-        "infiguresDescription": "Nasze archiwum rośnie z każdym dniem",
-        "infiguresArchives": "Dostępne archiwa",
-        "infiguresChannels": "Dostępne kanały",
-        "infiguresViews": "Łączna liczba wyświetleń",
-        "featuredCollections": "Proponowane kolekcje",
-        "noFeaturedCollections": "Obecnie nie proponujemy żadnej kolekcji",
-        "archivistProgramTitle": "Dołącz do społeczności +2Télé",
-        "archivistProgramDescription": "Dołącz do naszego programu archiwistycznego, aby pomóc nam dokumentować telewizyjne perełki.",
-        "archivistProgramButton1": "Zostań archiwistą",
-        "archivistProgramButton2": "Zobacz spis",
-        "exploreCollectionStatic": "Przeglądaj nasze obszerne archiwum telewizyjne",
-        "errors": {
-            "latest": "Nie można załadować najnowszych archiwów",
-            "popular": "Nie można załadować popularnych archiwów",
-            "categories": "Nie można wczytać kategorii",
-            "collections": "Nie można załadować kolekcji"
-        }
+    "recentTitle": "Najnowsze archiwa",
+    "slogan": "Odkrywaj na nowo perełki telewizji",
+    "explore": "Odkrywaj archiwa",
+    "seechannels": "Zobacz listę kanałów",
+    "zap": "Zapping",
+    "discordTitle": "Dołącz do naszej społeczności na Discord",
+    "discordText": "Podziel się swoimi doświadczeniami, porozmawiaj z innymi fanami telewizji i bądź na bieżąco z naszymi nowościami w archiwum!",
+    "discordJoin": "Dołącz do serwera",
+    "popularTitle": "Popularne archiwa",
+    "popularCategories": "Popularne kategorie",
+    "seeall": "Zobacz wszystko",
+    "seeall2": "Zobacz wszystkie",
+    "infiguresTitle": "+2Télé w cyfrach",
+    "infiguresDescription": "Nasze archiwum rośnie z każdym dniem",
+    "infiguresArchives": "Dostępne archiwa",
+    "infiguresChannels": "Dostępne kanały",
+    "infiguresViews": "Łączna liczba wyświetleń",
+    "featuredCollections": "Proponowane kolekcje",
+    "noFeaturedCollections": "Obecnie nie proponujemy żadnej kolekcji",
+    "archivistProgramTitle": "Dołącz do społeczności +2Télé",
+    "archivistProgramDescription": "Dołącz do naszego programu archiwistycznego, aby pomóc nam dokumentować telewizyjne perełki.",
+    "archivistProgramButton1": "Zostań archiwistą",
+    "archivistProgramButton2": "Zobacz spis",
+    "exploreCollectionStatic": "Przeglądaj nasze obszerne archiwum telewizyjne",
+    "errors": {
+      "latest": "Nie można załadować najnowszych archiwów",
+      "popular": "Nie można załadować popularnych archiwów",
+      "categories": "Nie można wczytać kategorii",
+      "collections": "Nie można załadować kolekcji"
+    }
+  },
+  "archives": {
+    "title": "Archiwa",
+    "seo_title": "Archiwa Telewizyjne - Programy, Czołówki & Reklamy",
+    "description": "Przeglądaj naszą rozległą kolekcję międzynarodowych archiwów telewizyjnych: czołówki kultowych programów, reklamy, oprawę graficzną stacji i niezapomniane chwile z historii telewizji.",
+    "loadMore": "Wczytaj więcej archiwów",
+    "noResults": "Nie znaleziono wyników",
+    "pageInfo": "Strona {{current}} z {{total}} • Pokazywanie {{showing}} z {{totalItems}} archiwów",
+    "noArchives": "Brak dostępnych archiwów"
+  },
+  "channels": {
+    "title": "Kanały TV",
+    "seo_title": "Wszystkie Kanały Telewizyjne - Międzynarodowe Archiwum TV",
+    "description": "Przeglądaj archiwa kanałów telewizyjnych z całego świata: wielkie sieci ogólnokrajowe, kanały regionalne oraz nieistniejące lub nadal aktywne kanały tematyczne."
+  },
+  "channel": {
+    "back": "Powrót do kanałów",
+    "status": {
+      "active": "Nadaje",
+      "defunct": "Martwy"
     },
-    "archives": {
-        "title": "Archiwa",
-        "seo_title": "Archiwa Telewizyjne - Programy, Czołówki & Reklamy",
-        "description": "Przeglądaj naszą rozległą kolekcję międzynarodowych archiwów telewizyjnych: czołówki kultowych programów, reklamy, oprawę graficzną stacji i niezapomniane chwile z historii telewizji.",
-        "loadMore": "Wczytaj więcej archiwów",
-        "noResults": "Nie znaleziono wyników",
-        "pageInfo": "Strona {{current}} z {{total}} • Pokazywanie {{showing}} z {{totalItems}} archiwów",
-        "noArchives": "Brak dostępnych archiwów"
-    },
-    "channels": {
-        "title": "Kanały TV",
-        "seo_title": "Wszystkie Kanały Telewizyjne - Międzynarodowe Archiwum TV",
-        "description": "Przeglądaj archiwa kanałów telewizyjnych z całego świata: wielkie sieci ogólnokrajowe, kanały regionalne oraz nieistniejące lub nadal aktywne kanały tematyczne."
-    },
-    "channel": {
-        "back": "Powrót do kanałów",
-        "status": {
-            "active": "Nadaje",
-            "defunct": "Martwy"
-        },
-        "seeLess": "Zobacz mniej",
-        "readMore": "Przeczytaj więcej",
-        "resultsCount_one": "{{count}} archiwów",
-        "resultsCount_other": "{{count}} w archiwum",
-        "filters": {
-            "sortBy": "Sortuj według",
-            "year": "Rok",
-            "type": "Rodzaj"
-        },
-        "emptyState": "Nie znaleziono żadnych archiwów dla tego kanału za pomocą tych filtrów. Zmień filtry i spróbuj ponownie.",
-        "pageInfo_one": "Strona {{current}} z {{total}} · {{count}} w archiwum",
-        "pageInfo_other": "Strona {{current}} z {{total}} wszystkich · {{count}} w archiwum"
-    },
-    "collections": {
-        "title": "Kolekcje",
-        "seo_title": "Tematyczne Kolekcje Archiwów Telewizyjnych",
-        "description": "Przeglądaj nasze kuratorskie kolekcje tematyczne międzynarodowych archiwów telewizyjnych: wybory poświęcone kultowym programom, stacjom lub przełomowym epokom w historii telewizji.",
-        "noCollections": "Brak kolekcji",
-        "createdAt": "Utworzono {{date}}",
-        "all": "Wszystkie kolekcje",
-        "searchPlaceholder": "Szukaj w kolekcjach...",
-        "searchResults": "Znaleziono {{count}} kolekcji dla zapytania „{{query}}”",
-        "noSearchResults": "Nie znaleziono żadnych kolekcji"
-    },
-    "player": {
-        "collection": "Kolekcja",
-        "previousVideo": "Poprzednie wideo",
-        "nextVideo": "Następne wideo",
-        "autoplay": "Automatyczne odtwarzanie",
-        "noCollectionArchives": "Brak archiwów w tej kolekcji",
-        "channel": "Kanał",
-        "type": "Rodzaj",
-        "year": "Rok",
-        "similar": "Podobne",
-        "recent": "Opublikowane niedawno",
-        "quickActions": "Szybkie skróty",
-        "views": "{{count}} wyświetleń",
-        "broadcastDate": "Wyemitowano {{date}}",
-        "unknownDate": "Nieznana data",
-        "postedBy": "Opublikowane przez {{username}}",
-        "noSimilarArchives": "Brak podobnych archiwów",
-        "noRecentArchives": "Brak opublikowanych niedawno archiwów",
-        "credits": {
-            "title": "Autorzy i prawa autorskie",
-            "copyright": "Prawa autorskie"
-        },
-        "music": {
-            "title": "Muzyka",
-            "listen": "Słuchaj",
-            "externalLink": {
-                "title": "Link zewnętrzny",
-                "description": "Zostaniesz przekierowany na zewnętrzną stronę, aby posłuchać utworu „{{title}}”. Czy chcesz kontynuować?",
-                "continue": "Kontynuuj"
-            }
-        },
-        "private": "Prywatny",
-        "actions": {
-            "quick": "Szybkie akcje",
-            "random": "Losowe archiwa",
-            "explore": "Odkrywaj kolekcje"
-        },
-        "toast": {
-            "linkCopied": "Link skopiowany do schowka!"
-        },
-        "watchTitle": "Obejrzyj {{title}} ({{year}}) z {{channel}}. Odkryj to archiwum w +2Télé.",
-        "adultWarning": {
-            "title": "Treści wrażliwe",
-            "message": "Treść ta może być nie odpowiednia dla młodszej widowni, gdyż może zawierać sceny przemocy lub nagości.",
-            "confirm": "Potwierdzam, że mam ukończone 18 lat",
-            "cancel": "Anuluj"
-        }
-    },
-    "ranking": {
-        "title": "Ranking",
-        "seo_title": "Ranking Najpopularniejszych Archiwów Telewizyjnych - +2Télé",
-        "description": "Odkryj najczęściej oglądane archiwa telewizyjne na +2Télé: kultowe czołówki, reklamy i legendarne programy oceniane przez naszą społeczność.",
-        "subtitle": "Najczęściej oglądane archiwa"
-    },
-    "zapping": {
-        "title": "Zapping",
-        "seo_title": "Losowy Zapping TV - Odkryj Archiwa Telewizyjne",
-        "description": "Odkryj ukryte perełki telewizji światowej dzięki naszemu losowemu zappingowi. Daj się zaskoczyć archiwami ze wszystkich epok i stacji.",
-        "noSignal": "BRAK SYGNAŁU",
-        "currentlyPlaying": "Teraz oglądasz",
-        "viewHistory": "Historia oglądania",
-        "viewPage": "Zobacz stronę",
-        "skip": "Pomiń archiwum",
-        "explore": "Przeglądaj archiwa telewizyjne na chybił trafił. Zupełnie tak, jak byś skakał po kanałach!"
-    },
-    "comments": {
-        "title": "Komentarze",
-        "loginRequired": "Musisz się zalogować w +2Télé, aby móc komentować archiwa.",
-        "error": {
-            "captcha": "Captcha została źle rozwiązana",
-            "banned": "Twoje konto zostało zbanowane. Nie możesz już komentować.",
-            "comment_restricted": "Twój dostęp do komentarzy został ograniczony przez zespół moderatorów."
-        },
-        "noComments": "Bądź pierwszy, który skomentuje to archiwum!",
-        "form": {
-            "placeholder": "Dodaj komentarz...",
-            "replyPlaceholder": "Odpowiedz na komentarz...",
-            "username": "Nick",
-            "submit": "Skomentuj"
-        },
-        "guidelines": {
-            "notice": "Twoje komentarze muszą być zgodne z wytycznymi naszej społeczności.",
-            "link": "Zapoznaj się z zasadami"
-        },
-        "edit": "Edytuj",
-        "delete": "Usuń",
-        "reply": "Odpowiedz",
-        "replyingTo": "Odpowiadasz @{{username}}",
-        "deleteTitle": "Usunąć komentarz?",
-        "deleteDescription": "Usuwając komentarz przyjmujesz do wiadomości, że ta akcja jest nieodwracalna.",
-        "confirmDelete": "Tak, usuwam",
-        "deleting": "Usuwanie..."
-    },
-    "footer": {
-        "description": "Odkryj na nowo perełki telewizji dzięki naszemu obszernemu archiwum.",
-        "navigation": "Nawigacja",
-        "followUs": "Obserwuj nas",
-        "copyright": "© 2022-{{year}} +2Télé. Wszelkie prawa zastrzeżone.",
-        "developedBy": "Opracowane przez"
-    },
-    "services": {
-        "wiki": {
-            "title": "+2Wikia",
-            "description": "Zapoznaj się z naszą wspólną bazą wiedzy na temat historii telewizji."
-        },
-        "discord": {
-            "title": "Serwer Discord",
-            "description": "Dołącz do naszej społeczności Discord, aby porozmawiać i podzielić się z nami swoimi doświadczeniami."
-        }
-    },
-    "carousel": {
-        "watch": "Oglądaj"
-    },
-    "cookies": {
-        "description": "Korzystamy z samodzielnie hostowanej instancji Matomo Analytics, aby ulepszyć Twoje doświadczenia. Dane te są hostowane we Francji i nigdy nie są udostępniane osobom trzecim. Będą one wykorzystywane wyłącznie w celach statystycznych oraz w celu udoskonalenia platformy.",
-        "learnMore": "Dowiedz się więcej",
-        "accept": "Akceptuję",
-        "refuse": "Odrzucam",
-        "close": "Zamknij baner plików cookie"
-    },
+    "seeLess": "Zobacz mniej",
+    "readMore": "Przeczytaj więcej",
+    "resultsCount_one": "{{count}} archiwów",
+    "resultsCount_other": "{{count}} w archiwum",
     "filters": {
-        "advanced": "Zaawansowane filtry",
-        "applied": "Zastosowane filtry:",
-        "clear": "Wyczyść filtry",
-        "results": "Wyniki wyszukiwania",
-        "allArchives": "Wszystkie archiwa",
-        "sort": {
-            "date": "Najnowsze",
-            "oldest": "Najstarsze",
-            "popular": "Popularne",
-            "alphabetical": "Alfabetycznie (A-Z)",
-            "alphabetical_desc": "Alfabetycznie (Z-A)"
-        }
+      "sortBy": "Sortuj według",
+      "year": "Rok",
+      "type": "Rodzaj"
     },
-    "auth": {
-        "login": "Połącz się",
-        "logout": "Wyloguj się",
-        "welcome": "Witaj w +2Télé",
-        "description": "Zaloguj się lub utwórz konto, aby dołączyć do naszej społeczności.",
-        "loginOrRegister": "Zaloguj się / Zarejestruj się",
-        "termsNotice": "Kontynuując, wyrażasz zgodę na nasze",
-        "terms": "Ogólne warunki użytkowania",
-        "and": "i",
-        "privacy": "Politykę prywatności"
+    "emptyState": "Nie znaleziono żadnych archiwów dla tego kanału za pomocą tych filtrów. Zmień filtry i spróbuj ponownie.",
+    "pageInfo_one": "Strona {{current}} z {{total}} · {{count}} w archiwum",
+    "pageInfo_other": "Strona {{current}} z {{total}} wszystkich · {{count}} w archiwum"
+  },
+  "collections": {
+    "title": "Kolekcje",
+    "seo_title": "Tematyczne Kolekcje Archiwów Telewizyjnych",
+    "description": "Przeglądaj nasze kuratorskie kolekcje tematyczne międzynarodowych archiwów telewizyjnych: wybory poświęcone kultowym programom, stacjom lub przełomowym epokom w historii telewizji.",
+    "noCollections": "Brak kolekcji",
+    "createdAt": "Utworzono {{date}}",
+    "all": "Wszystkie kolekcje",
+    "searchPlaceholder": "Szukaj w kolekcjach...",
+    "searchResults": "Znaleziono {{count}} kolekcji dla zapytania „{{query}}”",
+    "noSearchResults": "Nie znaleziono żadnych kolekcji"
+  },
+  "player": {
+    "collection": "Kolekcja",
+    "previousVideo": "Poprzednie wideo",
+    "nextVideo": "Następne wideo",
+    "autoplay": "Automatyczne odtwarzanie",
+    "noCollectionArchives": "Brak archiwów w tej kolekcji",
+    "channel": "Kanał",
+    "type": "Rodzaj",
+    "year": "Rok",
+    "similar": "Podobne",
+    "recent": "Opublikowane niedawno",
+    "quickActions": "Szybkie skróty",
+    "views": "{{count}} wyświetleń",
+    "broadcastDate": "Wyemitowano {{date}}",
+    "unknownDate": "Nieznana data",
+    "postedBy": "Opublikowane przez {{username}}",
+    "noSimilarArchives": "Brak podobnych archiwów",
+    "noRecentArchives": "Brak opublikowanych niedawno archiwów",
+    "credits": {
+      "title": "Autorzy i prawa autorskie",
+      "copyright": "Prawa autorskie"
     },
+    "music": {
+      "title": "Muzyka",
+      "listen": "Słuchaj",
+      "externalLink": {
+        "title": "Link zewnętrzny",
+        "description": "Zostaniesz przekierowany na zewnętrzną stronę, aby posłuchać utworu „{{title}}”. Czy chcesz kontynuować?",
+        "continue": "Kontynuuj"
+      }
+    },
+    "private": "Prywatny",
+    "actions": {
+      "quick": "Szybkie akcje",
+      "random": "Losowe archiwa",
+      "explore": "Odkrywaj kolekcje"
+    },
+    "toast": {
+      "linkCopied": "Link skopiowany do schowka!"
+    },
+    "watchTitle": "Obejrzyj {{title}} ({{year}}) z {{channel}}. Odkryj to archiwum w +2Télé.",
+    "adultWarning": {
+      "title": "Treści wrażliwe",
+      "message": "Treść ta może być nie odpowiednia dla młodszej widowni, gdyż może zawierać sceny przemocy lub nagości.",
+      "confirm": "Potwierdzam, że mam ukończone 18 lat",
+      "cancel": "Anuluj"
+    }
+  },
+  "ranking": {
+    "title": "Ranking",
+    "seo_title": "Ranking Najpopularniejszych Archiwów Telewizyjnych - +2Télé",
+    "description": "Odkryj najczęściej oglądane archiwa telewizyjne na +2Télé: kultowe czołówki, reklamy i legendarne programy oceniane przez naszą społeczność.",
+    "subtitle": "Najczęściej oglądane archiwa"
+  },
+  "zapping": {
+    "title": "Zapping",
+    "seo_title": "Losowy Zapping TV - Odkryj Archiwa Telewizyjne",
+    "description": "Odkryj ukryte perełki telewizji światowej dzięki naszemu losowemu zappingowi. Daj się zaskoczyć archiwami ze wszystkich epok i stacji.",
+    "noSignal": "BRAK SYGNAŁU",
+    "currentlyPlaying": "Teraz oglądasz",
+    "viewHistory": "Historia oglądania",
+    "viewPage": "Zobacz stronę",
+    "skip": "Pomiń archiwum",
+    "explore": "Przeglądaj archiwa telewizyjne na chybił trafił. Zupełnie tak, jak byś skakał po kanałach!"
+  },
+  "comments": {
+    "title": "Komentarze",
+    "loginRequired": "Musisz się zalogować w +2Télé, aby móc komentować archiwa.",
+    "error": {
+      "captcha": "Captcha została źle rozwiązana",
+      "banned": "Twoje konto zostało zbanowane. Nie możesz już komentować.",
+      "comment_restricted": "Twój dostęp do komentarzy został ograniczony przez zespół moderatorów."
+    },
+    "noComments": "Bądź pierwszy, który skomentuje to archiwum!",
+    "form": {
+      "placeholder": "Dodaj komentarz...",
+      "replyPlaceholder": "Odpowiedz na komentarz...",
+      "username": "Nick",
+      "submit": "Skomentuj"
+    },
+    "guidelines": {
+      "notice": "Twoje komentarze muszą być zgodne z wytycznymi naszej społeczności.",
+      "link": "Zapoznaj się z zasadami"
+    },
+    "edit": "Edytuj",
+    "delete": "Usuń",
+    "reply": "Odpowiedz",
+    "replyingTo": "Odpowiadasz @{{username}}",
+    "deleteTitle": "Usunąć komentarz?",
+    "deleteDescription": "Usuwając komentarz przyjmujesz do wiadomości, że ta akcja jest nieodwracalna.",
+    "confirmDelete": "Tak, usuwam",
+    "deleting": "Usuwanie..."
+  },
+  "footer": {
+    "description": "Odkryj na nowo perełki telewizji dzięki naszemu obszernemu archiwum.",
+    "navigation": "Nawigacja",
+    "followUs": "Obserwuj nas",
+    "copyright": "© 2022-{{year}} +2Télé. Wszelkie prawa zastrzeżone.",
+    "developedBy": "Opracowane przez"
+  },
+  "services": {
+    "wiki": {
+      "title": "+2Wikia",
+      "description": "Zapoznaj się z naszą wspólną bazą wiedzy na temat historii telewizji."
+    },
+    "discord": {
+      "title": "Serwer Discord",
+      "description": "Dołącz do naszej społeczności Discord, aby porozmawiać i podzielić się z nami swoimi doświadczeniami."
+    }
+  },
+  "carousel": {
+    "watch": "Oglądaj"
+  },
+  "cookies": {
+    "description": "Korzystamy z samodzielnie hostowanej instancji Matomo Analytics, aby ulepszyć Twoje doświadczenia. Dane te są hostowane we Francji i nigdy nie są udostępniane osobom trzecim. Będą one wykorzystywane wyłącznie w celach statystycznych oraz w celu udoskonalenia platformy.",
+    "learnMore": "Dowiedz się więcej",
+    "accept": "Akceptuję",
+    "refuse": "Odrzucam",
+    "close": "Zamknij baner plików cookie"
+  },
+  "filters": {
+    "advanced": "Zaawansowane filtry",
+    "applied": "Zastosowane filtry:",
+    "clear": "Wyczyść filtry",
+    "results": "Wyniki wyszukiwania",
+    "allArchives": "Wszystkie archiwa",
+    "sort": {
+      "date": "Najnowsze",
+      "oldest": "Najstarsze",
+      "popular": "Popularne",
+      "alphabetical": "Alfabetycznie (A-Z)",
+      "alphabetical_desc": "Alfabetycznie (Z-A)"
+    }
+  },
+  "auth": {
+    "login": "Połącz się",
+    "logout": "Wyloguj się",
+    "welcome": "Witaj w +2Télé",
+    "description": "Zaloguj się lub utwórz konto, aby dołączyć do naszej społeczności.",
+    "loginOrRegister": "Zaloguj się / Zarejestruj się",
+    "termsNotice": "Kontynuując, wyrażasz zgodę na nasze",
+    "terms": "Ogólne warunki użytkowania",
+    "and": "i",
+    "privacy": "Politykę prywatności"
+  },
+  "profile": {
+    "title": "Mój profil",
+    "description": "Zarządzaj swoim profilem i ustawieniami",
+    "settings": "Ustawienia",
+    "badges": {
+      "staff": "Moderacja",
+      "vip": "VIP",
+      "archivist": "Archiwista",
+      "verified": "Certyfikowany"
+    },
+    "memberSince": "Członek +2Télé od {{date}}",
+    "logout": "Wyloguj się z profilu",
+    "deleteAccount": "Usuń konto",
+    "deleteConfirm": "Usuwając konto przyjmujesz do wiadomości, że tej akcji nie da się cofnąć. Czy jesteś pewny? Przemyśl to i podaj ostateczną decyzję.",
+    "archives": "Archiwa",
+    "info": "Informacje",
+    "yourArchives": "Twoje archiwa",
+    "userArchives": "Archiwa {{username}}",
+    "archivesCount": "{{count}} archiwów łącznie",
+    "noArchives": "Brak archiwów na ten moment",
+    "publicDescription": "Profil użytkownika {{username}} na +2Télé",
+    "form": {
+      "avatar": "Awatar",
+      "motto": "Biografia",
+      "mottoPlaceholder": "Podziel się cytatem, który Cię reprezentuje...",
+      "pronouns": "Zaimki",
+      "pronounsPlaceholder": "Przykład: On/Jego, Ona/Jej (zaimek z dużej)",
+      "pronounsHelp": "Format: Zaimek/Zaimek (np. On/Jego)",
+      "pronounsInvalidFormat": "Nieprawidłowy format. Użyj formatu Zaimek/Zaimek (np. On/Jego). Sprawdź czy twoje 2 zaimki zaczynają się wielką literą.",
+      "mottoTooLong": "Biografia nie może przekraczać 100 znaków.",
+      "pronounsTooLong": "Zaimki nie mogą być dłuższe niż 50 znaków.",
+      "success": "Profil został pomyślnie zaktualizowany.",
+      "characters": "Charaktery",
+      "optional": "opcjonalnie",
+      "discordNotifications": "Powiadomienia na Discord",
+      "discordNotificationsHelp": "Otrzymuj prywatne wiadomości z ważnymi powiadomieniami.",
+      "discordArchiveCommentNotifications": "Powiadomienia o komentarzach archiwów",
+      "discordArchiveCommentNotificationsHelp": "Otrzymaj wiadomość na Discordzie, gdy ktoś skomentuje jedno z Twoich archiwów.",
+      "cropImage": "Przytnij obraz",
+      "avatarGuidelinesNotice": "Twoje zdjęcie profilowe musi być zgodne z wytycznymi społeczności.",
+      "avatarGuidelinesLink": "Zapoznaj się z zasadami"
+    }
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "description": "Zarządzaj ustawieniami swojego konta",
     "profile": {
-        "title": "Mój profil",
-        "description": "Zarządzaj swoim profilem i ustawieniami",
-        "settings": "Ustawienia",
-        "badges": {
-            "staff": "Moderacja",
-            "vip": "VIP",
-            "archivist": "Archiwista",
-            "verified": "Certyfikowany"
+      "title": "Twój profil",
+      "viewPublic": "Zobacz mój profil publiczny"
+    },
+    "notifications": {
+      "title": "Powiadomienia",
+      "discordTitle": "Preferencje Discord"
+    },
+    "account": {
+      "title": "Konto",
+      "logout": "Wylogowanie",
+      "logoutDescription": "Wyloguj się ze swojego konta",
+      "delete": "Usuń swoje konto",
+      "deleteDescription": "Trwale usuń swoje konto",
+      "deleteConfirmTitle": "Jesteś pewny?",
+      "deleteConfirmDescription": "Ta czynność jest nieodwracalna. Wszystkie Twoje dane zostaną usunięte.",
+      "deleteConfirm": "Tak, usuń moje konto"
+    }
+  },
+  "archivist": {
+    "title": "Przestrzeń Archiwistów",
+    "description": "Zarządzanie archiwami",
+    "become": "Zostań archiwistą",
+    "nav": {
+      "stats": "Statystyki",
+      "upload": "Dodaj archiwa",
+      "channels": "Kanały",
+      "collections": "Kolekcje",
+      "encodings": "Przetwarzanie",
+      "certification": "Certyfikat"
+    },
+    "stats": {
+      "archives": "Archiwa",
+      "channels": "Kanały",
+      "views": "Łączna liczba wyświetleń"
+    },
+    "upload": {
+      "title": "Nazwa",
+      "description": "Opis (obsługiwane Markdown)",
+      "category": "Rodzaj archiwum",
+      "selectCategory": "Wybierz rodzaj",
+      "channel": "Kanał",
+      "selectChannel": "Wybierz kanał",
+      "copyright": "Autor i Prawa autorskie",
+      "year": "Rok",
+      "broadcastDate": "Data emisji",
+      "music": "Muzyka",
+      "musicTitle": "Nazwa muzyki",
+      "missingFields": "Proszę wypełnić wszystkie wymagane pola (rodzaj archiwum i kanał) dla wszystkich plików.",
+      "musicUrl": "Adres URL muzyki",
+      "resolution": "Wymiary",
+      "video": "Wideo",
+      "videoHelp": "Tylko pliki MP4. Należy zachować rozdzielczość.",
+      "submit": "Prześlij archiwum",
+      "uploading": "Przesyłanie w toku...",
+      "uploadingTitle": "Przesyłanie",
+      "uploadingDescription": "Proszę czekać, Twoje archiwum jest przesyłane...",
+      "error": "Wystąpił błąd podczas wysyłania archiwum",
+      "status": {
+        "completed": "Zakończony",
+        "failed": "Błąd",
+        "waiting": "Oczekiwanie...",
+        "processing": "Przetwarzanie: {{step}} ({{progress}}%)",
+        "incomplete": "nieukończony",
+        "ready": "Gotowy",
+        "error": "Błąd przetwarzania",
+        "errorServer": "Błąd serwera",
+        "errorNetwork": "Błąd internetu"
+      },
+      "viewArchive": "Zobacz archiwum",
+      "success": {
+        "title": "Archiwum przesłane!",
+        "description": "{{count}} twoich plików zostało zaimportowanych i jest przetwarzanych.<br />Będą dostępne po zakończeniu przetwarzania.",
+        "returnToArchives": "POWRÓT DO ARCHIWUM",
+        "sendMore": "WYŚLIJ INNE PLIKI"
+      },
+      "dropzone": {
+        "title": "Przeciągnij i upuść tutaj swoje pliki wideo",
+        "subtitle": "Możesz wysłać wiele plików jednocześnie.",
+        "button": "WYBIERZ PLIKI",
+        "warning": "Szanuj prawa autorskie i warunki użytkowania."
+      },
+      "filesCount": "{{count}} plików",
+      "importation": "Importowanie",
+      "filesListTitle": "Pliki ({{count}})",
+      "tabs": {
+        "details": "Szczegóły",
+        "technical": "Techniczne",
+        "visibility": "Widoczność"
+      },
+      "applyToAll": {
+        "button": "Zastosuj do wszystkich plików",
+        "title": "Zastosuj te ustawienia do wszystkich innych plików",
+        "copy": "Zastosuj",
+        "copyTitle": "Zastosuj do każdego pliku"
+      },
+      "optional": "(opcjonalnie)",
+      "translations": {
+        "add": "Dodaj tłumaczenia",
+        "hide": "Ukryj tłumaczenia",
+        "descriptionPlaceholder": "Przetłumaczony opis..."
+      },
+      "placeholders": {
+        "title": "Dodaj tytuł opisujący Twój film",
+        "description": "Szczegóły dotyczące tego archiwum",
+        "copyright": "Informacje o prawach autorskich",
+        "select": "Wybierz..."
+      },
+      "adultContent": {
+        "title": "Treści dla dorosłych (18+)",
+        "description": "Ta treść będzie rozmazana i będzie wymagała weryfikacji wieku. Będzie widoczna tylko dla użytkowników pełnoletnich."
+      },
+      "visibilityConfig": {
+        "title": "Widoczność",
+        "description": "Wybierz, kiedy chcesz opublikować swój film i kto może go zobaczyć.",
+        "private": {
+          "title": "Prywatne / Niepubliczne (wkrótce)",
+          "description": "Tylko osoby posiadające link (lub Ty) będą mogły obejrzeć film. Nie pojawi się on w wynikach wyszukiwania."
         },
-        "memberSince": "Członek +2Télé od {{date}}",
-        "logout": "Wyloguj się z profilu",
-        "deleteAccount": "Usuń konto",
-        "deleteConfirm": "Usuwając konto przyjmujesz do wiadomości, że tej akcji nie da się cofnąć. Czy jesteś pewny? Przemyśl to i podaj ostateczną decyzję.",
-        "archives": "Archiwa",
-        "info": "Informacje",
-        "yourArchives": "Twoje archiwa",
-        "userArchives": "Archiwa {{username}}",
-        "archivesCount": "{{count}} archiwów łącznie",
-        "noArchives": "Brak archiwów na ten moment",
-        "publicDescription": "Profil użytkownika {{username}} na +2Télé",
-        "form": {
-            "avatar": "Awatar",
-            "motto": "Biografia",
-            "mottoPlaceholder": "Podziel się cytatem, który Cię reprezentuje...",
-            "pronouns": "Zaimki",
-            "pronounsPlaceholder": "Przykład: On/Jego, Ona/Jej (zaimek z dużej)",
-            "pronounsHelp": "Format: Zaimek/Zaimek (np. On/Jego)",
-            "pronounsInvalidFormat": "Nieprawidłowy format. Użyj formatu Zaimek/Zaimek (np. On/Jego). Sprawdź czy twoje 2 zaimki zaczynają się wielką literą.",
-            "mottoTooLong": "Biografia nie może przekraczać 100 znaków.",
-            "pronounsTooLong": "Zaimki nie mogą być dłuższe niż 50 znaków.",
-            "success": "Profil został pomyślnie zaktualizowany.",
-            "characters": "Charaktery",
-            "optional": "opcjonalnie",
-            "discordNotifications": "Powiadomienia na Discord",
-            "discordNotificationsHelp": "Otrzymuj prywatne wiadomości z ważnymi powiadomieniami.",
-            "discordArchiveCommentNotifications": "Powiadomienia o komentarzach archiwów",
-            "discordArchiveCommentNotificationsHelp": "Otrzymaj wiadomość na Discordzie, gdy ktoś skomentuje jedno z Twoich archiwów.",
-            "cropImage": "Przytnij obraz",
-            "avatarGuidelinesNotice": "Twoje zdjęcie profilowe musi być zgodne z wytycznymi społeczności.",
-            "avatarGuidelinesLink": "Zapoznaj się z zasadami"
+        "public": {
+          "title": "Publiczny (Natychmiastowe)",
+          "description": "Każdy może zobaczyć Twój film. Zostanie on opublikowany natychmiast po przetworzeniu."
+        },
+        "scheduled": {
+          "title": "Zaplanuj (wkrótce)",
+          "description": "Wybierz datę, kiedy Twój film zostanie automatycznie upubliczniony."
         }
+      },
+      "actions": {
+        "previous": "Poprzednie",
+        "next": "Następne",
+        "validateAndNext": "Potwierdź i idź dalej",
+        "importAll": "Importuj wszystko",
+        "processing": "Przetwarzanie...",
+        "cancel": {
+          "continue": "Kontynuuj edycję",
+          "confirm": "Anuluj wszystko"
+        },
+        "copyAll": {
+          "cancel": "Anuluj",
+          "confirm": "Tak, zastosuj do wszystkich"
+        },
+        "copyField": {
+          "cancel": "Anuluj",
+          "confirm": "Tak, zastosuj"
+        }
+      },
+      "modals": {
+        "cancel": {
+          "title": "Anulować operację?",
+          "description": "Wszystkie wprowadzone dane zostaną utracone, a lista plików zostanie wyczyszczona."
+        },
+        "copyAll": {
+          "title": "Zastosować do wszystkich plików?",
+          "description": "Czy chcesz skopiować wszystkie metadane z tego pliku (kategorię, ciąg znaków, opis itp.) do pozostałych plików na liście? Tytuł nie zostanie skopiowany."
+        },
+        "copyField": {
+          "title": "Skopiować te informacje?",
+          "description": "Czy chcesz skopiować te informacje do wszystkich pozostałych plików na liście?"
+        }
+      }
+    },
+    "edit": {
+      "title": "Edytuj",
+      "errors": {
+        "load": "Nie można załadować archiwum",
+        "changeThumbnail": "Nie można zmienić miniatury",
+        "regenerateThumbnails": "Nie można wygenerować miniatur",
+        "delete": "Błąd podczas usuwania",
+        "upload": "Błąd podczas przesyłania"
+      },
+      "visibility": {
+        "publicTitle": "Publiczny",
+        "publicDescription": "Widoczne dla wszystkich.",
+        "privateTitle": "Prywatne / Niepubliczne",
+        "privateDescription": "Widoczne tylko poprzez bezpośredni link."
+      },
+      "confirmDelete": "Czy na pewno chcesz trwale usunąć to archiwum? Ta czynność jest nieodwracalna.",
+      "successDelete": "Archiwum zostało pomyślnie usunięte.",
+      "successTitle": "Zapisano zmiany!",
+      "successUpdate": "Archiwum zostało pomyślnie zaktualizowane.",
+      "titlePrefix": "Edytuj:",
+      "thumbnail": "Miniaturka",
+      "regenerate": "Regeneruj",
+      "current": "Aktualny",
+      "choose": "Wybierz",
+      "replaceMedia": "Zastąp media",
+      "replaceMediaDescription": {
+        "line1": "Możesz zastąpić plik wideo w tym archiwum.",
+        "line2": "Ostrzeżenie: spowoduje to ponowne przetworzenie i regenerację miniatur."
+      },
+      "confirmReplaceMedia": "Czy na pewno chcesz zastąpić wideo? Ta czynność jest nieodwracalna.",
+      "dragDropReplace": "Kliknij lub przeciągnij tutaj film, aby go zastąpić",
+      "delete": "USUŃ"
+    }
+  },
+  "community": {
+    "title": "Wytyczne dla społeczności",
+    "description": "Zasady i wytyczne dla społeczności",
+    "intro": "Aby utrzymać przyjazną i konstruktywną atmosferę, ustanowiliśmy zasady, których wszyscy członkowie muszą przestrzegać podczas interakcji na portalu +2Télé.",
+    "rules": {
+      "title": "Zasady społeczności",
+      "respect": {
+        "title": "Wzajemny szacunek",
+        "description": "Traktuj innych z szacunkiem. Obelgi, nękanie, uwagi dyskryminujące lub obraźliwe nie są tolerowane."
+      },
+      "ontopic": {
+        "title": "Istotność komentarzy",
+        "description": "Komentarze muszą odnosić się do archiwum lub bieżącej dyskusji. Unikaj odchodzenia od tematu."
+      },
+      "spam": {
+        "title": "Bez spamu",
+        "description": "Zabronione jest wysyłanie powtarzających się wiadomości, reklam i złośliwych linków."
+      },
+      "avatar": {
+        "title": "Zdjęcia profilowe",
+        "description": "Twoje zdjęcie profilowe nie może zawierać treści obraźliwych, dyskryminujących, brutalnych, o charakterze seksualnym ani treści naruszających nasze wartości. Zabrania się publikowania zdjęć imitujących wybraną osobę lub podszywania się pod nią."
+      }
+    },
+    "moderation": {
+      "title": "Moderatorzy",
+      "description": "Nasz zespół moderatorów czuwa nad przestrzeganiem tych zasad, aby zachować zdrowe środowisko.",
+      "warning": "Komentarze niezgodne z tymi zasadami będą usuwane bez uprzedzenia."
+    },
+    "sanctions": {
+      "title": "Sankcje",
+      "description": "Niedostosowanie się do zasad może skutkować sankcjami:",
+      "warning": "Ostrzeżenie",
+      "temporary": "Tymczasowe zawieszenie",
+      "permanent": "Stały ban"
+    }
+  },
+  "community_page": {
+    "title": "Społeczność +2Télé",
+    "subtitle": "Poznaj ludzi, którzy rozwijają +2Télé i angażują się w społeczności.",
+    "description": "Strona poświęcona społeczności i zespołowi +2Télé.",
+    "creations": {
+      "title": "Twórczość społeczności",
+      "p2retro": {
+        "title": "+2Retro",
+        "subtitle": "Podcast, dzięki któremu możesz poznać najlepsze momenty telewizji 📺",
+        "description": "Odkryjesz: historie, których szybko nie zapomnisz, gry i informacje.",
+        "credits": "Produkcja i prowadzenie: Manu Lassabe. Uczestnicy: Max (Zeima), Guillaume i Valentin.",
+        "listen": "Słuchaj na:"
+      },
+      "fandetele": {
+        "title": "Fan de Télé, Le Direct",
+        "subtitle": "Program, w którym prezentowane są wiadomości z telewizji francuskiej",
+        "description": "Dowiaduj się najnowszych francuskich wiadomości telewizyjnych na żywo.",
+        "credits": "Przez 60 Hz Productions",
+        "watch": "Oglądaj na YouTube"
+      }
+    },
+    "team": {
+      "title": "Zespół",
+      "staff": "Personel",
+      "archivists": "Archiwiści"
+    }
+  },
+  "staff": {
+    "moderation": {
+      "title": "Moderatorzy",
+      "ban": "Banuj na stałe",
+      "banDescription": "Zablokuj cały dostęp do konta",
+      "unban": "Unbanuj",
+      "unbanDescription": "Przywróć pełny dostęp do konta",
+      "suspend": "Tymczasowe zawieszenie",
+      "suspendDescription": "Dostęp zablokowany do określonej daty",
+      "suspendedUntil": "Zawieszone do",
+      "lift": "Podnieś",
+      "apply": "Zastosuj sankcje",
+      "restrictComments": "Wyłącz komentarze",
+      "restrictCommentsDescription": "Użytkownik nie będzie już mógł komentować",
+      "unrestrictComments": "Zezwalaj na komentarze",
+      "unrestrictCommentsDescription": "Odwołaj zakaz komentowania",
+      "banned": "Konto zbanowane",
+      "suspended": "Konto zawieszone",
+      "commentRestricted": "Komentarze ograniczone",
+      "confirmBan": "Czy zablokować tego użytkownika na stałe? Tę czynność można później cofnąć.",
+      "confirmRestrictComments": "Czy zabronić komentowanie temu użytkownikowi?"
     },
     "settings": {
-        "title": "Ustawienia",
-        "description": "Zarządzaj ustawieniami swojego konta",
-        "profile": {
-            "title": "Twój profil",
-            "viewPublic": "Zobacz mój profil publiczny"
-        },
-        "notifications": {
-            "title": "Powiadomienia",
-            "discordTitle": "Preferencje Discord"
-        },
-        "account": {
-            "title": "Konto",
-            "logout": "Wylogowanie",
-            "logoutDescription": "Wyloguj się ze swojego konta",
-            "delete": "Usuń swoje konto",
-            "deleteDescription": "Trwale usuń swoje konto",
-            "deleteConfirmTitle": "Jesteś pewny?",
-            "deleteConfirmDescription": "Ta czynność jest nieodwracalna. Wszystkie Twoje dane zostaną usunięte.",
-            "deleteConfirm": "Tak, usuń moje konto"
-        }
+      "title": "Ustawienia platformy",
+      "description": "Zarządzaj globalnymi ustawieniami platformy.",
+      "encoding": {
+        "title": "Przetwarzania",
+        "description": "Parametry związane z przetwarzaniem wideo.",
+        "activeEncodings": "Aktywne przetwarzania",
+        "queued": "W kolejce",
+        "concurrentLimit": "Jednoczesny limit",
+        "maxConcurrentLabel": "Maksymalna liczba jednoczesnych przetwarzań",
+        "maxConcurrentHelp": "Wartość od 1 do 20. Przetwarzania przekraczające ten limit zostaną umieszczone w kolejce.",
+        "save": "Zapisz ustawienia",
+        "saving": "Zapisywanie...",
+        "saved": "Zapisano!",
+        "saveError": "Błąd w zapisywaniu"
+      }
     },
-    "archivist": {
-        "title": "Przestrzeń Archiwistów",
-        "description": "Zarządzanie archiwami",
-        "become": "Zostań archiwistą",
-        "nav": {
-            "stats": "Statystyki",
-            "upload": "Dodaj archiwa",
-            "channels": "Kanały",
-            "collections": "Kolekcje",
-            "encodings": "Przetwarzanie",
-            "certification": "Certyfikat"
-        },
-        "stats": {
-            "archives": "Archiwa",
-            "channels": "Kanały",
-            "views": "Łączna liczba wyświetleń"
-        },
-        "upload": {
-            "title": "Nazwa",
-            "description": "Opis (obsługiwane Markdown)",
-            "category": "Rodzaj archiwum",
-            "selectCategory": "Wybierz rodzaj",
-            "channel": "Kanał",
-            "selectChannel": "Wybierz kanał",
-            "copyright": "Autor i Prawa autorskie",
-            "year": "Rok",
-            "broadcastDate": "Data emisji",
-            "music": "Muzyka",
-            "musicTitle": "Nazwa muzyki",
-            "missingFields": "Proszę wypełnić wszystkie wymagane pola (rodzaj archiwum i kanał) dla wszystkich plików.",
-            "musicUrl": "Adres URL muzyki",
-            "resolution": "Wymiary",
-            "video": "Wideo",
-            "videoHelp": "Tylko pliki MP4. Należy zachować rozdzielczość.",
-            "submit": "Prześlij archiwum",
-            "uploading": "Przesyłanie w toku...",
-            "uploadingTitle": "Przesyłanie",
-            "uploadingDescription": "Proszę czekać, Twoje archiwum jest przesyłane...",
-            "error": "Wystąpił błąd podczas wysyłania archiwum",
-            "status": {
-                "completed": "Zakończony",
-                "failed": "Błąd",
-                "waiting": "Oczekiwanie...",
-                "processing": "Przetwarzanie: {{step}} ({{progress}}%)",
-                "incomplete": "nieukończony",
-                "ready": "Gotowy",
-                "error": "Błąd przetwarzania",
-                "errorServer": "Błąd serwera",
-                "errorNetwork": "Błąd internetu"
-            },
-            "viewArchive": "Zobacz archiwum",
-            "success": {
-                "title": "Archiwum przesłane!",
-                "description": "{{count}} twoich plików zostało zaimportowanych i jest przetwarzanych.<br />Będą dostępne po zakończeniu przetwarzania.",
-                "returnToArchives": "POWRÓT DO ARCHIWUM",
-                "sendMore": "WYŚLIJ INNE PLIKI"
-            },
-            "dropzone": {
-                "title": "Przeciągnij i upuść tutaj swoje pliki wideo",
-                "subtitle": "Możesz wysłać wiele plików jednocześnie.",
-                "button": "WYBIERZ PLIKI",
-                "warning": "Szanuj prawa autorskie i warunki użytkowania."
-            },
-            "filesCount": "{{count}} plików",
-            "importation": "Importowanie",
-            "filesListTitle": "Pliki ({{count}})",
-            "tabs": {
-                "details": "Szczegóły",
-                "technical": "Techniczne",
-                "visibility": "Widoczność"
-            },
-            "applyToAll": {
-                "button": "Zastosuj do wszystkich plików",
-                "title": "Zastosuj te ustawienia do wszystkich innych plików",
-                "copy": "Zastosuj",
-                "copyTitle": "Zastosuj do każdego pliku"
-            },
-            "optional": "(opcjonalnie)",
-            "translations": {
-                "add": "Dodaj tłumaczenia",
-                "hide": "Ukryj tłumaczenia",
-                "descriptionPlaceholder": "Przetłumaczony opis..."
-            },
-            "placeholders": {
-                "title": "Dodaj tytuł opisujący Twój film",
-                "description": "Szczegóły dotyczące tego archiwum",
-                "copyright": "Informacje o prawach autorskich",
-                "select": "Wybierz..."
-            },
-            "adultContent": {
-                "title": "Treści dla dorosłych (18+)",
-                "description": "Ta treść będzie rozmazana i będzie wymagała weryfikacji wieku. Będzie widoczna tylko dla użytkowników pełnoletnich."
-            },
-            "visibilityConfig": {
-                "title": "Widoczność",
-                "description": "Wybierz, kiedy chcesz opublikować swój film i kto może go zobaczyć.",
-                "private": {
-                    "title": "Prywatne / Niepubliczne (wkrótce)",
-                    "description": "Tylko osoby posiadające link (lub Ty) będą mogły obejrzeć film. Nie pojawi się on w wynikach wyszukiwania."
-                },
-                "public": {
-                    "title": "Publiczny (Natychmiastowe)",
-                    "description": "Każdy może zobaczyć Twój film. Zostanie on opublikowany natychmiast po przetworzeniu."
-                },
-                "scheduled": {
-                    "title": "Zaplanuj (wkrótce)",
-                    "description": "Wybierz datę, kiedy Twój film zostanie automatycznie upubliczniony."
-                }
-            },
-            "actions": {
-                "previous": "Poprzednie",
-                "next": "Następne",
-                "validateAndNext": "Potwierdź i idź dalej",
-                "importAll": "Importuj wszystko",
-                "processing": "Przetwarzanie...",
-                "cancel": {
-                    "continue": "Kontynuuj edycję",
-                    "confirm": "Anuluj wszystko"
-                },
-                "copyAll": {
-                    "cancel": "Anuluj",
-                    "confirm": "Tak, zastosuj do wszystkich"
-                },
-                "copyField": {
-                    "cancel": "Anuluj",
-                    "confirm": "Tak, zastosuj"
-                }
-            },
-            "modals": {
-                "cancel": {
-                    "title": "Anulować operację?",
-                    "description": "Wszystkie wprowadzone dane zostaną utracone, a lista plików zostanie wyczyszczona."
-                },
-                "copyAll": {
-                    "title": "Zastosować do wszystkich plików?",
-                    "description": "Czy chcesz skopiować wszystkie metadane z tego pliku (kategorię, ciąg znaków, opis itp.) do pozostałych plików na liście? Tytuł nie zostanie skopiowany."
-                },
-                "copyField": {
-                    "title": "Skopiować te informacje?",
-                    "description": "Czy chcesz skopiować te informacje do wszystkich pozostałych plików na liście?"
-                }
-            }
-        },
-        "edit": {
-            "title": "Edytuj",
-            "errors": {
-                "load": "Nie można załadować archiwum",
-                "changeThumbnail": "Nie można zmienić miniatury",
-                "regenerateThumbnails": "Nie można wygenerować miniatur",
-                "delete": "Błąd podczas usuwania",
-                "upload": "Błąd podczas przesyłania"
-            },
-            "visibility": {
-                "publicTitle": "Publiczny",
-                "publicDescription": "Widoczne dla wszystkich.",
-                "privateTitle": "Prywatne / Niepubliczne",
-                "privateDescription": "Widoczne tylko poprzez bezpośredni link."
-            },
-            "confirmDelete": "Czy na pewno chcesz trwale usunąć to archiwum? Ta czynność jest nieodwracalna.",
-            "successDelete": "Archiwum zostało pomyślnie usunięte.",
-            "successTitle": "Zapisano zmiany!",
-            "successUpdate": "Archiwum zostało pomyślnie zaktualizowane.",
-            "titlePrefix": "Edytuj:",
-            "thumbnail": "Miniaturka",
-            "regenerate": "Regeneruj",
-            "current": "Aktualny",
-            "choose": "Wybierz",
-            "replaceMedia": "Zastąp media",
-            "replaceMediaDescription": {
-                "line1": "Możesz zastąpić plik wideo w tym archiwum.",
-                "line2": "Ostrzeżenie: spowoduje to ponowne przetworzenie i regenerację miniatur."
-            },
-            "confirmReplaceMedia": "Czy na pewno chcesz zastąpić wideo? Ta czynność jest nieodwracalna.",
-            "dragDropReplace": "Kliknij lub przeciągnij tutaj film, aby go zastąpić",
-            "delete": "USUŃ"
-        }
+    "encoding": {
+      "title": "Panel przetwarzania",
+      "description": "Śledź status wszystkich przetwarzań aktualnie realizowanych na platformie.",
+      "updatedAt": "Zaaktualizowano o:",
+      "noEncodings": "Brak przetwarzań.",
+      "queued": "przetwarzania w kolejce",
+      "restartAll": "Zrestartuj wszystkie",
+      "restartAllConfirm": "Czy uruchomić ponownie wszystkie nieudane/zablokowane przetwarzania?",
+      "table": {
+        "title": "Nazwa",
+        "user": "Użytkownik",
+        "status": "Status",
+        "progress": "Postęp",
+        "updatedAt": "Zaaktualizowano o",
+        "actions": "Akcje"
+      },
+      "status": {
+        "completed": "Zakończono",
+        "failed": "Zakończono niepomyślnie",
+        "processing": "Pracowanie",
+        "pending": "Oczekiwanie"
+      },
+      "actions": {
+        "restart": "Restartowanie",
+        "forceComplete": "Ukończono (wymuszone przez użytkownika)"
+      }
     },
-    "community": {
-        "title": "Wytyczne dla społeczności",
-        "description": "Zasady i wytyczne dla społeczności",
-        "intro": "Aby utrzymać przyjazną i konstruktywną atmosferę, ustanowiliśmy zasady, których wszyscy członkowie muszą przestrzegać podczas interakcji na portalu +2Télé.",
-        "rules": {
-            "title": "Zasady społeczności",
-            "respect": {
-                "title": "Wzajemny szacunek",
-                "description": "Traktuj innych z szacunkiem. Obelgi, nękanie, uwagi dyskryminujące lub obraźliwe nie są tolerowane."
-            },
-            "ontopic": {
-                "title": "Istotność komentarzy",
-                "description": "Komentarze muszą odnosić się do archiwum lub bieżącej dyskusji. Unikaj odchodzenia od tematu."
-            },
-            "spam": {
-                "title": "Bez spamu",
-                "description": "Zabronione jest wysyłanie powtarzających się wiadomości, reklam i złośliwych linków."
-            },
-            "avatar": {
-                "title": "Zdjęcia profilowe",
-                "description": "Twoje zdjęcie profilowe nie może zawierać treści obraźliwych, dyskryminujących, brutalnych, o charakterze seksualnym ani treści naruszających nasze wartości. Zabrania się publikowania zdjęć imitujących wybraną osobę lub podszywania się pod nią."
-            }
-        },
-        "moderation": {
-            "title": "Moderatorzy",
-            "description": "Nasz zespół moderatorów czuwa nad przestrzeganiem tych zasad, aby zachować zdrowe środowisko.",
-            "warning": "Komentarze niezgodne z tymi zasadami będą usuwane bez uprzedzenia."
-        },
-        "sanctions": {
-            "title": "Sankcje",
-            "description": "Niedostosowanie się do zasad może skutkować sankcjami:",
-            "warning": "Ostrzeżenie",
-            "temporary": "Tymczasowe zawieszenie",
-            "permanent": "Stały ban"
-        }
-    },
-    "community_page": {
-        "title": "Społeczność +2Télé",
-        "subtitle": "Poznaj ludzi, którzy rozwijają +2Télé i angażują się w społeczności.",
-        "description": "Strona poświęcona społeczności i zespołowi +2Télé.",
-        "creations": {
-            "title": "Twórczość społeczności",
-            "p2retro": {
-                "title": "+2Retro",
-                "subtitle": "Podcast, dzięki któremu możesz poznać najlepsze momenty telewizji 📺",
-                "description": "Odkryjesz: historie, których szybko nie zapomnisz, gry i informacje.",
-                "credits": "Produkcja i prowadzenie: Manu Lassabe. Uczestnicy: Max (Zeima), Guillaume i Valentin.",
-                "listen": "Słuchaj na:"
-            },
-            "fandetele": {
-                "title": "Fan de Télé, Le Direct",
-                "subtitle": "Program, w którym prezentowane są wiadomości z telewizji francuskiej",
-                "description": "Dowiaduj się najnowszych francuskich wiadomości telewizyjnych na żywo.",
-                "credits": "Przez 60 Hz Productions",
-                "watch": "Oglądaj na YouTube"
-            }
-        },
-        "team": {
-            "title": "Zespół",
-            "staff": "Personel",
-            "archivists": "Archiwiści"
-        }
-    },
-    "staff": {
-        "moderation": {
-            "title": "Moderatorzy",
-            "ban": "Banuj na stałe",
-            "banDescription": "Zablokuj cały dostęp do konta",
-            "unban": "Unbanuj",
-            "unbanDescription": "Przywróć pełny dostęp do konta",
-            "suspend": "Tymczasowe zawieszenie",
-            "suspendDescription": "Dostęp zablokowany do określonej daty",
-            "suspendedUntil": "Zawieszone do",
-            "lift": "Podnieś",
-            "apply": "Zastosuj sankcje",
-            "restrictComments": "Wyłącz komentarze",
-            "restrictCommentsDescription": "Użytkownik nie będzie już mógł komentować",
-            "unrestrictComments": "Zezwalaj na komentarze",
-            "unrestrictCommentsDescription": "Odwołaj zakaz komentowania",
-            "banned": "Konto zbanowane",
-            "suspended": "Konto zawieszone",
-            "commentRestricted": "Komentarze ograniczone",
-            "confirmBan": "Czy zablokować tego użytkownika na stałe? Tę czynność można później cofnąć.",
-            "confirmRestrictComments": "Czy zabronić komentowanie temu użytkownikowi?"
-        },
-        "settings": {
-            "title": "Ustawienia platformy",
-            "description": "Zarządzaj globalnymi ustawieniami platformy.",
-            "encoding": {
-                "title": "Przetwarzania",
-                "description": "Parametry związane z przetwarzaniem wideo.",
-                "activeEncodings": "Aktywne przetwarzania",
-                "queued": "W kolejce",
-                "concurrentLimit": "Jednoczesny limit",
-                "maxConcurrentLabel": "Maksymalna liczba jednoczesnych przetwarzań",
-                "maxConcurrentHelp": "Wartość od 1 do 20. Przetwarzania przekraczające ten limit zostaną umieszczone w kolejce.",
-                "save": "Zapisz ustawienia",
-                "saving": "Zapisywanie...",
-                "saved": "Zapisano!",
-                "saveError": "Błąd w zapisywaniu"
-            }
-        },
-        "encoding": {
-            "title": "Panel przetwarzania",
-            "description": "Śledź status wszystkich przetwarzań aktualnie realizowanych na platformie.",
-            "updatedAt": "Zaaktualizowano o:",
-            "noEncodings": "Brak przetwarzań.",
-            "queued": "przetwarzania w kolejce",
-            "restartAll": "Zrestartuj wszystkie",
-            "restartAllConfirm": "Czy uruchomić ponownie wszystkie nieudane/zablokowane przetwarzania?",
-            "table": {
-                "title": "Nazwa",
-                "user": "Użytkownik",
-                "status": "Status",
-                "progress": "Postęp",
-                "updatedAt": "Zaaktualizowano o",
-                "actions": "Akcje"
-            },
-            "status": {
-                "completed": "Zakończono",
-                "failed": "Zakończono niepomyślnie",
-                "processing": "Pracowanie",
-                "pending": "Oczekiwanie"
-            },
-            "actions": {
-                "restart": "Restartowanie",
-                "forceComplete": "Ukończono (wymuszone przez użytkownika)"
-            }
-        },
-        "events": {
-            "title": "Wydarzenia koordynacyjne",
-            "description": "Zarządzaj dużymi ruchami i koordynuj nagrania.",
-            "createEvent": "Utwórz wydarzenie",
-            "noEvents": "Nie utworzono jeszcze żadnych wydarzeń.",
-            "createdBy": "Stworzone przez {{name}}",
-            "noDescription": "Brak opisu.",
-            "targetChannels": "📺 Kanały docelowe:",
-            "participants": "👥 Uczestnicy ({{count}}):",
-            "noParticipants": "Nikt się jeszcze nie zarejestrował.",
-            "editRole": "✍️ Rola",
-            "unregister": "Anuluj subskrypcję",
-            "register": "Zasubskrybuj",
-            "edit": "Edytuj",
-            "delete": "Usuń",
-            "confirmDelete": "Czy na pewno chcesz usunąć to wydarzenie?",
-            "confirmUnregister": "Czy na pewno chcesz zrezygnować z subskrypcji?",
-            "saveError": "Błąd podczas rejestrowania wydarzenia.",
-            "preview": "Przegląd wydarzeń",
-            "createTitle": "Utwórz nazwę wydarzenia",
-            "editTitle": "Edytuj nazwę wydarzenia",
-            "form": {
-                "startDate": "Data / Godzina rozpoczęcia",
-                "endDate": "Data / Godzina zakończenia",
-                "channels": "Zaangażowane kanały",
-                "channelSearch": "Wyszukaj kanał, który chcesz dodać...",
-                "noChannelFound": "Nie znaleziono kanału",
-                "remove": "Wycofaj",
-                "titlePlaceholder": "Przykład: przeprojektowanie marki TMC",
-                "descriptionPlaceholder": "Opcjonalnie",
-                "save": "Zapisz",
-                "create": "Utwórz",
-                "title": "Tytuł",
-                "description": "Opis"
-            },
-            "join": {
-                "title": "Dołącz",
-                "editTitle": "Edytor ma udział",
-                "roleLabel": "Twoja rola / Co nagrywasz",
-                "rolePlaceholder": "Przykład: Nagrywam TF1 o 18:00",
-                "submit": "Zatwierdź",
-                "cancel": "Anuluj"
-            },
-            "pagination": {
-                "previous": "Poprzedni",
-                "next": "Następny",
-                "page": "Strona {{current}} / {{total}}"
-            },
-            "calendar": {
-                "prev": "Poprzedni",
-                "next": "Następny >",
-                "days": [
-                    "Pon",
-                    "Wt",
-                    "Śr",
-                    "Czw",
-                    "Pt",
-                    "Sob",
-                    "Niedz"
-                ],
-                "months": [
-                    "Styczeń",
-                    "Luty",
-                    "Marzec",
-                    "Kwiecień",
-                    "Maj",
-                    "Czerwiec",
-                    "Lipiec",
-                    "Sierpień",
-                    "Wrzesień",
-                    "Październik",
-                    "Listopad",
-                    "Grudzień"
-                ],
-                "today": "Dzisiaj"
-            },
-            "viewList": "Lista",
-            "viewCalendar": "Kalendarz",
-            "dateRange": "Od {{start}} do {{end}}"
-        }
+    "events": {
+      "title": "Wydarzenia koordynacyjne",
+      "description": "Zarządzaj dużymi ruchami i koordynuj nagrania.",
+      "createEvent": "Utwórz wydarzenie",
+      "noEvents": "Nie utworzono jeszcze żadnych wydarzeń.",
+      "createdBy": "Stworzone przez {{name}}",
+      "noDescription": "Brak opisu.",
+      "targetChannels": "📺 Kanały docelowe:",
+      "participants": "👥 Uczestnicy ({{count}}):",
+      "noParticipants": "Nikt się jeszcze nie zarejestrował.",
+      "editRole": "✍️ Rola",
+      "unregister": "Anuluj subskrypcję",
+      "register": "Zasubskrybuj",
+      "edit": "Edytuj",
+      "delete": "Usuń",
+      "confirmDelete": "Czy na pewno chcesz usunąć to wydarzenie?",
+      "confirmUnregister": "Czy na pewno chcesz zrezygnować z subskrypcji?",
+      "saveError": "Błąd podczas rejestrowania wydarzenia.",
+      "preview": "Przegląd wydarzeń",
+      "createTitle": "Utwórz nazwę wydarzenia",
+      "editTitle": "Edytuj nazwę wydarzenia",
+      "form": {
+        "startDate": "Data / Godzina rozpoczęcia",
+        "endDate": "Data / Godzina zakończenia",
+        "channels": "Zaangażowane kanały",
+        "channelSearch": "Wyszukaj kanał, który chcesz dodać...",
+        "noChannelFound": "Nie znaleziono kanału",
+        "remove": "Wycofaj",
+        "titlePlaceholder": "Przykład: przeprojektowanie marki TMC",
+        "descriptionPlaceholder": "Opcjonalnie",
+        "save": "Zapisz",
+        "create": "Utwórz",
+        "title": "Tytuł",
+        "description": "Opis"
+      },
+      "join": {
+        "title": "Dołącz",
+        "editTitle": "Edytor ma udział",
+        "roleLabel": "Twoja rola / Co nagrywasz",
+        "rolePlaceholder": "Przykład: Nagrywam TF1 o 18:00",
+        "submit": "Zatwierdź",
+        "cancel": "Anuluj"
+      },
+      "pagination": {
+        "previous": "Poprzedni",
+        "next": "Następny",
+        "page": "Strona {{current}} / {{total}}"
+      },
+      "calendar": {
+        "prev": "Poprzedni",
+        "next": "Następny >",
+        "days": [
+          "Pon",
+          "Wt",
+          "Śr",
+          "Czw",
+          "Pt",
+          "Sob",
+          "Niedz"
+        ],
+        "months": [
+          "Styczeń",
+          "Luty",
+          "Marzec",
+          "Kwiecień",
+          "Maj",
+          "Czerwiec",
+          "Lipiec",
+          "Sierpień",
+          "Wrzesień",
+          "Październik",
+          "Listopad",
+          "Grudzień"
+        ],
+        "today": "Dzisiaj"
+      },
+      "viewList": "Lista",
+      "viewCalendar": "Kalendarz",
+      "dateRange": "Od {{start}} do {{end}}"
     }
+  }
 }
