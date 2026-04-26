@@ -412,7 +412,10 @@
       "translations": {
         "add": "Adaugă traduceri",
         "hide": "Ascunde traduceri",
-        "descriptionPlaceholder": "Descriere tradusă..."
+        "descriptionPlaceholder": "Descriere tradusă...",
+        "languages": "Limbi",
+        "translateWithAI": "Traduce cu AI",
+        "translating": "Se traduce…"
       },
       "placeholders": {
         "title": "Adaugă un titlu ce îți descrie clipul",

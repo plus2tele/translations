@@ -399,7 +399,10 @@
       "translations": {
         "add": "Adicionar traduções",
         "hide": "Ocultar traduções",
-        "descriptionPlaceholder": "Descrição traduzida..."
+        "descriptionPlaceholder": "Descrição traduzida...",
+        "languages": "Idiomas",
+        "translateWithAI": "Traduzir com IA",
+        "translating": "A traduzir…"
       },
       "placeholders": {
         "title": "Adicione um título que descreva seu vídeo",

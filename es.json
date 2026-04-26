@@ -360,7 +360,10 @@
       "translations": {
         "add": "Agregar traducciones",
         "hide": "Ocultar traducciones",
-        "descriptionPlaceholder": "Descripción traducida..."
+        "descriptionPlaceholder": "Descripción traducida...",
+        "languages": "Idiomas",
+        "translateWithAI": "Traducir con IA",
+        "translating": "Traduciendo…"
       },
       "placeholders": {
         "title": "Añade un título que describa tu video",

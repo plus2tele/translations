@@ -402,7 +402,10 @@
       "translations": {
         "add": "Übersetzungen hinzufügen",
         "hide": "Übersetzungen ausblenden",
-        "descriptionPlaceholder": "Übersetzte Beschreibung..."
+        "descriptionPlaceholder": "Übersetzte Beschreibung...",
+        "languages": "Sprachen",
+        "translateWithAI": "Mit KI übersetzen",
+        "translating": "Übersetzen…"
       },
       "placeholders": {
         "title": "Füg einen Titel hinzu, der dein Video beschreibt",

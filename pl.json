@@ -412,7 +412,10 @@
       "translations": {
         "add": "Dodaj tłumaczenia",
         "hide": "Ukryj tłumaczenia",
-        "descriptionPlaceholder": "Przetłumaczony opis..."
+        "descriptionPlaceholder": "Przetłumaczony opis...",
+        "languages": "Języki",
+        "translateWithAI": "Przetłumacz z AI",
+        "translating": "Tłumaczenie…"
       },
       "placeholders": {
         "title": "Dodaj tytuł opisujący Twój film",
