@@ -247,6 +247,7 @@
     "results": "Risultati della ricerca",
     "allArchives": "Tutti gli archivi",
     "sort": {
+      "recent": "Aggiunto di recente",
       "date": "Più recente",
       "oldest": "Più tempo",
       "popular": "Popolarità",

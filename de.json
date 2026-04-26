@@ -666,6 +666,7 @@
     "results": "Suchergebnisse",
     "allArchives": "Alle Archivierungen",
     "sort": {
+      "recent": "Zuletzt hinzugefügt",
       "date": "Neuste",
       "oldest": "Älteste",
       "popular": "Beliebtheit",

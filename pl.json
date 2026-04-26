@@ -247,6 +247,7 @@
     "results": "Wyniki wyszukiwania",
     "allArchives": "Wszystkie archiwa",
     "sort": {
+      "recent": "Ostatnio dodane",
       "date": "Najnowsze",
       "oldest": "Najstarsze",
       "popular": "Popularne",

@@ -252,6 +252,7 @@
     "results": "Search results",
     "allArchives": "All archives",
     "sort": {
+      "recent": "Recently added",
       "date": "Newest",
       "oldest": "Oldest",
       "popular": "Popularity",
