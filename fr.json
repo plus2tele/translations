@@ -329,6 +329,57 @@
       "deleteConfirmTitle": "Supprimer le compte ?",
       "deleteConfirmDescription": "Cette action est irréversible. Toutes vos données seront supprimées.",
       "deleteConfirm": "Oui, supprimer mon compte"
+    },
+    "security": {
+      "title": "Sécurité",
+      "loading": "Chargement...",
+      "error": "Impossible de charger les informations de sécurité",
+      "password": {
+        "title": "Mot de passe",
+        "noPassword": "Aucun mot de passe défini",
+        "change": "Changer le mot de passe",
+        "set": "Définir un mot de passe",
+        "current": "Mot de passe actuel",
+        "new": "Nouveau mot de passe",
+        "confirm": "Confirmer",
+        "verify": "Vérifier",
+        "save": "Enregistrer",
+        "success": "Mot de passe modifié avec succès",
+        "mismatch": "Les mots de passe ne correspondent pas",
+        "wrongPassword": "Mot de passe incorrect"
+      },
+      "social": {
+        "title": "Connexions sociales",
+        "connected": "Connecté",
+        "notConnected": "Non connecté",
+        "connect": "Connecter",
+        "disconnect": "Déconnecter",
+        "disconnectConfirm": "Déconnecter {{provider}} ?"
+      },
+      "mfa": {
+        "title": "Double authentification",
+        "none": "Aucune méthode configurée",
+        "totp": "Application d'authentification (TOTP)",
+        "addTotp": "Configurer le TOTP",
+        "scanQr": "Scannez ce QR code avec votre application d'authentification",
+        "enterCode": "Code de vérification",
+        "remove": "Supprimer",
+        "removeConfirm": "Supprimer cette méthode 2FA ?",
+        "success": "TOTP configuré avec succès"
+      },
+      "sessions": {
+        "title": "Sessions actives",
+        "revoke": "Révoquer",
+        "revokeConfirm": "Révoquer cette session ?"
+      },
+      "verifyIdentity": {
+        "title": "Vérification d'identité",
+        "byPassword": "Entrez votre mot de passe pour continuer",
+        "byEmail": "Un code de vérification vous a été envoyé par email",
+        "code": "Code de vérification",
+        "send": "Envoyer le code",
+        "confirm": "Confirmer"
+      }
     }
   },
   "archivist": {

@@ -316,6 +316,57 @@
       "deleteConfirmTitle": "Apagar a conta?",
       "deleteConfirmDescription": "Esta ação é irreversível. Todos os seus dados serão apagados.",
       "deleteConfirm": "Sim, apagar a minha conta"
+    },
+    "security": {
+      "title": "Segurança",
+      "loading": "A carregar...",
+      "error": "Não foi possível carregar as informações de segurança",
+      "password": {
+        "title": "Palavra-passe",
+        "noPassword": "Nenhuma palavra-passe definida",
+        "change": "Alterar palavra-passe",
+        "set": "Definir palavra-passe",
+        "current": "Palavra-passe atual",
+        "new": "Nova palavra-passe",
+        "confirm": "Confirmar",
+        "verify": "Verificar",
+        "save": "Guardar",
+        "success": "Palavra-passe alterada com sucesso",
+        "mismatch": "As palavras-passe não coincidem",
+        "wrongPassword": "Palavra-passe incorreta"
+      },
+      "social": {
+        "title": "Ligações sociais",
+        "connected": "Ligado",
+        "notConnected": "Não ligado",
+        "connect": "Ligar",
+        "disconnect": "Desligar",
+        "disconnectConfirm": "Desligar {{provider}}?"
+      },
+      "mfa": {
+        "title": "Autenticação de dois fatores",
+        "none": "Nenhum método configurado",
+        "totp": "App de autenticação (TOTP)",
+        "addTotp": "Configurar TOTP",
+        "scanQr": "Digitalize este código QR com a sua app de autenticação",
+        "enterCode": "Código de verificação",
+        "remove": "Remover",
+        "removeConfirm": "Remover este método 2FA?",
+        "success": "TOTP configurado com sucesso"
+      },
+      "sessions": {
+        "title": "Sessões ativas",
+        "revoke": "Revogar",
+        "revokeConfirm": "Revogar esta sessão?"
+      },
+      "verifyIdentity": {
+        "title": "Verificação de identidade",
+        "byPassword": "Introduza a sua palavra-passe para continuar",
+        "byEmail": "Um código de verificação foi enviado para o seu email",
+        "code": "Código de verificação",
+        "send": "Enviar código",
+        "confirm": "Confirmar"
+      }
     }
   },
   "archivist": {

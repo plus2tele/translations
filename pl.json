@@ -329,6 +329,57 @@
       "deleteConfirmTitle": "Jesteś pewny?",
       "deleteConfirmDescription": "Ta czynność jest nieodwracalna. Wszystkie Twoje dane zostaną usunięte.",
       "deleteConfirm": "Tak, usuń moje konto"
+    },
+    "security": {
+      "title": "Bezpieczeństwo",
+      "loading": "Ładowanie...",
+      "error": "Nie można załadować informacji o bezpieczeństwie",
+      "password": {
+        "title": "Hasło",
+        "noPassword": "Brak hasła",
+        "change": "Zmień hasło",
+        "set": "Ustaw hasło",
+        "current": "Aktualne hasło",
+        "new": "Nowe hasło",
+        "confirm": "Potwierdź",
+        "verify": "Zweryfikuj",
+        "save": "Zapisz",
+        "success": "Hasło zmienione pomyślnie",
+        "mismatch": "Hasła nie pasują do siebie",
+        "wrongPassword": "Nieprawidłowe hasło"
+      },
+      "social": {
+        "title": "Połączenia społecznościowe",
+        "connected": "Połączono",
+        "notConnected": "Niepołączono",
+        "connect": "Połącz",
+        "disconnect": "Odłącz",
+        "disconnectConfirm": "Odłączyć {{provider}}?"
+      },
+      "mfa": {
+        "title": "Uwierzytelnianie dwuskładnikowe",
+        "none": "Brak skonfigurowanej metody",
+        "totp": "Aplikacja uwierzytelniająca (TOTP)",
+        "addTotp": "Skonfiguruj TOTP",
+        "scanQr": "Zeskanuj ten kod QR swoją aplikacją uwierzytelniającą",
+        "enterCode": "Kod weryfikacyjny",
+        "remove": "Usuń",
+        "removeConfirm": "Usunąć tę metodę 2FA?",
+        "success": "TOTP skonfigurowany pomyślnie"
+      },
+      "sessions": {
+        "title": "Aktywne sesje",
+        "revoke": "Odwołaj",
+        "revokeConfirm": "Odwołać tę sesję?"
+      },
+      "verifyIdentity": {
+        "title": "Weryfikacja tożsamości",
+        "byPassword": "Wprowadź swoje hasło, aby kontynuować",
+        "byEmail": "Na Twój email został wysłany kod weryfikacyjny",
+        "code": "Kod weryfikacyjny",
+        "send": "Wyślij kod",
+        "confirm": "Potwierdź"
+      }
     }
   },
   "archivist": {

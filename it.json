@@ -326,6 +326,57 @@
       "deleteConfirmDescription": "Questa azione è irreversibile. Tutti i tuoi dati saranno eliminati.",
       "deleteConfirm": "Sì, elimina il mio account"
     },
+    "security": {
+      "title": "Sicurezza",
+      "loading": "Caricamento...",
+      "error": "Impossibile caricare le informazioni di sicurezza",
+      "password": {
+        "title": "Password",
+        "noPassword": "Nessuna password impostata",
+        "change": "Cambia password",
+        "set": "Imposta password",
+        "current": "Password attuale",
+        "new": "Nuova password",
+        "confirm": "Conferma",
+        "verify": "Verifica",
+        "save": "Salva",
+        "success": "Password cambiata con successo",
+        "mismatch": "Le password non corrispondono",
+        "wrongPassword": "Password errata"
+      },
+      "social": {
+        "title": "Connessioni social",
+        "connected": "Connesso",
+        "notConnected": "Non connesso",
+        "connect": "Connetti",
+        "disconnect": "Disconnetti",
+        "disconnectConfirm": "Disconnettere {{provider}}?"
+      },
+      "mfa": {
+        "title": "Autenticazione a due fattori",
+        "none": "Nessun metodo configurato",
+        "totp": "App di autenticazione (TOTP)",
+        "addTotp": "Configura TOTP",
+        "scanQr": "Scansiona questo codice QR con la tua app di autenticazione",
+        "enterCode": "Codice di verifica",
+        "remove": "Rimuovi",
+        "removeConfirm": "Rimuovere questo metodo 2FA?",
+        "success": "TOTP configurato con successo"
+      },
+      "sessions": {
+        "title": "Sessioni attive",
+        "revoke": "Revoca",
+        "revokeConfirm": "Revocare questa sessione?"
+      },
+      "verifyIdentity": {
+        "title": "Verifica dell'identità",
+        "byPassword": "Inserisci la tua password per continuare",
+        "byEmail": "Un codice di verifica è stato inviato alla tua email",
+        "code": "Codice di verifica",
+        "send": "Invia codice",
+        "confirm": "Conferma"
+      }
+    },
     "notifications": {
       "title": "Notifiche",
       "discordTitle": "Preferenze di Discord"

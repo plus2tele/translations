@@ -334,6 +334,57 @@
       "deleteConfirmTitle": "Delete account?",
       "deleteConfirmDescription": "This action is irreversible. All your data will be deleted.",
       "deleteConfirm": "Yes, delete my account"
+    },
+    "security": {
+      "title": "Security",
+      "loading": "Loading...",
+      "error": "Unable to load security information",
+      "password": {
+        "title": "Password",
+        "noPassword": "No password set",
+        "change": "Change password",
+        "set": "Set a password",
+        "current": "Current password",
+        "new": "New password",
+        "confirm": "Confirm",
+        "verify": "Verify",
+        "save": "Save",
+        "success": "Password changed successfully",
+        "mismatch": "Passwords do not match",
+        "wrongPassword": "Incorrect password"
+      },
+      "social": {
+        "title": "Social connections",
+        "connected": "Connected",
+        "notConnected": "Not connected",
+        "connect": "Connect",
+        "disconnect": "Disconnect",
+        "disconnectConfirm": "Disconnect {{provider}}?"
+      },
+      "mfa": {
+        "title": "Two-factor authentication",
+        "none": "No method configured",
+        "totp": "Authenticator app (TOTP)",
+        "addTotp": "Set up TOTP",
+        "scanQr": "Scan this QR code with your authenticator app",
+        "enterCode": "Verification code",
+        "remove": "Remove",
+        "removeConfirm": "Remove this 2FA method?",
+        "success": "TOTP configured successfully"
+      },
+      "sessions": {
+        "title": "Active sessions",
+        "revoke": "Revoke",
+        "revokeConfirm": "Revoke this session?"
+      },
+      "verifyIdentity": {
+        "title": "Identity verification",
+        "byPassword": "Enter your password to continue",
+        "byEmail": "A verification code has been sent to your email",
+        "code": "Verification code",
+        "send": "Send code",
+        "confirm": "Confirm"
+      }
     }
   },
   "archivist": {

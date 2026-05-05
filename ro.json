@@ -329,6 +329,57 @@
       "deleteConfirmTitle": "Ștergeți contul?",
       "deleteConfirmDescription": "Această acțiune este ireversibilă. Toate datele tale vor fi șterse.",
       "deleteConfirm": "Da, șterge-mi contul"
+    },
+    "security": {
+      "title": "Securitate",
+      "loading": "Se încarcă...",
+      "error": "Imposibil de încărcat informațiile de securitate",
+      "password": {
+        "title": "Parolă",
+        "noPassword": "Nicio parolă setată",
+        "change": "Schimbă parola",
+        "set": "Setează parola",
+        "current": "Parola actuală",
+        "new": "Parolă nouă",
+        "confirm": "Confirmă",
+        "verify": "Verifică",
+        "save": "Salvează",
+        "success": "Parola a fost schimbată cu succes",
+        "mismatch": "Parolele nu se potrivesc",
+        "wrongPassword": "Parolă incorectă"
+      },
+      "social": {
+        "title": "Conexiuni sociale",
+        "connected": "Conectat",
+        "notConnected": "Neconectat",
+        "connect": "Conectează",
+        "disconnect": "Deconectează",
+        "disconnectConfirm": "Deconectați {{provider}}?"
+      },
+      "mfa": {
+        "title": "Autentificare în doi pași",
+        "none": "Nicio metodă configurată",
+        "totp": "Aplicație de autentificare (TOTP)",
+        "addTotp": "Configurează TOTP",
+        "scanQr": "Scanează acest cod QR cu aplicația de autentificare",
+        "enterCode": "Cod de verificare",
+        "remove": "Șterge",
+        "removeConfirm": "Ștergeți această metodă 2FA?",
+        "success": "TOTP configurat cu succes"
+      },
+      "sessions": {
+        "title": "Sesiuni active",
+        "revoke": "Revocă",
+        "revokeConfirm": "Revocați această sesiune?"
+      },
+      "verifyIdentity": {
+        "title": "Verificarea identității",
+        "byPassword": "Introduceți parola pentru a continua",
+        "byEmail": "Un cod de verificare a fost trimis pe email",
+        "code": "Cod de verificare",
+        "send": "Trimite codul",
+        "confirm": "Confirmă"
+      }
     }
   },
   "archivist": {

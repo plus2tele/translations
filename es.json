@@ -278,6 +278,57 @@
       "deleteConfirmTitle": "Eliminar la cuenta",
       "deleteConfirmDescription": "Esta acción es irreversible. Todos tus datos serán eliminados.",
       "deleteConfirm": "Sí, eliminar mi cuenta"
+    },
+    "security": {
+      "title": "Seguridad",
+      "loading": "Cargando...",
+      "error": "No se pueden cargar los datos de seguridad",
+      "password": {
+        "title": "Contraseña",
+        "noPassword": "Sin contraseña configurada",
+        "change": "Cambiar contraseña",
+        "set": "Establecer contraseña",
+        "current": "Contraseña actual",
+        "new": "Nueva contraseña",
+        "confirm": "Confirmar",
+        "verify": "Verificar",
+        "save": "Guardar",
+        "success": "Contraseña cambiada con éxito",
+        "mismatch": "Las contraseñas no coinciden",
+        "wrongPassword": "Contraseña incorrecta"
+      },
+      "social": {
+        "title": "Conexiones sociales",
+        "connected": "Conectado",
+        "notConnected": "No conectado",
+        "connect": "Conectar",
+        "disconnect": "Desconectar",
+        "disconnectConfirm": "¿Desconectar {{provider}}?"
+      },
+      "mfa": {
+        "title": "Doble autenticación",
+        "none": "Ningún método configurado",
+        "totp": "App de autenticación (TOTP)",
+        "addTotp": "Configurar TOTP",
+        "scanQr": "Escanea este código QR con tu app de autenticación",
+        "enterCode": "Código de verificación",
+        "remove": "Eliminar",
+        "removeConfirm": "¿Eliminar este método 2FA?",
+        "success": "TOTP configurado con éxito"
+      },
+      "sessions": {
+        "title": "Sesiones activas",
+        "revoke": "Revocar",
+        "revokeConfirm": "¿Revocar esta sesión?"
+      },
+      "verifyIdentity": {
+        "title": "Verificación de identidad",
+        "byPassword": "Introduce tu contraseña para continuar",
+        "byEmail": "Se ha enviado un código de verificación a tu email",
+        "code": "Código de verificación",
+        "send": "Enviar código",
+        "confirm": "Confirmar"
+      }
     }
   },
   "archivist": {
