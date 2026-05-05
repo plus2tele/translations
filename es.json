@@ -319,7 +319,10 @@
       "sessions": {
         "title": "Sesiones activas",
         "revoke": "Revocar",
-        "revokeConfirm": "¿Revocar esta sesión?"
+        "revokeConfirm": "¿Revocar esta sesión?",
+        "empty": "No hay sesiones activas",
+        "loginAt": "Inicio el",
+        "expiresAt": "Expira el"
       },
       "verifyIdentity": {
         "title": "Verificación de identidad",

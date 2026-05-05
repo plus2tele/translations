@@ -370,7 +370,10 @@
       "sessions": {
         "title": "Aktywne sesje",
         "revoke": "Odwołaj",
-        "revokeConfirm": "Odwołać tę sesję?"
+        "revokeConfirm": "Odwołać tę sesję?",
+        "empty": "Brak aktywnych sesji",
+        "loginAt": "Logowanie",
+        "expiresAt": "Wygasa"
       },
       "verifyIdentity": {
         "title": "Weryfikacja tożsamości",

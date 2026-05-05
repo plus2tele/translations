@@ -357,7 +357,10 @@
       "sessions": {
         "title": "Sessões ativas",
         "revoke": "Revogar",
-        "revokeConfirm": "Revogar esta sessão?"
+        "revokeConfirm": "Revogar esta sessão?",
+        "empty": "Nenhuma sessão ativa",
+        "loginAt": "Login em",
+        "expiresAt": "Expira em"
       },
       "verifyIdentity": {
         "title": "Verificação de identidade",

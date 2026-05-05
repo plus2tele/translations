@@ -357,7 +357,10 @@
       "sessions": {
         "title": "Aktive Sitzungen",
         "revoke": "Widerrufen",
-        "revokeConfirm": "Diese Sitzung widerrufen?"
+        "revokeConfirm": "Diese Sitzung widerrufen?",
+        "empty": "Keine aktiven Sitzungen",
+        "loginAt": "Anmeldung am",
+        "expiresAt": "Läuft ab am"
       },
       "verifyIdentity": {
         "title": "Identitätsverifizierung",

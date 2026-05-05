@@ -370,7 +370,10 @@
       "sessions": {
         "title": "Sesiuni active",
         "revoke": "Revocă",
-        "revokeConfirm": "Revocați această sesiune?"
+        "revokeConfirm": "Revocați această sesiune?",
+        "empty": "Nicio sesiune activă",
+        "loginAt": "Autentificare la",
+        "expiresAt": "Expiră la"
       },
       "verifyIdentity": {
         "title": "Verificarea identității",
