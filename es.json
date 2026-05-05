@@ -269,6 +269,13 @@
       "title": "Perfil",
       "viewPublic": "Ver mi perfil público"
     },
+    "preferences": {
+      "title": "Preferencias",
+      "preferredLanguage": "Idioma preferido",
+      "preferredLanguageHelp": "Este idioma se aplicará automáticamente en cada inicio de sesión.",
+      "languageAuto": "Automático (según el navegador)",
+      "languageSaved": "Idioma actualizado correctamente."
+    },
     "account": {
       "title": "Cuenta",
       "logout": "Cerrar sesión",

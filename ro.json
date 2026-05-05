@@ -316,6 +316,13 @@
       "title": "Profil",
       "viewPublic": "Vezi profilul meu public"
     },
+    "preferences": {
+      "title": "Preferințe",
+      "preferredLanguage": "Limbă preferată",
+      "preferredLanguageHelp": "Această limbă va fi aplicată automat la fiecare autentificare.",
+      "languageAuto": "Automat (limba browserului)",
+      "languageSaved": "Limba a fost actualizată cu succes."
+    },
     "notifications": {
       "title": "Notificări",
       "discordTitle": "Preferințe Discord"

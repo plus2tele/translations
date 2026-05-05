@@ -316,6 +316,13 @@
       "title": "Twój profil",
       "viewPublic": "Zobacz mój profil publiczny"
     },
+    "preferences": {
+      "title": "Preferencje",
+      "preferredLanguage": "Preferowany język",
+      "preferredLanguageHelp": "Ten język będzie automatycznie stosowany przy każdym logowaniu.",
+      "languageAuto": "Automatyczny (język przeglądarki)",
+      "languageSaved": "Język został pomyślnie zaktualizowany."
+    },
     "notifications": {
       "title": "Powiadomienia",
       "discordTitle": "Preferencje Discord"

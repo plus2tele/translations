@@ -316,6 +316,13 @@
       "title": "Profilo",
       "viewPublic": "Vedi il mio profilo pubblico"
     },
+    "preferences": {
+      "title": "Preferenze",
+      "preferredLanguage": "Lingua preferita",
+      "preferredLanguageHelp": "Questa lingua verrà applicata automaticamente ad ogni accesso.",
+      "languageAuto": "Automatico (lingua del browser)",
+      "languageSaved": "Lingua aggiornata con successo."
+    },
     "account": {
       "title": "Account",
       "logout": "Disconnetti",
