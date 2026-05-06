@@ -152,6 +152,7 @@
       }
     },
     "private": "Privat",
+    "edit": "Editează",
     "actions": {
       "quick": "Acțiuni rapide",
       "random": "Arhivă aleatorie",
@@ -264,7 +265,8 @@
     "termsNotice": "Pentru a continua, ne accepți",
     "terms": "Termenii de Utilizare",
     "and": "și",
-    "privacy": "Politica de Confidențialitate"
+    "privacy": "Politica de Confidențialitate",
+    "migrationNotice": "Sistemul de conturi +2Télé a evoluat. Dacă erai deja înregistrat, conectează-te mai întâi cu contul tău Discord pentru a migra și recupera contul."
   },
   "profile": {
     "title": "Profilul meu",

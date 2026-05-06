@@ -153,6 +153,7 @@
       }
     },
     "private": "Private",
+    "edit": "Edit",
     "actions": {
       "quick": "Quick actions",
       "random": "Random archive",
@@ -269,7 +270,8 @@
     "termsNotice": "By continuing, you accept our",
     "terms": "Terms of Use",
     "and": "and",
-    "privacy": "Privacy Policy"
+    "privacy": "Privacy Policy",
+    "migrationNotice": "The +2Télé account system has evolved. If you were already registered, log in first with your Discord account to migrate and recover your account."
   },
   "profile": {
     "title": "My profile",

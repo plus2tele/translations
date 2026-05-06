@@ -134,6 +134,7 @@
       }
     },
     "watchTitle": "Ver {{title}} ({{year}}) en {{channel}}. Descubre este archivo en +2Télé.",
+    "edit": "Editar",
     "adultWarning": {
       "title": "Contenido sensible",
       "message": "Este contenido puede herir la sensibilidad, ya que puede incluir imágenes violentas o desnudez.",
@@ -224,7 +225,8 @@
     "termsNotice": "Al continuar, aceptas nuestros",
     "terms": "Términos y condiciones de uso",
     "and": "y",
-    "privacy": "Política de privacidad"
+    "privacy": "Política de privacidad",
+    "migrationNotice": "El sistema de cuentas de +2Télé ha evolucionado. Si ya estabas registrado, inicia sesión primero con tu cuenta de Discord para migrar y recuperar tu cuenta."
   },
   "profile": {
     "title": "Mi perfil",

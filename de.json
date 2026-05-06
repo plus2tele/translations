@@ -154,6 +154,7 @@
     },
     "quickActions": "Schnellaktionen",
     "private": "Privat",
+    "edit": "Bearbeiten",
     "actions": {
       "quick": "Schnellaktionen",
       "random": "Zufälliger Archivinhalt",
@@ -255,7 +256,8 @@
     "termsNotice": "Indem du fortfährst, akzeptierst du unsere",
     "terms": "Nutzungsbedingungen",
     "and": "und",
-    "privacy": "Datenschutzbestimmungen"
+    "privacy": "Datenschutzbestimmungen",
+    "migrationNotice": "Das +2Télé-Kontosystem hat sich weiterentwickelt. Wenn du bereits registriert warst, melde dich zuerst mit deinem Discord-Konto an, um dein Konto zu migrieren und wiederherzustellen."
   },
   "profile": {
     "title": "Mein Profil",

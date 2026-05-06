@@ -151,6 +151,7 @@
       }
     },
     "private": "Privado",
+    "edit": "Editar",
     "actions": {
       "quick": "Ações rápidas",
       "random": "Arquivo aleatório",
@@ -255,7 +256,8 @@
     "termsNotice": "Ao continuar, aceita os nossos",
     "terms": "Termos de Utilização",
     "and": "e",
-    "privacy": "Política de Privacidade"
+    "privacy": "Política de Privacidade",
+    "migrationNotice": "O sistema de contas do +2Télé evoluiu. Se já estavas registado, entra primeiro com a tua conta Discord para migrar e recuperar a tua conta."
   },
   "profile": {
     "title": "O meu perfil",
