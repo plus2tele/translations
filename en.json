@@ -321,7 +321,22 @@
       "discordArchiveCommentNotificationsHelp": "Receive a Discord message when someone comments on one of your archives.",
       "cropImage": "Crop image",
       "avatarGuidelinesNotice": "Your profile picture must comply with our community guidelines.",
-      "avatarGuidelinesLink": "View the guidelines"
+      "avatarGuidelinesLink": "View the guidelines",
+      "displayName": "Display name",
+      "displayNamePlaceholder": "Ex: Jane Doe",
+      "displayNameHelp": "This name will be displayed instead of your username.",
+      "displayNameTooLong": "Display name cannot exceed 50 characters.",
+      "urlMustStartWithHttp": "{{platform}} URL must start with http.",
+      "invalidVideoPlatformUrl": "Invalid {{platform}} URL. Please use an official platform link.",
+      "avatarFileConstraints": "Max 5MB • PNG, JPG, WEBP, GIF",
+      "customizationTitle": "Customization (Certified)",
+      "videoPlatforms": "Video platforms",
+      "backgroundImage": "Background image",
+      "clickToUpload": "Click to upload",
+      "backgroundFileConstraints": "Max 5MB • PNG, JPG, WEBP",
+      "removeFile": "Remove selected file",
+      "profileFont": "Font",
+      "fontDefault": "Default"
     }
   },
   "settings": {

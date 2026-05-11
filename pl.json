@@ -316,7 +316,22 @@
       "discordArchiveCommentNotificationsHelp": "Otrzymaj wiadomość na Discordzie, gdy ktoś skomentuje jedno z Twoich archiwów.",
       "cropImage": "Przytnij obraz",
       "avatarGuidelinesNotice": "Twoje zdjęcie profilowe musi być zgodne z wytycznymi społeczności.",
-      "avatarGuidelinesLink": "Zapoznaj się z zasadami"
+      "avatarGuidelinesLink": "Zapoznaj się z zasadami",
+      "displayName": "Wyświetlana nazwa",
+      "displayNamePlaceholder": "Np: Jan Kowalski",
+      "displayNameHelp": "Ta nazwa będzie wyświetlana zamiast Twojego pseudonimu.",
+      "displayNameTooLong": "Wyświetlana nazwa nie może przekraczać 50 znaków.",
+      "urlMustStartWithHttp": "URL {{platform}} musi zaczynać się od http.",
+      "invalidVideoPlatformUrl": "Nieprawidłowy URL {{platform}}. Użyj oficjalnego linku platformy.",
+      "avatarFileConstraints": "Maks. 5MB • PNG, JPG, WEBP, GIF",
+      "customizationTitle": "Personalizacja (Certyfikowany)",
+      "videoPlatforms": "Platformy wideo",
+      "backgroundImage": "Obraz tła",
+      "clickToUpload": "Kliknij, aby przesłać",
+      "backgroundFileConstraints": "Maks. 5MB • PNG, JPG, WEBP",
+      "removeFile": "Usuń wybrany plik",
+      "profileFont": "Czcionka",
+      "fontDefault": "Domyślna"
     }
   },
   "settings": {

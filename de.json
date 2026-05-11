@@ -307,7 +307,22 @@
       "discordArchiveCommentNotificationsHelp": "Erhalte eine Discord-Nachricht, wenn jemand eines deiner Archivierungen kommentiert.",
       "cropImage": "Bild zuschneiden",
       "avatarGuidelinesNotice": "Dein Profilbild muss den Gemeinschaftsregeln entsprechen.",
-      "avatarGuidelinesLink": "Regeln ansehen"
+      "avatarGuidelinesLink": "Regeln ansehen",
+      "displayName": "Anzeigename",
+      "displayNamePlaceholder": "Bsp: Max Mustermann",
+      "displayNameHelp": "Dieser Name wird anstelle deines Benutzernamens angezeigt.",
+      "displayNameTooLong": "Der Anzeigename darf 50 Zeichen nicht überschreiten.",
+      "urlMustStartWithHttp": "Die {{platform}}-URL muss mit http beginnen.",
+      "invalidVideoPlatformUrl": "Ungültige {{platform}}-URL. Bitte verwende einen offiziellen Plattform-Link.",
+      "avatarFileConstraints": "Max. 5 MB • PNG, JPG, WEBP, GIF",
+      "customizationTitle": "Personalisierung (Zertifiziert)",
+      "videoPlatforms": "Videoplattformen",
+      "backgroundImage": "Hintergrundbild",
+      "clickToUpload": "Klicken zum Hochladen",
+      "backgroundFileConstraints": "Max. 5 MB • PNG, JPG, WEBP",
+      "removeFile": "Ausgewählte Datei entfernen",
+      "profileFont": "Schriftart",
+      "fontDefault": "Standard"
     }
   },
   "settings": {

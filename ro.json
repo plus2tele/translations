@@ -316,7 +316,22 @@
       "discordArchiveCommentNotificationsHelp": "Primește un mesaj Discord când cineva lasă un comentariu pe una din arhivele tale.",
       "cropImage": "Decupează imaginea",
       "avatarGuidelinesNotice": "Poza ta de profil trebuie să corespundă regulilor comunității.",
-      "avatarGuidelinesLink": "Vezi regulamentul"
+      "avatarGuidelinesLink": "Vezi regulamentul",
+      "displayName": "Nume afișat",
+      "displayNamePlaceholder": "Ex: Ion Popescu",
+      "displayNameHelp": "Acest nume va fi afișat în locul pseudonimului tău.",
+      "displayNameTooLong": "Numele afișat nu poate depăși 50 de caractere.",
+      "urlMustStartWithHttp": "URL-ul {{platform}} trebuie să înceapă cu http.",
+      "invalidVideoPlatformUrl": "URL {{platform}} invalid. Folosiți un link oficial al platformei.",
+      "avatarFileConstraints": "Max. 5MB • PNG, JPG, WEBP, GIF",
+      "customizationTitle": "Personalizare (Certificat)",
+      "videoPlatforms": "Platforme video",
+      "backgroundImage": "Imagine de fundal",
+      "clickToUpload": "Apasă pentru a încărca",
+      "backgroundFileConstraints": "Max. 5MB • PNG, JPG, WEBP",
+      "removeFile": "Șterge fișierul selectat",
+      "profileFont": "Font",
+      "fontDefault": "Implicit"
     }
   },
   "settings": {

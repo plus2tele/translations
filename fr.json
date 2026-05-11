@@ -316,7 +316,22 @@
       "discordArchiveCommentNotificationsHelp": "Recevoir un message Discord quand quelqu'un commente une de vos archives.",
       "cropImage": "Recadrer l'image",
       "avatarGuidelinesNotice": "Votre photo de profil doit respecter la charte de la communauté.",
-      "avatarGuidelinesLink": "Consulter la charte"
+      "avatarGuidelinesLink": "Consulter la charte",
+      "displayName": "Nom d'affichage",
+      "displayNamePlaceholder": "Ex: Jean Dupont",
+      "displayNameHelp": "Ce nom sera affiché à la place de votre pseudo.",
+      "displayNameTooLong": "Le nom d'affichage ne doit pas dépasser 50 caractères.",
+      "urlMustStartWithHttp": "L'URL {{platform}} doit commencer par http.",
+      "invalidVideoPlatformUrl": "L'URL {{platform}} n'est pas valide. Utilisez uniquement un lien officiel de la plateforme.",
+      "avatarFileConstraints": "Max 5Mo • PNG, JPG, WEBP, GIF",
+      "customizationTitle": "Personnalisation (Certifié)",
+      "videoPlatforms": "Plateformes vidéo",
+      "backgroundImage": "Image de fond",
+      "clickToUpload": "Cliquez pour uploader",
+      "backgroundFileConstraints": "Max 5Mo • PNG, JPG, WEBP",
+      "removeFile": "Supprimer le fichier sélectionné",
+      "profileFont": "Police d'écriture",
+      "fontDefault": "Par défaut"
     }
   },
   "settings": {
