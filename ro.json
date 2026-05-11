@@ -21,6 +21,10 @@
     "update": {
       "available": "O nouă versiune este disponibilă.",
       "button": "Actualizează"
+    },
+    "langSuggestion": {
+      "message": "Limba ta preferată este {{lang}}.",
+      "switch": "Schimbă"
     }
   },
   "nav": {

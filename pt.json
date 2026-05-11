@@ -21,6 +21,10 @@
     "update": {
       "available": "Uma nova versão está disponível.",
       "button": "Atualizar"
+    },
+    "langSuggestion": {
+      "message": "O seu idioma preferido é {{lang}}.",
+      "switch": "Mudar"
     }
   },
   "nav": {
