@@ -293,6 +293,10 @@
     "archivesCount": "{{count}} arhive în total",
     "noArchives": "Încă nu au fost publicate arhive",
     "publicDescription": "Profilul lui {{username}} pe +2Télé",
+    "socialLinks": {
+      "title": "Linkuri sociale",
+      "viewChannel": "Vezi canalul"
+    },
     "form": {
       "avatar": "Avatar",
       "motto": "Citat personal",

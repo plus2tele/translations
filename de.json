@@ -284,6 +284,10 @@
     "archivesCount": "{{count}} Archive insgesamt",
     "noArchives": "Noch keine veröffentlichten Archive",
     "publicDescription": "Profil von {{username}} auf +2Télé",
+    "socialLinks": {
+      "title": "Soziale Links",
+      "viewChannel": "Kanal anzeigen"
+    },
     "form": {
       "avatar": "Avatar",
       "motto": "Persönliches Zitat",

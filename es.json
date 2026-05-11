@@ -266,6 +266,10 @@
       "cropImage": "Recortar imagen",
       "avatarGuidelinesNotice": "Tu foto de perfil debe respetar nuestra carta de la comunidad.",
       "avatarGuidelinesLink": "Ver la carta"
+    },
+    "socialLinks": {
+      "title": "Redes sociales",
+      "viewChannel": "Ver el canal"
     }
   },
   "settings": {

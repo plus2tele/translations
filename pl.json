@@ -293,6 +293,10 @@
     "archivesCount": "{{count}} archiwów łącznie",
     "noArchives": "Brak archiwów na ten moment",
     "publicDescription": "Profil użytkownika {{username}} na +2Télé",
+    "socialLinks": {
+      "title": "Linki społecznościowe",
+      "viewChannel": "Zobacz kanał"
+    },
     "form": {
       "avatar": "Awatar",
       "motto": "Biografia",
