@@ -455,7 +455,9 @@
         "title": "Añade un título que describa tu video",
         "description": "Detalles sobre este archivo",
         "copyright": "Información de derechos de autor",
-        "select": "Seleccionar..."
+        "select": "Seleccionar...",
+        "noCollection": "— Sin colección —",
+        "searchCollection": "Buscar una colección..."
       },
       "adultContent": {
         "title": "Contenido para adultos (+18)",
@@ -510,7 +512,8 @@
           "description": "¿Deseas copiar esta información a todos los demás archivos de la lista?"
         }
       },
-      "missingFields": "Por favor, rellena todos los campos obligatorios (Tipo de archivo y Canal) para todos los archivos."
+      "missingFields": "Por favor, rellena todos los campos obligatorios (Tipo de archivo y Canal) para todos los archivos.",
+      "collection": "Colección"
     },
     "edit": {
       "title": "Editar",

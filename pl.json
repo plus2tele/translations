@@ -507,7 +507,9 @@
         "title": "Dodaj tytuł opisujący Twój film",
         "description": "Szczegóły dotyczące tego archiwum",
         "copyright": "Informacje o prawach autorskich",
-        "select": "Wybierz..."
+        "select": "Wybierz...",
+        "noCollection": "— Brak kolekcji —",
+        "searchCollection": "Szukaj kolekcji..."
       },
       "adultContent": {
         "title": "Treści dla dorosłych (18+)",
@@ -561,7 +563,8 @@
           "title": "Skopiować te informacje?",
           "description": "Czy chcesz skopiować te informacje do wszystkich pozostałych plików na liście?"
         }
-      }
+      },
+      "collection": "Kolekcja"
     },
     "edit": {
       "title": "Edytuj",

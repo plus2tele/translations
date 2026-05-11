@@ -497,7 +497,9 @@
         "title": "Füg einen Titel hinzu, der dein Video beschreibt",
         "description": "Details zu diesem Archivinhalt",
         "copyright": "Urheberrechtsinformationen",
-        "select": "Auswählen..."
+        "select": "Auswählen...",
+        "noCollection": "— Keine Sammlung —",
+        "searchCollection": "Sammlung suchen..."
       },
       "adultContent": {
         "title": "Nicht jugendfreie Inhalte (18+)",
@@ -552,7 +554,8 @@
           "description": "Möchtest du diese Informationen auf alle anderen Dateien in der Liste kopieren?"
         }
       },
-      "missingFields": "Bitte fülle alle Pflichtfelder (Archivtyp und Kanal) für alle Dateien aus."
+      "missingFields": "Bitte fülle alle Pflichtfelder (Archivtyp und Kanal) für alle Dateien aus.",
+      "collection": "Sammlung"
     },
     "edit": {
       "title": "Bearbeiten",

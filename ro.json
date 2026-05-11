@@ -507,7 +507,9 @@
         "title": "Adaugă un titlu ce îți descrie clipul",
         "description": "Detalii în legătură cu această arhivă",
         "copyright": "Informații legate de drepturile de autor",
-        "select": "Selectează..."
+        "select": "Selectează...",
+        "noCollection": "— Fără colecție —",
+        "searchCollection": "Caută o colecție..."
       },
       "adultContent": {
         "title": "Conținut pentru adulți (18+)",
@@ -561,7 +563,8 @@
           "title": "Copiază informația?",
           "description": "Vrei să copiezi această informație către restul fișierelor din listă?"
         }
-      }
+      },
+      "collection": "Colecție"
     },
     "edit": {
       "title": "Editează",

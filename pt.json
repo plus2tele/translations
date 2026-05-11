@@ -494,7 +494,9 @@
         "title": "Adicione um título que descreva seu vídeo",
         "description": "Detalhes sobre este arquivo",
         "copyright": "Informações sobre direitos autorais",
-        "select": "Selecionar..."
+        "select": "Selecionar...",
+        "noCollection": "— Nenhuma coleção —",
+        "searchCollection": "Pesquisar uma coleção..."
       },
       "adultContent": {
         "title": "Conteúdo adulto (+18)",
@@ -548,7 +550,8 @@
           "title": "Copiar esta informação?",
           "description": "Você deseja copiar esta informação para todos os outros arquivos da lista?"
         }
-      }
+      },
+      "collection": "Coleção"
     },
     "edit": {
       "title": "Editar",

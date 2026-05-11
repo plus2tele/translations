@@ -512,7 +512,9 @@
         "title": "Add a title that describes your video",
         "description": "Details concerning this archive",
         "copyright": "Copyright information",
-        "select": "Select..."
+        "select": "Select...",
+        "noCollection": "— No collection —",
+        "searchCollection": "Search a collection..."
       },
       "adultContent": {
         "title": "Adult Content (18+)",
@@ -566,7 +568,8 @@
           "title": "Copy this information?",
           "description": "Do you want to copy this information to all other files in the list?"
         }
-      }
+      },
+      "collection": "Collection"
     },
     "edit": {
       "title": "Edit",
