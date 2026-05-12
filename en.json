@@ -830,5 +830,8 @@
     },
     "all": "All agencies",
     "empty": "No agencies listed yet."
+  },
+  "changelog_page": {
+    "description": "Discover the latest updates and improvements to +2Télé."
   }
 }

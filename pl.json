@@ -825,5 +825,8 @@
     },
     "all": "Wszystkie agencje",
     "empty": "Brak agencji na liście."
+  },
+  "changelog_page": {
+    "description": "Odkryj najnowsze aktualizacje i ulepszenia +2Télé."
   }
 }

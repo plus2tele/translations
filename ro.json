@@ -825,5 +825,8 @@
     },
     "all": "Toate agențiile",
     "empty": "Nicio agenție înregistrată momentan."
+  },
+  "changelog_page": {
+    "description": "Descoperă cele mai recente actualizări și îmbunătățiri ale +2Télé."
   }
 }
