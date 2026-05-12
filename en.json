@@ -430,7 +430,7 @@
     "description": "Manage and add archives",
     "become": "Become an archivist",
     "nav": {
-      "stats": "Statistics",
+      "stats": "Home",
       "upload": "Add an archive",
       "channels": "Channels",
       "collections": "Collections",
@@ -606,6 +606,90 @@
       "confirmReplaceMedia": "Are you sure you want to replace the video? This action cannot be undone.",
       "dragDropReplace": "Click or drag a video here to replace",
       "delete": "DELETE"
+    },
+    "home": {
+      "title": "Home",
+      "subtitle": "Overview of your archivist space",
+      "quickActions": {
+        "title": "Quick actions",
+        "upload": {
+          "label": "Upload an archive",
+          "description": "Add a new video file to the platform"
+        },
+        "createHabillage": {
+          "label": "Create a branding family",
+          "description": "Define a new graphic identity for a channel"
+        },
+        "bulkHabillage": {
+          "label": "Bulk add archives",
+          "description": "Associate multiple archives with a branding family"
+        },
+        "editChannel": {
+          "label": "Edit a channel",
+          "description": "Update a channel's information or logo"
+        }
+      },
+      "events": {
+        "title": "Events",
+        "viewAll": "View all",
+        "loading": "Loading…",
+        "empty": "No ongoing or upcoming events.",
+        "ongoing": "Ongoing",
+        "upcoming": "Upcoming"
+      },
+      "channelPicker": {
+        "search": "Search a channel…",
+        "loading": "Loading…",
+        "notFound": "No channel found"
+      },
+      "createHabillage": {
+        "title": "New branding family",
+        "channelLabel": "Channel",
+        "nameLabel": "Name",
+        "namePlaceholder": "e.g. 2010 Branding",
+        "versionLabel": "Version",
+        "versionPlaceholder": "e.g. v2, Revised",
+        "optional": "(optional)",
+        "startLabel": "Start",
+        "endLabel": "End",
+        "endHint": "(empty = ongoing)",
+        "descLabel": "Description",
+        "descPlaceholder": "Notes about this branding…",
+        "colorLabel": "Color",
+        "colorReset": "Reset",
+        "error": "Error creating. Please try again.",
+        "cancel": "Cancel",
+        "saving": "Creating…",
+        "submit": "Create"
+      },
+      "bulk": {
+        "title": "Bulk add",
+        "stepOf": "step {{step}}/3",
+        "stepChannel": "Channel",
+        "stepFamily": "Branding family",
+        "stepArchives": "Archives",
+        "channelHint": "Select the relevant channel.",
+        "channelLabel": "Channel",
+        "familyHint": "Choose the target branding family.",
+        "loading": "Loading…",
+        "noFamilies": "No branding family for this channel.",
+        "searchArchives": "Search an archive…",
+        "deselectPage": "Deselect page",
+        "selectPage": "Select page",
+        "noArchives": "No archive found.",
+        "previous": "Previous",
+        "next": "Next",
+        "selectedCount_one": "{{count}} archive selected",
+        "selectedCount_other": "{{count}} archives selected",
+        "applying": "Applying…",
+        "apply": "Apply",
+        "untitled": "(untitled)",
+        "error": "An error occurred. Some archives may not have been updated.",
+        "successCount_one": "{{count}} archive updated",
+        "successCount_other": "{{count}} archives updated",
+        "successSubtitle": "Associated with “{{name}}”",
+        "close": "Close"
+      }
     }
   },
   "community": {

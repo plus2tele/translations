@@ -374,7 +374,7 @@
     "description": "Administra y agrega archivos",
     "become": "Convertirse en archivista",
     "nav": {
-      "stats": "Estadísticas",
+      "stats": "Inicio",
       "upload": "Agregar un archivo",
       "channels": "Canales",
       "collections": "Colecciones",
@@ -550,6 +550,90 @@
       "confirmReplaceMedia": "¿Estás seguro de que deseas reemplazar el video? Esta acción no se puede deshacer.",
       "dragDropReplace": "Haz clic o arrastra un video aquí para reemplazar",
       "delete": "ELIMINAR"
+    },
+    "home": {
+      "title": "Inicio",
+      "subtitle": "Resumen de su espacio de archivista",
+      "quickActions": {
+        "title": "Acciones rápidas",
+        "upload": {
+          "label": "Subir un archivo",
+          "description": "Agregar un nuevo archivo de vídeo a la plataforma"
+        },
+        "createHabillage": {
+          "label": "Crear una familia de habillage",
+          "description": "Definir una nueva identidad gráfica para un canal"
+        },
+        "bulkHabillage": {
+          "label": "Agregar archivos en masa",
+          "description": "Asociar varios archivos a una familia de habillage"
+        },
+        "editChannel": {
+          "label": "Editar un canal",
+          "description": "Actualizar la información o el logotipo de un canal"
+        }
+      },
+      "events": {
+        "title": "Eventos",
+        "viewAll": "Ver todos",
+        "loading": "Cargando…",
+        "empty": "No hay eventos en curso ni próximos.",
+        "ongoing": "En curso",
+        "upcoming": "Próximamente"
+      },
+      "channelPicker": {
+        "search": "Buscar un canal…",
+        "loading": "Cargando…",
+        "notFound": "No se encontró ningún canal"
+      },
+      "createHabillage": {
+        "title": "Nueva familia de habillage",
+        "channelLabel": "Canal",
+        "nameLabel": "Nombre",
+        "namePlaceholder": "ej. Habillage 2010",
+        "versionLabel": "Versión",
+        "versionPlaceholder": "ej. v2, Revisado",
+        "optional": "(opcional)",
+        "startLabel": "Inicio",
+        "endLabel": "Fin",
+        "endHint": "(vacío = en curso)",
+        "descLabel": "Descripción",
+        "descPlaceholder": "Notas sobre este habillage…",
+        "colorLabel": "Color",
+        "colorReset": "Restablecer",
+        "error": "Error al crear. Por favor, inténtelo de nuevo.",
+        "cancel": "Cancelar",
+        "saving": "Creando…",
+        "submit": "Crear"
+      },
+      "bulk": {
+        "title": "Adición en masa",
+        "stepOf": "paso {{step}}/3",
+        "stepChannel": "Canal",
+        "stepFamily": "Familia de habillage",
+        "stepArchives": "Archivos",
+        "channelHint": "Seleccione el canal correspondiente.",
+        "channelLabel": "Canal",
+        "familyHint": "Elija la familia de habillage de destino.",
+        "loading": "Cargando…",
+        "noFamilies": "No hay familia de habillage para este canal.",
+        "searchArchives": "Buscar un archivo…",
+        "deselectPage": "Deseleccionar página",
+        "selectPage": "Seleccionar página",
+        "noArchives": "No se encontró ningún archivo.",
+        "previous": "Anterior",
+        "next": "Siguiente",
+        "selectedCount_one": "{{count}} archivo seleccionado",
+        "selectedCount_other": "{{count}} archivos seleccionados",
+        "applying": "Aplicando…",
+        "apply": "Aplicar",
+        "untitled": "(sin título)",
+        "error": "Se produjo un error. Es posible que algunos archivos no se hayan actualizado.",
+        "successCount_one": "{{count}} archivo actualizado",
+        "successCount_other": "{{count}} archivos actualizados",
+        "successSubtitle": "Asociados a «{{name}}»",
+        "close": "Cerrar"
+      }
     }
   },
   "community": {

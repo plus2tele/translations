@@ -425,12 +425,13 @@
     "description": "Accédez à votre espace archiviste pour gérer, ajouter et modifier vos contributions d'archives télévisuelles sur la plateforme +2Télé.",
     "become": "Devenir archiviste",
     "nav": {
-      "stats": "Statistiques",
+      "stats": "Accueil",
       "upload": "Ajouter une archive",
       "channels": "Chaînes",
       "collections": "Collections",
       "encodings": "Encodages",
-      "certification": "Certification"
+      "certification": "Certification",
+      "home": "Accueil"
     },
     "stats": {
       "archives": "Archives",
@@ -601,6 +602,90 @@
       "confirmReplaceMedia": "Êtes-vous sûr de vouloir remplacer la vidéo ? Cette action est irréversible.",
       "dragDropReplace": "Cliquez ou glissez une vidéo ici pour remplacer",
       "delete": "SUPPRIMER"
+    },
+    "home": {
+      "title": "Accueil",
+      "subtitle": "Vue d’ensemble de votre espace archiviste",
+      "quickActions": {
+        "title": "Actions rapides",
+        "upload": {
+          "label": "Upload une archive",
+          "description": "Ajouter un nouveau fichier vidéo à la plateforme"
+        },
+        "createHabillage": {
+          "label": "Créer une famille d’habillage",
+          "description": "Définir un nouvel habillage graphique pour une chaîne"
+        },
+        "bulkHabillage": {
+          "label": "Ajouter des archives en masse",
+          "description": "Associer plusieurs archives à une famille d’habillage"
+        },
+        "editChannel": {
+          "label": "Modifier une chaîne",
+          "description": "Éditer les informations ou le logo d’une chaîne"
+        }
+      },
+      "events": {
+        "title": "Événements",
+        "viewAll": "Voir tous",
+        "loading": "Chargement…",
+        "empty": "Aucun événement en cours ou à venir.",
+        "ongoing": "En cours",
+        "upcoming": "À venir"
+      },
+      "channelPicker": {
+        "search": "Rechercher une chaîne…",
+        "loading": "Chargement…",
+        "notFound": "Aucune chaîne trouvée"
+      },
+      "createHabillage": {
+        "title": "Nouvelle famille d’habillage",
+        "channelLabel": "Chaîne",
+        "nameLabel": "Nom",
+        "namePlaceholder": "ex. Habillage 2010",
+        "versionLabel": "Version",
+        "versionPlaceholder": "ex. v2, Révisée",
+        "optional": "(optionnel)",
+        "startLabel": "Début",
+        "endLabel": "Fin",
+        "endHint": "(vide = en cours)",
+        "descLabel": "Description",
+        "descPlaceholder": "Notes sur cet habillage…",
+        "colorLabel": "Couleur",
+        "colorReset": "Réinitialiser",
+        "error": "Erreur lors de la création. Veuillez réessayer.",
+        "cancel": "Annuler",
+        "saving": "Création…",
+        "submit": "Créer"
+      },
+      "bulk": {
+        "title": "Ajout en masse",
+        "stepOf": "étape {{step}}/3",
+        "stepChannel": "Chaîne",
+        "stepFamily": "Famille d’habillage",
+        "stepArchives": "Archives",
+        "channelHint": "Sélectionnez la chaîne concernée.",
+        "channelLabel": "Chaîne",
+        "familyHint": "Choisissez la famille d’habillage cible.",
+        "loading": "Chargement…",
+        "noFamilies": "Aucune famille d’habillage pour cette chaîne.",
+        "searchArchives": "Rechercher une archive…",
+        "deselectPage": "Désélectionner la page",
+        "selectPage": "Sélectionner la page",
+        "noArchives": "Aucune archive trouvée.",
+        "previous": "Précédent",
+        "next": "Suivant",
+        "selectedCount_one": "{{count}} archive sélectionnée",
+        "selectedCount_other": "{{count}} archives sélectionnées",
+        "applying": "Application…",
+        "apply": "Appliquer",
+        "untitled": "(sans titre)",
+        "error": "Une erreur est survenue. Certaines archives n’ont peut-être pas été mises à jour.",
+        "successCount_one": "{{count}} archive mise à jour",
+        "successCount_other": "{{count}} archives mises à jour",
+        "successSubtitle": "Associées à « {{name}} »",
+        "close": "Fermer"
+      }
     }
   },
   "community": {

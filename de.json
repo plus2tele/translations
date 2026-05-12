@@ -416,7 +416,7 @@
     "description": "Verwalten und Hinzufügen von Archivinhalten",
     "become": "Archivar werden",
     "nav": {
-      "stats": "Statistiken",
+      "stats": "Startseite",
       "upload": "Archivierung hinzufügen",
       "channels": "Sender",
       "collections": "Sammlungen",
@@ -592,6 +592,90 @@
       "confirmReplaceMedia": "Bist du sicher, dass du das Video ersetzen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",
       "dragDropReplace": "Klicken oder Video hierher ziehen zum Ersetzen",
       "delete": "LÖSCHEN"
+    },
+    "home": {
+      "title": "Startseite",
+      "subtitle": "Übersicht Ihres Archivierstenbereichs",
+      "quickActions": {
+        "title": "Schnellaktionen",
+        "upload": {
+          "label": "Archiv hochladen",
+          "description": "Eine neue Videodatei zur Plattform hinzufügen"
+        },
+        "createHabillage": {
+          "label": "Habillage-Familie erstellen",
+          "description": "Ein neues grafisches Erscheinungsbild für einen Sender definieren"
+        },
+        "bulkHabillage": {
+          "label": "Archive in großen Mengen hinzufügen",
+          "description": "Mehrere Archive einer Habillage-Familie zuordnen"
+        },
+        "editChannel": {
+          "label": "Sender bearbeiten",
+          "description": "Informationen oder Logo eines Senders bearbeiten"
+        }
+      },
+      "events": {
+        "title": "Ereignisse",
+        "viewAll": "Alle anzeigen",
+        "loading": "Laden…",
+        "empty": "Keine laufenden oder bevorstehenden Ereignisse.",
+        "ongoing": "Laufend",
+        "upcoming": "Bevorstehend"
+      },
+      "channelPicker": {
+        "search": "Sender suchen…",
+        "loading": "Laden…",
+        "notFound": "Kein Sender gefunden"
+      },
+      "createHabillage": {
+        "title": "Neue Habillage-Familie",
+        "channelLabel": "Sender",
+        "nameLabel": "Name",
+        "namePlaceholder": "z. B. Habillage 2010",
+        "versionLabel": "Version",
+        "versionPlaceholder": "z. B. v2, Überarbeitet",
+        "optional": "(optional)",
+        "startLabel": "Beginn",
+        "endLabel": "Ende",
+        "endHint": "(leer = laufend)",
+        "descLabel": "Beschreibung",
+        "descPlaceholder": "Anmerkungen zu diesem Habillage…",
+        "colorLabel": "Farbe",
+        "colorReset": "Zurücksetzen",
+        "error": "Fehler beim Erstellen. Bitte erneut versuchen.",
+        "cancel": "Abbrechen",
+        "saving": "Erstellen…",
+        "submit": "Erstellen"
+      },
+      "bulk": {
+        "title": "Massenhinzufügung",
+        "stepOf": "Schritt {{step}}/3",
+        "stepChannel": "Sender",
+        "stepFamily": "Habillage-Familie",
+        "stepArchives": "Archive",
+        "channelHint": "Den betreffenden Sender auswählen.",
+        "channelLabel": "Sender",
+        "familyHint": "Ziel-Habillage-Familie auswählen.",
+        "loading": "Laden…",
+        "noFamilies": "Keine Habillage-Familie für diesen Sender.",
+        "searchArchives": "Archiv suchen…",
+        "deselectPage": "Seite abwählen",
+        "selectPage": "Seite auswählen",
+        "noArchives": "Kein Archiv gefunden.",
+        "previous": "Zurück",
+        "next": "Weiter",
+        "selectedCount_one": "{{count}} Archiv ausgewählt",
+        "selectedCount_other": "{{count}} Archive ausgewählt",
+        "applying": "Anwenden…",
+        "apply": "Anwenden",
+        "untitled": "(ohne Titel)",
+        "error": "Ein Fehler ist aufgetreten. Einige Archive wurden möglicherweise nicht aktualisiert.",
+        "successCount_one": "{{count}} Archiv aktualisiert",
+        "successCount_other": "{{count}} Archive aktualisiert",
+        "successSubtitle": "Zugeordnet zu „{{name}}“",
+        "close": "Schließen"
+      }
     }
   },
   "community": {

@@ -425,7 +425,7 @@
     "description": "Gestionează și adaugă arhive",
     "become": "Devino un arhivist",
     "nav": {
-      "stats": "Statistici",
+      "stats": "Acasă",
       "upload": "Adaugă o arhivă",
       "channels": "Canale",
       "collections": "Colecții",
@@ -601,6 +601,90 @@
       "confirmReplaceMedia": "Ești sigur că vrei să înlocuiești videoclipul? Această acțiune este ireversibilă.",
       "dragDropReplace": "Apasă sau trage un video aici pentru înlocuire",
       "delete": "ȘTERGE"
+    },
+    "home": {
+      "title": "Acasă",
+      "subtitle": "Prezentare generală a spațiului arhivistului",
+      "quickActions": {
+        "title": "Acțiuni rapide",
+        "upload": {
+          "label": "Încărcă o arhivă",
+          "description": "Adaugă un nou fişier video pe platformă"
+        },
+        "createHabillage": {
+          "label": "Creează o familie de habillage",
+          "description": "Defineşte o nouă identitate grafică pentru un canal"
+        },
+        "bulkHabillage": {
+          "label": "Adăugare în masă a arhivelor",
+          "description": "Asociază mai multe arhive cu o familie de habillage"
+        },
+        "editChannel": {
+          "label": "Editează un canal",
+          "description": "Actualizează informațiile sau logo-ul unui canal"
+        }
+      },
+      "events": {
+        "title": "Evenimente",
+        "viewAll": "Vezi toate",
+        "loading": "Se încarcă…",
+        "empty": "Niciun eveniment în curs sau viitor.",
+        "ongoing": "În curs",
+        "upcoming": "Viitor"
+      },
+      "channelPicker": {
+        "search": "Caută un canal…",
+        "loading": "Se încarcă…",
+        "notFound": "Niciun canal găsit"
+      },
+      "createHabillage": {
+        "title": "Familie nouă de habillage",
+        "channelLabel": "Canal",
+        "nameLabel": "Nume",
+        "namePlaceholder": "ex. Habillage 2010",
+        "versionLabel": "Versiune",
+        "versionPlaceholder": "ex. v2, Revizuit",
+        "optional": "(opțional)",
+        "startLabel": "Început",
+        "endLabel": "Sfârşit",
+        "endHint": "(gol = în curs)",
+        "descLabel": "Descriere",
+        "descPlaceholder": "Note despre acest habillage…",
+        "colorLabel": "Culoare",
+        "colorReset": "Resetare",
+        "error": "Eroare la creare. Vă rugăm să încercați din nou.",
+        "cancel": "Anulare",
+        "saving": "Se creează…",
+        "submit": "Creează"
+      },
+      "bulk": {
+        "title": "Adăugare în masă",
+        "stepOf": "pasul {{step}}/3",
+        "stepChannel": "Canal",
+        "stepFamily": "Familie de habillage",
+        "stepArchives": "Arhive",
+        "channelHint": "Selectați canalul relevant.",
+        "channelLabel": "Canal",
+        "familyHint": "Alegeți familia de habillage țintă.",
+        "loading": "Se încarcă…",
+        "noFamilies": "Nicio familie de habillage pentru acest canal.",
+        "searchArchives": "Caută o arhivă…",
+        "deselectPage": "Deselectați pagina",
+        "selectPage": "Selectați pagina",
+        "noArchives": "Nicio arhivă găsită.",
+        "previous": "Anterior",
+        "next": "Următor",
+        "selectedCount_one": "{{count}} arhivă selectată",
+        "selectedCount_other": "{{count}} arhive selectate",
+        "applying": "Se aplică…",
+        "apply": "Aplică",
+        "untitled": "(fără titlu)",
+        "error": "A apărut o eroare. Este posibil ca unele arhive să nu fi fost actualizate.",
+        "successCount_one": "{{count}} arhivă actualizată",
+        "successCount_other": "{{count}} arhive actualizate",
+        "successSubtitle": "Asociate cu «{{name}}»",
+        "close": "Închi"
+      }
     }
   },
   "community": {
