@@ -342,6 +342,8 @@
     },
     "account": {
       "title": "Konto",
+      "passeport": "Passeport-Konto",
+      "passeportDescription": "Verwalte deine sozialen Verbindungen und die erweiterte Kontosicherheit.",
       "logout": "Abmelden",
       "logoutDescription": "Abmelden von deinem Konto",
       "delete": "Konto löschen",
@@ -781,5 +783,18 @@
         "listen": "Anhören auf:"
       }
     }
+  },
+  "agences_page": {
+    "seo_title": "Agenturen",
+    "seo_description": "Entdecken Sie die TV-Design-Agenturen, die das Senderdesign in unseren Archiven erstellt haben.",
+    "title": "Agenturen",
+    "subtitle": "Die TV-Design-Studios und Agenturen, die das Senderdesign unserer Archive erstellt haben.",
+    "stats": {
+      "total": "Agenturen insgesamt",
+      "active": "Aktiv",
+      "defunct": "Aufgelöst"
+    },
+    "all": "Alle Agenturen",
+    "empty": "Noch keine Agenturen eingetragen."
   }
 }

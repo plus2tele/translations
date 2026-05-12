@@ -360,6 +360,8 @@
     },
     "account": {
       "title": "Account",
+      "passeport": "Passeport Account",
+      "passeportDescription": "Manage your social connections and advanced account security.",
       "logout": "Logout",
       "logoutDescription": "Log out of your account",
       "delete": "Delete account",
@@ -815,5 +817,18 @@
         ]
       }
     }
+  },
+  "agences_page": {
+    "seo_title": "Agencies",
+    "seo_description": "Discover the TV design agencies that created the channel branding in our archives.",
+    "title": "Agencies",
+    "subtitle": "The TV design studios and agencies that created the branding featured in our archives.",
+    "stats": {
+      "total": "Total agencies",
+      "active": "Active",
+      "defunct": "Defunct"
+    },
+    "all": "All agencies",
+    "empty": "No agencies listed yet."
   }
 }

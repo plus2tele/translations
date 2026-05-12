@@ -355,6 +355,8 @@
     },
     "account": {
       "title": "Konto",
+      "passeport": "Konto Passeport",
+      "passeportDescription": "Zarządzaj połączeniami społecznościowymi i zaawansowanym bezpieczeństwem konta.",
       "logout": "Wylogowanie",
       "logoutDescription": "Wyloguj się ze swojego konta",
       "delete": "Usuń swoje konto",
@@ -810,5 +812,18 @@
       "viewCalendar": "Kalendarz",
       "dateRange": "Od {{start}} do {{end}}"
     }
+  },
+  "agences_page": {
+    "seo_title": "Agencje",
+    "seo_description": "Odkryj agencje projektowania TV, które stworzyły identyfikacje stacji w naszych archiwach.",
+    "title": "Agencje",
+    "subtitle": "Studia i agencje projektowania TV, które stworzyły identyfikacje naszych archiwów.",
+    "stats": {
+      "total": "Agencji łącznie",
+      "active": "Aktywne",
+      "defunct": "Nieistniejące"
+    },
+    "all": "Wszystkie agencje",
+    "empty": "Brak agencji na liście."
   }
 }

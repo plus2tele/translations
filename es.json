@@ -304,6 +304,8 @@
     },
     "account": {
       "title": "Cuenta",
+      "passeport": "Cuenta Passeport",
+      "passeportDescription": "Gestiona tus conexiones sociales y la seguridad avanzada de tu cuenta.",
       "logout": "Cerrar sesión",
       "logoutDescription": "Cerrar sesión de tu cuenta",
       "delete": "Eliminar la cuenta",
@@ -709,5 +711,18 @@
         ]
       }
     }
+  },
+  "agences_page": {
+    "seo_title": "Agencias",
+    "seo_description": "Descubre las agencias de diseño TV que crearon las identidades de los canales en nuestros archivos.",
+    "title": "Agencias",
+    "subtitle": "Los estudios y agencias de diseño TV que crearon las identidades de nuestros archivos.",
+    "stats": {
+      "total": "Agencias en total",
+      "active": "Activas",
+      "defunct": "Desaparecidas"
+    },
+    "all": "Todas las agencias",
+    "empty": "Ninguna agencia registrada por el momento."
   }
 }

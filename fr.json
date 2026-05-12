@@ -355,6 +355,8 @@
     },
     "account": {
       "title": "Compte",
+      "passeport": "Espace compte Passeport",
+      "passeportDescription": "Gérer vos connexions sociales et la sécurité avancée de votre compte.",
       "logout": "Déconnexion",
       "logoutDescription": "Se déconnecter de votre compte",
       "delete": "Supprimer le compte",
@@ -810,5 +812,18 @@
         ]
       }
     }
+  },
+  "agences_page": {
+    "seo_title": "Agences",
+    "seo_description": "Découvrez les agences de design TV qui ont créé les habillages des chaînes françaises.",
+    "title": "Agences",
+    "subtitle": "Les studios et agences de design TV qui ont créé les habillages de nos archives.",
+    "stats": {
+      "total": "Agences au total",
+      "active": "Actives",
+      "defunct": "Disparues"
+    },
+    "all": "Toutes les agences",
+    "empty": "Aucune agence répertoriée pour l'instant."
   }
 }

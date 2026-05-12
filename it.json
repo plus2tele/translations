@@ -351,6 +351,8 @@
     },
     "account": {
       "title": "Account",
+      "passeport": "Account Passeport",
+      "passeportDescription": "Gestisci le tue connessioni social e la sicurezza avanzata del tuo account.",
       "logout": "Disconnetti",
       "logoutDescription": "Esci dal tuo account",
       "delete": "Elimina account",
@@ -810,5 +812,18 @@
       "staff": "Il Staff",
       "archivists": "Archivisti"
     }
+  },
+  "agences_page": {
+    "seo_title": "Agenzie",
+    "seo_description": "Scopri le agenzie di design TV che hanno creato le identità dei canali nei nostri archivi.",
+    "title": "Agenzie",
+    "subtitle": "Gli studi e le agenzie di design TV che hanno creato le identità dei nostri archivi.",
+    "stats": {
+      "total": "Agenzie totali",
+      "active": "Attive",
+      "defunct": "Scomparse"
+    },
+    "all": "Tutte le agenzie",
+    "empty": "Nessuna agenzia elencata per il momento."
   }
 }

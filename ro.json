@@ -355,6 +355,8 @@
     },
     "account": {
       "title": "Cont",
+      "passeport": "Cont Passeport",
+      "passeportDescription": "Gestionează-ți conexiunile sociale și securitatea avansată a contului.",
       "logout": "Deloghează-te",
       "logoutDescription": "Deloghează-te din cont",
       "delete": "Șterge-ți contul",
@@ -810,5 +812,18 @@
         ]
       }
     }
+  },
+  "agences_page": {
+    "seo_title": "Agenții",
+    "seo_description": "Descoperă agențiile de design TV care au creat identitățile canalelor din arhivele noastre.",
+    "title": "Agenții",
+    "subtitle": "Studiourile și agențiile de design TV care au creat identitățile arhivelor noastre.",
+    "stats": {
+      "total": "Agenții în total",
+      "active": "Active",
+      "defunct": "Dispărute"
+    },
+    "all": "Toate agențiile",
+    "empty": "Nicio agenție înregistrată momentan."
   }
 }
