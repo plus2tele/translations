@@ -913,5 +913,13 @@
   },
   "changelog_page": {
     "description": "Découvrez les dernières mises à jour et améliorations de +2Télé."
+  },
+  "pwa": {
+    "install": {
+      "title": "Installer +2Télé",
+      "description": "Accédez rapidement depuis votre écran d'accueil",
+      "button": "Installer l'application",
+      "dismiss": "Pas maintenant"
+    }
   }
 }

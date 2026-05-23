@@ -917,5 +917,13 @@
   },
   "changelog_page": {
     "description": "Discover the latest updates and improvements to +2Télé."
+  },
+  "pwa": {
+    "install": {
+      "title": "Install +2Télé",
+      "description": "Quick access from your home screen",
+      "button": "Install app",
+      "dismiss": "Not now"
+    }
   }
 }

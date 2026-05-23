@@ -883,5 +883,13 @@
   },
   "changelog_page": {
     "description": "Entdecken Sie die neuesten Updates und Verbesserungen von +2Télé."
+  },
+  "pwa": {
+    "install": {
+      "title": "+2Télé installieren",
+      "description": "Schneller Zugriff vom Startbildschirm",
+      "button": "App installieren",
+      "dismiss": "Nicht jetzt"
+    }
   }
 }

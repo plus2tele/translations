@@ -912,5 +912,13 @@
   },
   "changelog_page": {
     "description": "Descoperă cele mai recente actualizări și îmbunătățiri ale +2Télé."
+  },
+  "pwa": {
+    "install": {
+      "title": "Instalează +2Télé",
+      "description": "Acces rapid de pe ecranul principal",
+      "button": "Instalează aplicația",
+      "dismiss": "Nu acum"
+    }
   }
 }
