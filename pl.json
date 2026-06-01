@@ -172,6 +172,12 @@
       "message": "Treść ta może być nie odpowiednia dla młodszej widowni, gdyż może zawierać sceny przemocy lub nagości.",
       "confirm": "Potwierdzam, że mam ukończone 18 lat",
       "cancel": "Anuluj"
+    },
+    "photosensitiveWarning": {
+      "title": "Ostrzeżenie o epilepsji",
+      "message": "Ta treść może zawierać efekty stroboskopowe, błyski lub szybkie sekwencje, które mogą wywołać ataki epilepsji u osób wrażliwych na światło.",
+      "confirm": "Przyjmuję do wiadomości to ostrzeżenie i chcę kontynuować",
+      "cancel": "Wróć"
     }
   },
   "ranking": {

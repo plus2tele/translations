@@ -173,6 +173,12 @@
       "message": "This content may be upsetting as it may contain violent imagery or nudity.",
       "confirm": "I confirm I am 18 or older",
       "cancel": "Cancel"
+    },
+    "photosensitiveWarning": {
+      "title": "Epilepsy Warning",
+      "message": "This content may contain flashing lights, strobes or rapid sequences that could trigger epileptic seizures in photosensitive people.",
+      "confirm": "I acknowledge this warning and wish to continue",
+      "cancel": "Go back"
     }
   },
   "ranking": {

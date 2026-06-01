@@ -95,6 +95,12 @@
       "message": "Dieser Inhalt könnte verstörend wirken, da er gewalttätige Bilder oder Nacktheit enthalten kann.",
       "confirm": "Ich bestätige, dass ich 18 Jahre oder älter bin",
       "cancel": "Abbrechen"
+    },
+    "photosensitiveWarning": {
+      "title": "Epilepsie-Warnung",
+      "message": "Dieser Inhalt kann Blitzlichter, Stroboskope oder schnelle Sequenzen enthalten, die bei lichtempfindlichen Personen epileptische Anfälle auslösen können.",
+      "confirm": "Ich habe die Warnung gelesen und möchte fortfahren",
+      "cancel": "Zurück"
     }
   },
   "channel": {

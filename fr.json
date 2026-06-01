@@ -172,6 +172,12 @@
       "message": "Ce contenu peut heurter la sensibilité, car il peut comporter des images à caractère violent ou comporter de la nudité.",
       "confirm": "Je confirme avoir 18 ans ou plus",
       "cancel": "Annuler"
+    },
+    "photosensitiveWarning": {
+      "title": "Avertissement épilepsie",
+      "message": "Ce contenu peut contenir des effets lumineux stroboscopiques, des flashs ou des séquences rapides susceptibles de provoquer des crises d'épilepsie chez les personnes photosensibles.",
+      "confirm": "Je reconnais avoir été informé(e) et souhaite continuer",
+      "cancel": "Retour"
     }
   },
   "ranking": {
@@ -518,6 +524,10 @@
       "adultContent": {
         "title": "Contenu Adulte (-18)",
         "description": "Ce contenu sera flouté et nécessitera une confirmation d'âge. Il ne sera visible que par les utilisateurs majeurs."
+      },
+      "photosensitiveContent": {
+        "title": "Contenu Photosensible (Épilepsie)",
+        "description": "Ce contenu contient des effets lumineux ou des séquences rapides pouvant déclencher des crises chez les personnes épileptiques. Un avertissement sera affiché avant lecture."
       },
       "visibilityConfig": {
         "title": "Visibilité",

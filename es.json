@@ -145,6 +145,12 @@
       "message": "Este contenido puede herir la sensibilidad, ya que puede incluir imágenes violentas o desnudez.",
       "confirm": "Confirmo que tengo 18 años o más",
       "cancel": "Cancelar"
+    },
+    "photosensitiveWarning": {
+      "title": "Advertencia de epilepsia",
+      "message": "Este contenido puede contener efectos de luz estroboscópica, destellos o secuencias rápidas que podrían provocar ataques epilépticos en personas fotosensibles.",
+      "confirm": "Reconozco esta advertencia y deseo continuar",
+      "cancel": "Volver"
     }
   },
   "ranking": {

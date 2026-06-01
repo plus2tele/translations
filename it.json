@@ -172,6 +172,12 @@
       "message": "Questo contenuto potrebbe urtare la sensibilità, poiché potrebbe contenere immagini violente o nudità.",
       "confirm": "Confermo di avere 18 anni o più",
       "cancel": "Annulla"
+    },
+    "photosensitiveWarning": {
+      "title": "Avviso epilessia",
+      "message": "Questo contenuto può contenere effetti stroboscopici, lampeggi o sequenze rapide che potrebbero scatenare crisi epilettiche nelle persone fotosensibili.",
+      "confirm": "Prendo atto dell'avviso e desidero continuare",
+      "cancel": "Indietro"
     }
   },
   "ranking": {

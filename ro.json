@@ -172,6 +172,12 @@
       "message": "Acest conținut poate conține violență sau nuditate și vă poate afecta emoțional.",
       "confirm": "Am peste 18 ani",
       "cancel": "Anulare"
+    },
+    "photosensitiveWarning": {
+      "title": "Avertisment epilepsie",
+      "message": "Acest conținut poate conține efecte stroboscopice, blițuri sau secvențe rapide care ar putea declanșa crize de epilepsie la persoanele fotosensibile.",
+      "confirm": "Am luat la cunoștință acest avertisment și doresc să continui",
+      "cancel": "Înapoi"
     }
   },
   "ranking": {
