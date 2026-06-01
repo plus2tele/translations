@@ -268,7 +268,10 @@
     "terms": "Nutzungsbedingungen",
     "and": "und",
     "privacy": "Datenschutzbestimmungen",
-    "migrationNotice": "Das +2Télé-Kontosystem hat sich weiterentwickelt. Wenn du bereits registriert warst, melde dich zuerst mit deinem Discord-Konto an, um dein Konto zu migrieren und wiederherzustellen."
+    "migrationNotice": "Das +2Télé-Kontosystem hat sich weiterentwickelt. Wenn du bereits registriert warst, melde dich zuerst mit deinem Discord-Konto an, um dein Konto zu migrieren und wiederherzustellen.",
+    "addAccount": "Konto hinzufügen",
+    "removeAccount": "Dieses Konto entfernen",
+    "switchAccount": "Konto wechseln"
   },
   "profile": {
     "title": "Mein Profil",

@@ -277,7 +277,10 @@
     "terms": "Termenii de Utilizare",
     "and": "și",
     "privacy": "Politica de Confidențialitate",
-    "migrationNotice": "Sistemul de conturi +2Télé a evoluat. Dacă erai deja înregistrat, conectează-te mai întâi cu contul tău Discord pentru a migra și recupera contul."
+    "migrationNotice": "Sistemul de conturi +2Télé a evoluat. Dacă erai deja înregistrat, conectează-te mai întâi cu contul tău Discord pentru a migra și recupera contul.",
+    "addAccount": "Adaugă cont",
+    "removeAccount": "Elimină acest cont",
+    "switchAccount": "Schimbă contul"
   },
   "profile": {
     "title": "Profilul meu",

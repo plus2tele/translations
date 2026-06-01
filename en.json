@@ -282,7 +282,10 @@
     "terms": "Terms of Use",
     "and": "and",
     "privacy": "Privacy Policy",
-    "migrationNotice": "The +2Télé account system has evolved. If you were already registered, log in first with your Discord account to migrate and recover your account."
+    "migrationNotice": "The +2Télé account system has evolved. If you were already registered, log in first with your Discord account to migrate and recover your account.",
+    "addAccount": "Add account",
+    "removeAccount": "Remove this account",
+    "switchAccount": "Switch account"
   },
   "profile": {
     "title": "My profile",

@@ -277,7 +277,10 @@
     "terms": "Conditions Générales d'Utilisation",
     "and": "et",
     "privacy": "Politique de Confidentialité",
-    "migrationNotice": "Le système de compte +2Télé a évolué. Si vous étiez déjà inscrit, connectez-vous d'abord avec votre compte Discord pour migrer et récupérer votre compte."
+    "migrationNotice": "Le système de compte +2Télé a évolué. Si vous étiez déjà inscrit, connectez-vous d'abord avec votre compte Discord pour migrer et récupérer votre compte.",
+    "addAccount": "Ajouter un compte",
+    "removeAccount": "Retirer ce compte",
+    "switchAccount": "Changer de compte"
   },
   "profile": {
     "title": "Mon profil",
