@@ -178,6 +178,10 @@
       "message": "Acest conținut poate conține efecte stroboscopice, blițuri sau secvențe rapide care ar putea declanșa crize de epilepsie la persoanele fotosensibile.",
       "confirm": "Am luat la cunoștință acest avertisment și doresc să continui",
       "cancel": "Înapoi"
+    },
+    "betterQuality": {
+      "message": "Această arhivă a fost republicată într-o calitate mai bună.",
+      "action": "Vezi versiunea de calitate superioară"
     }
   },
   "ranking": {
@@ -609,7 +613,14 @@
       },
       "confirmReplaceMedia": "Ești sigur că vrei să înlocuiești videoclipul? Această acțiune este ireversibilă.",
       "dragDropReplace": "Apasă sau trage un video aici pentru înlocuire",
-      "delete": "ȘTERGE"
+      "delete": "ȘTERGE",
+      "republish": {
+        "title": "Republicată într-o calitate mai bună",
+        "description": "Leagă această arhivă de o versiune mai nouă, de calitate superioară. Un banner îi va invita pe vizitatori să o vadă.",
+        "searchPlaceholder": "Caută o arhivă după titlu…",
+        "remove": "Elimină legătura",
+        "noResults": "Nicio arhivă găsită"
+      }
     },
     "home": {
       "title": "Acasă",

@@ -178,6 +178,10 @@
       "message": "Ta treść może zawierać efekty stroboskopowe, błyski lub szybkie sekwencje, które mogą wywołać ataki epilepsji u osób wrażliwych na światło.",
       "confirm": "Przyjmuję do wiadomości to ostrzeżenie i chcę kontynuować",
       "cancel": "Wróć"
+    },
+    "betterQuality": {
+      "message": "To archiwum zostało ponownie opublikowane w lepszej jakości.",
+      "action": "Zobacz wersję w lepszej jakości"
     }
   },
   "ranking": {
@@ -609,7 +613,14 @@
       },
       "confirmReplaceMedia": "Czy na pewno chcesz zastąpić wideo? Ta czynność jest nieodwracalna.",
       "dragDropReplace": "Kliknij lub przeciągnij tutaj film, aby go zastąpić",
-      "delete": "USUŃ"
+      "delete": "USUŃ",
+      "republish": {
+        "title": "Ponownie opublikowane w lepszej jakości",
+        "description": "Powiąż to archiwum z nowszą wersją w lepszej jakości. Baner zachęci odwiedzających do jej obejrzenia.",
+        "searchPlaceholder": "Szukaj archiwum według tytułu…",
+        "remove": "Usuń powiązanie",
+        "noResults": "Nie znaleziono archiwum"
+      }
     },
     "home": {
       "title": "Strona główna",

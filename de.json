@@ -180,6 +180,10 @@
       "message": "Dieser Inhalt kann unangemessen sein, da er gewalttätige Bilder oder Nacktheit beinhalten kann.",
       "confirm": "Ich bestätige, dass ich 18 oder älter bin",
       "cancel": "Abbrechen"
+    },
+    "betterQuality": {
+      "message": "Dieses Archiv wurde in besserer Qualität neu veröffentlicht.",
+      "action": "Bessere Qualität ansehen"
     }
   },
   "ranking": {
@@ -600,7 +604,14 @@
       },
       "confirmReplaceMedia": "Bist du sicher, dass du das Video ersetzen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",
       "dragDropReplace": "Klicken oder Video hierher ziehen zum Ersetzen",
-      "delete": "LÖSCHEN"
+      "delete": "LÖSCHEN",
+      "republish": {
+        "title": "In besserer Qualität neu veröffentlicht",
+        "description": "Verknüpfe dieses Archiv mit einer neueren Version in besserer Qualität. Ein Hinweis lädt Besucher ein, sie anzusehen.",
+        "searchPlaceholder": "Archiv nach Titel suchen…",
+        "remove": "Verknüpfung entfernen",
+        "noResults": "Kein Archiv gefunden"
+      }
     },
     "home": {
       "title": "Startseite",

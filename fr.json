@@ -178,6 +178,10 @@
       "message": "Ce contenu peut contenir des effets lumineux stroboscopiques, des flashs ou des séquences rapides susceptibles de provoquer des crises d'épilepsie chez les personnes photosensibles.",
       "confirm": "Je reconnais avoir été informé(e) et souhaite continuer",
       "cancel": "Retour"
+    },
+    "betterQuality": {
+      "message": "Cette archive a été republiée en meilleure qualité.",
+      "action": "Voir la version en meilleure qualité"
     }
   },
   "ranking": {
@@ -614,7 +618,14 @@
       },
       "confirmReplaceMedia": "Êtes-vous sûr de vouloir remplacer la vidéo ? Cette action est irréversible.",
       "dragDropReplace": "Cliquez ou glissez une vidéo ici pour remplacer",
-      "delete": "SUPPRIMER"
+      "delete": "SUPPRIMER",
+      "republish": {
+        "title": "Republiée en meilleure qualité",
+        "description": "Liez cette archive à une nouvelle version de meilleure qualité. Un bandeau invitera les visiteurs à la consulter.",
+        "searchPlaceholder": "Rechercher une archive par titre…",
+        "remove": "Retirer le lien",
+        "noResults": "Aucune archive trouvée"
+      }
     },
     "home": {
       "title": "Accueil",

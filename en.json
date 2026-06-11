@@ -179,6 +179,10 @@
       "message": "This content may contain flashing lights, strobes or rapid sequences that could trigger epileptic seizures in photosensitive people.",
       "confirm": "I acknowledge this warning and wish to continue",
       "cancel": "Go back"
+    },
+    "betterQuality": {
+      "message": "This archive has been republished in better quality.",
+      "action": "View the better quality version"
     }
   },
   "ranking": {
@@ -614,7 +618,14 @@
       },
       "confirmReplaceMedia": "Are you sure you want to replace the video? This action cannot be undone.",
       "dragDropReplace": "Click or drag a video here to replace",
-      "delete": "DELETE"
+      "delete": "DELETE",
+      "republish": {
+        "title": "Republished in better quality",
+        "description": "Link this archive to a newer, higher-quality version. A banner will invite visitors to view it.",
+        "searchPlaceholder": "Search an archive by title…",
+        "remove": "Remove link",
+        "noResults": "No archive found"
+      }
     },
     "home": {
       "title": "Home",

@@ -178,6 +178,10 @@
       "message": "Questo contenuto può contenere effetti stroboscopici, lampeggi o sequenze rapide che potrebbero scatenare crisi epilettiche nelle persone fotosensibili.",
       "confirm": "Prendo atto dell'avviso e desidero continuare",
       "cancel": "Indietro"
+    },
+    "betterQuality": {
+      "message": "Questo archivio è stato ripubblicato in qualità migliore.",
+      "action": "Guarda la versione di qualità migliore"
     }
   },
   "ranking": {
@@ -609,7 +613,14 @@
       },
       "confirmReplaceMedia": "Sei sicuro di voler sostituire il video? Questa azione non può essere annullata.",
       "dragDropReplace": "Clicca o trascina un video qui per sostituire",
-      "delete": "ELIMINA"
+      "delete": "ELIMINA",
+      "republish": {
+        "title": "Ripubblicata in qualità migliore",
+        "description": "Collega questo archivio a una nuova versione di qualità migliore. Un banner inviterà i visitatori a vederla.",
+        "searchPlaceholder": "Cerca un archivio per titolo…",
+        "remove": "Rimuovi il collegamento",
+        "noResults": "Nessun archivio trovato"
+      }
     },
     "home": {
       "title": "Home",

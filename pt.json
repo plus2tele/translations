@@ -177,6 +177,10 @@
       "message": "Este conteúdo pode conter efeitos estroboscópicos, flashes ou sequências rápidas que podem desencadear crises epilépticas em pessoas fotossensíveis.",
       "confirm": "Reconheço este aviso e desejo continuar",
       "cancel": "Voltar"
+    },
+    "betterQuality": {
+      "message": "Este arquivo foi republicado em melhor qualidade.",
+      "action": "Ver a versão em melhor qualidade"
     }
   },
   "ranking": {
@@ -596,7 +600,14 @@
       },
       "confirmReplaceMedia": "Tem a certeza de que pretende substituir o vídeo? Esta ação não pode ser desfeita.",
       "dragDropReplace": "Clique ou arraste um vídeo aqui para substituir",
-      "delete": "ELIMINAR"
+      "delete": "ELIMINAR",
+      "republish": {
+        "title": "Republicada em melhor qualidade",
+        "description": "Vincule este arquivo a uma nova versão de melhor qualidade. Um aviso convidará os visitantes a vê-la.",
+        "searchPlaceholder": "Pesquisar um arquivo por título…",
+        "remove": "Remover o link",
+        "noResults": "Nenhum arquivo encontrado"
+      }
     },
     "home": {
       "title": "Início",
