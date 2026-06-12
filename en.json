@@ -94,7 +94,21 @@
   "channels": {
     "title": "TV Channels",
     "seo_title": "All TV Channels - International Television Archives",
-    "description": "Browse archives from television channels worldwide: major national networks, regional channels and defunct or still-active thematic channels."
+    "description": "Browse archives from television channels worldwide: major national networks, regional channels and defunct or still-active thematic channels.",
+    "search_placeholder": "Search for a channel…",
+    "quick_nav": "Quick navigation",
+    "open_menu": "Search / Navigate",
+    "no_results": "No channel found",
+    "results_title": "{{count}} channel(s) found",
+    "disappeared": "Defunct",
+    "subtitle": "Discover all the television channels featured in our archives.",
+    "all": "All channels",
+    "stats": {
+      "total": "Total channels",
+      "active": "Active",
+      "disappeared": "Defunct",
+      "categories": "Categories"
+    }
   },
   "channel": {
     "back": "Back to channels",

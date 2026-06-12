@@ -89,6 +89,20 @@
     "title": "TV-Sender",
     "seo_title": "Alle Fernsehsender - Internationales TV-Archiv",
     "description": "Entdecke Archive von Fernsehsendern weltweit: große nationale Sender, Regionalsender und verschwundene oder noch aktive Themensender.",
+    "search_placeholder": "Einen Sender suchen…",
+    "quick_nav": "Schnellnavigation",
+    "open_menu": "Suchen / Navigieren",
+    "no_results": "Kein Sender gefunden",
+    "results_title": "{{count}} Sender gefunden",
+    "disappeared": "Verschwunden",
+    "subtitle": "Entdecke alle Fernsehsender in unseren Archiven.",
+    "all": "Alle Sender",
+    "stats": {
+      "total": "Sender insgesamt",
+      "active": "Aktiv",
+      "disappeared": "Verschwunden",
+      "categories": "Kategorien"
+    },
     "watchTitle": "Schaue {{title}} ({{year}}) auf {{channel}}. Entdecke dieses Archiv auf +2Télé.",
     "adultWarning": {
       "title": "Sensibler Inhalt",

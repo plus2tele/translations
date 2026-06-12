@@ -93,7 +93,21 @@
   "channels": {
     "title": "Chaînes TV",
     "seo_title": "Toutes les Chaînes de Télévision - Archives TV",
-    "description": "Retrouvez les archives de toutes les chaînes de télévision : grandes chaînes nationales, chaînes régionales et chaînes thématiques disparues ou encore actives."
+    "description": "Retrouvez les archives de toutes les chaînes de télévision : grandes chaînes nationales, chaînes régionales et chaînes thématiques disparues ou encore actives.",
+    "search_placeholder": "Rechercher une chaîne…",
+    "quick_nav": "Navigation rapide",
+    "open_menu": "Rechercher / Naviguer",
+    "no_results": "Aucune chaîne trouvée",
+    "results_title": "{{count}} chaîne(s) trouvée(s)",
+    "disappeared": "Disparue",
+    "subtitle": "Découvrez toutes les chaînes de télévision présentes dans nos archives.",
+    "all": "Toutes les chaînes",
+    "stats": {
+      "total": "Chaînes au total",
+      "active": "Actives",
+      "disappeared": "Disparues",
+      "categories": "Catégories"
+    }
   },
   "channel": {
     "back": "Retour aux chaînes",

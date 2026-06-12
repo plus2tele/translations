@@ -93,7 +93,21 @@
   "channels": {
     "title": "Canale TV",
     "seo_title": "Toate Canalele TV - Arhive Televiziune Internaționale",
-    "description": "Descoperă arhive de la canale de televiziune din întreaga lume: rețele naționale majore, canale regionale și canale tematice dispărute sau încă active."
+    "description": "Descoperă arhive de la canale de televiziune din întreaga lume: rețele naționale majore, canale regionale și canale tematice dispărute sau încă active.",
+    "search_placeholder": "Caută un canal…",
+    "quick_nav": "Navigare rapidă",
+    "open_menu": "Caută / Navighează",
+    "no_results": "Niciun canal găsit",
+    "results_title": "{{count}} canal(e) găsit(e)",
+    "disappeared": "Dispărut",
+    "subtitle": "Descoperă toate canalele de televiziune prezente în arhivele noastre.",
+    "all": "Toate canalele",
+    "stats": {
+      "total": "Canale în total",
+      "active": "Active",
+      "disappeared": "Dispărute",
+      "categories": "Categorii"
+    }
   },
   "channel": {
     "back": "Înapoi la canale",

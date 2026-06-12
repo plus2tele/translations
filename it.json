@@ -93,7 +93,21 @@
   "channels": {
     "title": "Canali TV",
     "seo_title": "Tutti i Canali Televisivi - Archivi TV Internazionali",
-    "description": "Esplora gli archivi di canali televisivi da tutto il mondo: grandi reti nazionali, canali regionali e canali tematici scomparsi o ancora attivi."
+    "description": "Esplora gli archivi di canali televisivi da tutto il mondo: grandi reti nazionali, canali regionali e canali tematici scomparsi o ancora attivi.",
+    "search_placeholder": "Cerca un canale…",
+    "quick_nav": "Navigazione rapida",
+    "open_menu": "Cerca / Naviga",
+    "no_results": "Nessun canale trovato",
+    "results_title": "{{count}} canale/i trovato/i",
+    "disappeared": "Scomparso",
+    "subtitle": "Scopri tutti i canali televisivi presenti nei nostri archivi.",
+    "all": "Tutti i canali",
+    "stats": {
+      "total": "Canali in totale",
+      "active": "Attivi",
+      "disappeared": "Scomparsi",
+      "categories": "Categorie"
+    }
   },
   "channel": {
     "back": "Back to channels",

@@ -80,7 +80,21 @@
   "channels": {
     "title": "Canales de TV",
     "seo_title": "Todos los Canales de Televisión - Archivos TV Internacionales",
-    "description": "Encuentra archivos de canales de televisión de todo el mundo: grandes cadenas nacionales, canales regionales y canales temáticos desaparecidos o aún activos."
+    "description": "Encuentra archivos de canales de televisión de todo el mundo: grandes cadenas nacionales, canales regionales y canales temáticos desaparecidos o aún activos.",
+    "search_placeholder": "Buscar un canal…",
+    "quick_nav": "Navegación rápida",
+    "open_menu": "Buscar / Navegar",
+    "no_results": "Ningún canal encontrado",
+    "results_title": "{{count}} canal(es) encontrado(s)",
+    "disappeared": "Desaparecido",
+    "subtitle": "Descubre todos los canales de televisión presentes en nuestros archivos.",
+    "all": "Todos los canales",
+    "stats": {
+      "total": "Canales en total",
+      "active": "Activos",
+      "disappeared": "Desaparecidos",
+      "categories": "Categorías"
+    }
   },
   "channel": {
     "back": "Back to channels",

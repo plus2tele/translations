@@ -93,7 +93,21 @@
   "channels": {
     "title": "Kanały TV",
     "seo_title": "Wszystkie Kanały Telewizyjne - Międzynarodowe Archiwum TV",
-    "description": "Przeglądaj archiwa kanałów telewizyjnych z całego świata: wielkie sieci ogólnokrajowe, kanały regionalne oraz nieistniejące lub nadal aktywne kanały tematyczne."
+    "description": "Przeglądaj archiwa kanałów telewizyjnych z całego świata: wielkie sieci ogólnokrajowe, kanały regionalne oraz nieistniejące lub nadal aktywne kanały tematyczne.",
+    "search_placeholder": "Szukaj kanału…",
+    "quick_nav": "Szybka nawigacja",
+    "open_menu": "Szukaj / Nawiguj",
+    "no_results": "Nie znaleziono kanału",
+    "results_title": "Znalezione kanały: {{count}}",
+    "disappeared": "Nieistniejący",
+    "subtitle": "Odkryj wszystkie kanały telewizyjne obecne w naszych archiwach.",
+    "all": "Wszystkie kanały",
+    "stats": {
+      "total": "Kanały łącznie",
+      "active": "Aktywne",
+      "disappeared": "Nieistniejące",
+      "categories": "Kategorie"
+    }
   },
   "channel": {
     "back": "Powrót do kanałów",
