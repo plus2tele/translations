@@ -299,7 +299,9 @@
       "staff": "Staff",
       "vip": "VIP",
       "archivist": "Arquivista",
-      "verified": "Verificado"
+      "verified": "Verificado",
+      "veteran": "Veterano",
+      "contributor": "Colaborador"
     },
     "memberSince": "Membro desde {{date}}",
     "logout": "Terminar sessão",
@@ -313,8 +315,8 @@
     "noArchives": "Nenhum arquivo publicado por enquanto",
     "publicDescription": "Perfil de {{username}} em +2Télé",
     "socialLinks": {
-      "title": "Links sociais",
-      "viewChannel": "Ver o canal"
+      "title": "Redes sociais",
+      "viewChannel": "Ver canal"
     },
     "form": {
       "avatar": "Avatar",
@@ -351,6 +353,45 @@
       "removeFile": "Remover o ficheiro selecionado",
       "profileFont": "Tipo de letra",
       "fontDefault": "Predefinição"
+    },
+    "notFound": "Perfil não encontrado",
+    "tabs": {
+      "archives": "Arquivos publicados",
+      "comments": "Comentários"
+    },
+    "stats": {
+      "archives": "Arquivos",
+      "comments": "Comentários",
+      "tenure": "Antiguidade",
+      "lastSeen": "Última atividade",
+      "year": "ano",
+      "years": "anos",
+      "month": "mês",
+      "months": "meses",
+      "newMember": "Novo",
+      "goToSection": "Ir para a seção"
+    },
+    "about": {
+      "title": "Sobre",
+      "pronouns": "Pronomes",
+      "registeredAt": "Inscrição",
+      "lastSeen": "Último acesso"
+    },
+    "recentActivity": {
+      "title": "Atividade recente",
+      "empty": "Sem atividade recente",
+      "publishedArchive": "Publicou um arquivo",
+      "untitled": "Sem título",
+      "commentedOn": "Comentou em «{{title}}»",
+      "commented": "Comentou em um arquivo"
+    },
+    "moderation": {
+      "banned": "Conta banida",
+      "bannedUntil": "Suspenso até {{date}}",
+      "commentRestricted": "Comentários restritos"
+    },
+    "featuredChannels": {
+      "title": "Veja os vídeos"
     }
   },
   "settings": {

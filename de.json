@@ -299,7 +299,9 @@
       "staff": "Team",
       "vip": "VIP",
       "archivist": "Archivar",
-      "verified": "Verifiziert"
+      "verified": "Verifiziert",
+      "veteran": "Veteran",
+      "contributor": "Mitwirkender"
     },
     "memberSince": "Mitglied seit {{date}}",
     "logout": "Abmelden",
@@ -314,7 +316,7 @@
     "publicDescription": "Profil von {{username}} auf +2Télé",
     "socialLinks": {
       "title": "Soziale Links",
-      "viewChannel": "Kanal anzeigen"
+      "viewChannel": "Kanal ansehen"
     },
     "form": {
       "avatar": "Avatar",
@@ -351,6 +353,45 @@
       "removeFile": "Ausgewählte Datei entfernen",
       "profileFont": "Schriftart",
       "fontDefault": "Standard"
+    },
+    "notFound": "Profil nicht gefunden",
+    "tabs": {
+      "archives": "Veröffentlichte Archive",
+      "comments": "Kommentare"
+    },
+    "stats": {
+      "archives": "Archive",
+      "comments": "Kommentare",
+      "tenure": "Mitglied seit",
+      "lastSeen": "Zuletzt aktiv",
+      "year": "Jahr",
+      "years": "Jahre",
+      "month": "Monat",
+      "months": "Monate",
+      "newMember": "Neu",
+      "goToSection": "Zum Abschnitt"
+    },
+    "about": {
+      "title": "Über",
+      "pronouns": "Pronomen",
+      "registeredAt": "Beigetreten",
+      "lastSeen": "Letzter Login"
+    },
+    "recentActivity": {
+      "title": "Letzte Aktivität",
+      "empty": "Keine aktuelle Aktivität",
+      "publishedArchive": "Hat ein Archiv veröffentlicht",
+      "untitled": "Ohne Titel",
+      "commentedOn": "Kommentierte „{{title}}“",
+      "commented": "Hat ein Archiv kommentiert"
+    },
+    "moderation": {
+      "banned": "Konto gesperrt",
+      "bannedUntil": "Gesperrt bis {{date}}",
+      "commentRestricted": "Kommentare eingeschränkt"
+    },
+    "featuredChannels": {
+      "title": "Videos ansehen"
     }
   },
   "settings": {

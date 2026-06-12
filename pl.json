@@ -308,7 +308,9 @@
       "staff": "Moderacja",
       "vip": "VIP",
       "archivist": "Archiwista",
-      "verified": "Certyfikowany"
+      "verified": "Zweryfikowany",
+      "veteran": "Weteran",
+      "contributor": "Współtwórca"
     },
     "memberSince": "Członek +2Télé od {{date}}",
     "logout": "Wyloguj się z profilu",
@@ -360,6 +362,45 @@
       "removeFile": "Usuń wybrany plik",
       "profileFont": "Czcionka",
       "fontDefault": "Domyślna"
+    },
+    "notFound": "Nie znaleziono profilu",
+    "tabs": {
+      "archives": "Opublikowane archiwa",
+      "comments": "Komentarze"
+    },
+    "stats": {
+      "archives": "Archiwa",
+      "comments": "Komentarze",
+      "tenure": "Staż",
+      "lastSeen": "Ostatnia aktywność",
+      "year": "rok",
+      "years": "lat",
+      "month": "mies.",
+      "months": "mies.",
+      "newMember": "Nowy",
+      "goToSection": "Przejdź do sekcji"
+    },
+    "about": {
+      "title": "O użytkowniku",
+      "pronouns": "Zaimki",
+      "registeredAt": "Dołączył",
+      "lastSeen": "Ostatnie logowanie"
+    },
+    "recentActivity": {
+      "title": "Ostatnia aktywność",
+      "empty": "Brak ostatniej aktywności",
+      "publishedArchive": "Opublikował archiwum",
+      "untitled": "Bez tytułu",
+      "commentedOn": "Skomentował „{{title}}”",
+      "commented": "Skomentował archiwum"
+    },
+    "moderation": {
+      "banned": "Konto zbanowane",
+      "bannedUntil": "Zawieszony do {{date}}",
+      "commentRestricted": "Komentarze ograniczone"
+    },
+    "featuredChannels": {
+      "title": "Zobacz filmy"
     }
   },
   "settings": {

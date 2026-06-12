@@ -313,7 +313,9 @@
       "staff": "Staff",
       "vip": "VIP",
       "archivist": "Archivist",
-      "verified": "Verified"
+      "verified": "Verified",
+      "veteran": "Veteran",
+      "contributor": "Contributor"
     },
     "memberSince": "Member since {{date}}",
     "logout": "Log out",
@@ -365,6 +367,45 @@
       "removeFile": "Remove selected file",
       "profileFont": "Font",
       "fontDefault": "Default"
+    },
+    "notFound": "Profile not found",
+    "tabs": {
+      "archives": "Published archives",
+      "comments": "Comments"
+    },
+    "stats": {
+      "archives": "Archives",
+      "comments": "Comments",
+      "tenure": "Membership",
+      "lastSeen": "Last seen",
+      "year": "year",
+      "years": "years",
+      "month": "month",
+      "months": "months",
+      "newMember": "New",
+      "goToSection": "Go to section"
+    },
+    "about": {
+      "title": "About",
+      "pronouns": "Pronouns",
+      "registeredAt": "Joined",
+      "lastSeen": "Last login"
+    },
+    "recentActivity": {
+      "title": "Recent activity",
+      "empty": "No recent activity",
+      "publishedArchive": "Published an archive",
+      "untitled": "Untitled",
+      "commentedOn": "Commented on “{{title}}”",
+      "commented": "Commented on an archive"
+    },
+    "moderation": {
+      "banned": "Account banned",
+      "bannedUntil": "Suspended until {{date}}",
+      "commentRestricted": "Comments restricted"
+    },
+    "featuredChannels": {
+      "title": "Watch their videos"
     }
   },
   "settings": {

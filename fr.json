@@ -308,7 +308,9 @@
       "staff": "Staff",
       "vip": "VIP",
       "archivist": "Archiviste",
-      "verified": "Certifié"
+      "verified": "Certifié",
+      "veteran": "Vétéran",
+      "contributor": "Contributeur"
     },
     "memberSince": "Membre depuis le {{date}}",
     "logout": "Se déconnecter",
@@ -360,6 +362,45 @@
       "removeFile": "Supprimer le fichier sélectionné",
       "profileFont": "Police d'écriture",
       "fontDefault": "Par défaut"
+    },
+    "notFound": "Profil introuvable",
+    "tabs": {
+      "archives": "Archives publiées",
+      "comments": "Commentaires"
+    },
+    "stats": {
+      "archives": "Archives",
+      "comments": "Commentaires",
+      "tenure": "Ancienneté",
+      "lastSeen": "Dernière activité",
+      "year": "an",
+      "years": "ans",
+      "month": "mois",
+      "months": "mois",
+      "newMember": "Nouveau",
+      "goToSection": "Voir la section"
+    },
+    "about": {
+      "title": "À propos",
+      "pronouns": "Pronoms",
+      "registeredAt": "Inscription",
+      "lastSeen": "Dernière connexion"
+    },
+    "recentActivity": {
+      "title": "Activité récente",
+      "empty": "Aucune activité récente",
+      "publishedArchive": "A publié une archive",
+      "untitled": "Sans titre",
+      "commentedOn": "A commenté « {{title}} »",
+      "commented": "A commenté une archive"
+    },
+    "moderation": {
+      "banned": "Compte banni",
+      "bannedUntil": "Suspendu jusqu'au {{date}}",
+      "commentRestricted": "Commentaires restreints"
+    },
+    "featuredChannels": {
+      "title": "Retrouvez ses vidéos"
     }
   },
   "settings": {

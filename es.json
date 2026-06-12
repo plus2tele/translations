@@ -268,7 +268,9 @@
       "staff": "Personal",
       "vip": "VIP",
       "archivist": "Archivista",
-      "verified": "Verificado"
+      "verified": "Verificado",
+      "veteran": "Veterano",
+      "contributor": "Colaborador"
     },
     "memberSince": "Miembro desde el {{date}}",
     "logout": "Cerrar sesión",
@@ -311,9 +313,49 @@
       "fontDefault": "Por defecto"
     },
     "socialLinks": {
-      "title": "Redes sociales",
-      "viewChannel": "Ver el canal"
-    }
+      "title": "Enlaces sociales",
+      "viewChannel": "Ver canal"
+    },
+    "notFound": "Perfil no encontrado",
+    "tabs": {
+      "archives": "Archivos publicados",
+      "comments": "Comentarios"
+    },
+    "stats": {
+      "archives": "Archivos",
+      "comments": "Comentarios",
+      "tenure": "Antigüedad",
+      "lastSeen": "Última actividad",
+      "year": "año",
+      "years": "años",
+      "month": "mes",
+      "months": "meses",
+      "newMember": "Nuevo",
+      "goToSection": "Ir a la sección"
+    },
+    "about": {
+      "title": "Acerca de",
+      "pronouns": "Pronombres",
+      "registeredAt": "Registro",
+      "lastSeen": "Última conexión"
+    },
+    "recentActivity": {
+      "title": "Actividad reciente",
+      "empty": "Sin actividad reciente",
+      "publishedArchive": "Publicó un archivo",
+      "untitled": "Sin título",
+      "commentedOn": "Comentó en «{{title}}»",
+      "commented": "Comentó en un archivo"
+    },
+    "moderation": {
+      "banned": "Cuenta baneada",
+      "bannedUntil": "Suspendido hasta el {{date}}",
+      "commentRestricted": "Comentarios restringidos"
+    },
+    "featuredChannels": {
+      "title": "Mira sus vídeos"
+    },
+    "publicDescription": "Perfil de {{username}} en +2Télé"
   },
   "settings": {
     "title": "Ajustes",

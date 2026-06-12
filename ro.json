@@ -308,7 +308,9 @@
       "staff": "Moderatori",
       "vip": "VIP",
       "archivist": "Arhivist",
-      "verified": "Verificat"
+      "verified": "Verificat",
+      "veteran": "Veteran",
+      "contributor": "Contribuitor"
     },
     "memberSince": "Membru din {{date}}",
     "logout": "Deconectează-te",
@@ -360,6 +362,45 @@
       "removeFile": "Șterge fișierul selectat",
       "profileFont": "Font",
       "fontDefault": "Implicit"
+    },
+    "notFound": "Profil negăsit",
+    "tabs": {
+      "archives": "Arhive publicate",
+      "comments": "Comentarii"
+    },
+    "stats": {
+      "archives": "Arhive",
+      "comments": "Comentarii",
+      "tenure": "Vechime",
+      "lastSeen": "Ultima activitate",
+      "year": "an",
+      "years": "ani",
+      "month": "lună",
+      "months": "luni",
+      "newMember": "Nou",
+      "goToSection": "Mergi la secțiune"
+    },
+    "about": {
+      "title": "Despre",
+      "pronouns": "Pronume",
+      "registeredAt": "Înscriere",
+      "lastSeen": "Ultima conectare"
+    },
+    "recentActivity": {
+      "title": "Activitate recentă",
+      "empty": "Nicio activitate recentă",
+      "publishedArchive": "A publicat o arhivă",
+      "untitled": "Fără titlu",
+      "commentedOn": "A comentat la „{{title}}”",
+      "commented": "A comentat o arhivă"
+    },
+    "moderation": {
+      "banned": "Cont interzis",
+      "bannedUntil": "Suspendat până la {{date}}",
+      "commentRestricted": "Comentarii restricționate"
+    },
+    "featuredChannels": {
+      "title": "Vezi videoclipurile"
     }
   },
   "settings": {
