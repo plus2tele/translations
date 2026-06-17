@@ -31,7 +31,8 @@
     "changelog": "Registro de cambios",
     "legal": "Información legal",
     "zapping": "Zapping TV",
-    "credits": "Créditos"
+    "credits": "Créditos",
+    "blog": "Blog"
   },
   "home": {
     "description": "Redescubre los tesoros de la televisión",
@@ -895,5 +896,18 @@
       "button": "Instalar aplicación",
       "dismiss": "Ahora no"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Noticias, entre bastidores y artículos de +2Télé",
+    "featured": "Destacado",
+    "readMore": "Leer artículo",
+    "allCategories": "Todas las categorías",
+    "related": "Artículos relacionados",
+    "empty": "Aún no hay artículos.",
+    "by": "Por {{name}}",
+    "backToBlog": "Volver al blog",
+    "previous": "Anterior",
+    "next": "Siguiente"
   }
 }

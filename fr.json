@@ -37,7 +37,8 @@
     "legal": "Mentions légales",
     "zapping": "Zapping TV",
     "community": "Communauté",
-    "credits": "Crédits"
+    "credits": "Crédits",
+    "blog": "Blog"
   },
   "home": {
     "description": "Redécouvrez les trésors de la télévision. Accédez à des milliers d'archives, habillages d'émissions cultes, génériques et moments inoubliables de l'histoire du petit écran.",
@@ -1000,5 +1001,18 @@
       "button": "Installer l'application",
       "dismiss": "Pas maintenant"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Actualités, coulisses et articles de +2Télé",
+    "featured": "À la une",
+    "readMore": "Lire l'article",
+    "allCategories": "Toutes les catégories",
+    "related": "Articles liés",
+    "empty": "Aucun article pour le moment.",
+    "by": "Par {{name}}",
+    "backToBlog": "Retour au blog",
+    "previous": "Précédent",
+    "next": "Suivant"
   }
 }

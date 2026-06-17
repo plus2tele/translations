@@ -37,7 +37,8 @@
     "legal": "Mențiuni legale",
     "zapping": "Zapping TV",
     "community": "Comunitate",
-    "credits": "Mulțumiri"
+    "credits": "Mulțumiri",
+    "blog": "Blog"
   },
   "home": {
     "description": "Redescoperă comorile televiziunii. Acesează mii de arhive TV, pachetele grafice ale posturilor de altădată, generice și momente importante din istoria micului ecran.",
@@ -995,5 +996,18 @@
       "button": "Instalează aplicația",
       "dismiss": "Nu acum"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Noutăți, culise și articole de la +2Télé",
+    "featured": "Recomandat",
+    "readMore": "Citește articolul",
+    "allCategories": "Toate categoriile",
+    "related": "Articole similare",
+    "empty": "Niciun articol deocamdată.",
+    "by": "De {{name}}",
+    "backToBlog": "Înapoi la blog",
+    "previous": "Anterior",
+    "next": "Următor"
   }
 }

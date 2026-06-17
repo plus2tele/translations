@@ -37,7 +37,8 @@
     "legal": "Legal",
     "zapping": "TV Zapping",
     "community": "Community",
-    "credits": "Credits"
+    "credits": "Credits",
+    "blog": "Blog"
   },
   "home": {
     "description": "Rediscover the treasures of television. Access thousands of archives, brandings of popular shows, intros and unforgettable moments of television history.",
@@ -1000,5 +1001,18 @@
       "button": "Install app",
       "dismiss": "Not now"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "News, behind the scenes and articles from +2Télé",
+    "featured": "Featured",
+    "readMore": "Read article",
+    "allCategories": "All categories",
+    "related": "Related articles",
+    "empty": "No articles yet.",
+    "by": "By {{name}}",
+    "backToBlog": "Back to blog",
+    "previous": "Previous",
+    "next": "Next"
   }
 }

@@ -37,7 +37,8 @@
     "legal": "Informacje prawne",
     "zapping": "Zapping",
     "community": "Społeczność",
-    "credits": "Autor"
+    "credits": "Autor",
+    "blog": "Blog"
   },
   "home": {
     "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, dżingli, czołówek i wielu innych ujęć z telewizora.",
@@ -995,5 +996,18 @@
       "button": "Zainstaluj aplikację",
       "dismiss": "Nie teraz"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Aktualności, kulisy i artykuły +2Télé",
+    "featured": "Wyróżnione",
+    "readMore": "Czytaj artykuł",
+    "allCategories": "Wszystkie kategorie",
+    "related": "Powiązane artykuły",
+    "empty": "Brak artykułów.",
+    "by": "Autor: {{name}}",
+    "backToBlog": "Powrót do bloga",
+    "previous": "Poprzednia",
+    "next": "Następna"
   }
 }

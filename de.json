@@ -37,7 +37,8 @@
     "legal": "Rechtliche Informationen",
     "zapping": "TV Zapping",
     "credits": "Credits",
-    "community": "Community"
+    "community": "Community",
+    "blog": "Blog"
   },
   "home": {
     "description": "Entdecke die Schätze des Fernsehens neu. Tausende Archive, Designs berühmter Serien, Intros und unvergessliche Momente der Fernsehgeschichte.",
@@ -966,5 +967,18 @@
       "button": "App installieren",
       "dismiss": "Nicht jetzt"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Neuigkeiten, Hintergründe und Artikel von +2Télé",
+    "featured": "Hervorgehoben",
+    "readMore": "Artikel lesen",
+    "allCategories": "Alle Kategorien",
+    "related": "Ähnliche Artikel",
+    "empty": "Noch keine Artikel.",
+    "by": "Von {{name}}",
+    "backToBlog": "Zurück zum Blog",
+    "previous": "Zurück",
+    "next": "Weiter"
   }
 }

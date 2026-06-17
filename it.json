@@ -37,7 +37,8 @@
     "legal": "Note legali",
     "zapping": "Zapping TV",
     "credits": "Crediti",
-    "community": "Community"
+    "community": "Community",
+    "blog": "Blog"
   },
   "home": {
     "description": "Riscopri i tesori della televisione. Accedi a migliaia di archivi, costumi di programmi cult, titoli e momenti indimenticabili della storia del piccolo schermo.",
@@ -995,5 +996,18 @@
       "button": "Installa l'app",
       "dismiss": "Non ora"
     }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Notizie, retroscena e articoli di +2Télé",
+    "featured": "In evidenza",
+    "readMore": "Leggi l'articolo",
+    "allCategories": "Tutte le categorie",
+    "related": "Articoli correlati",
+    "empty": "Ancora nessun articolo.",
+    "by": "Di {{name}}",
+    "backToBlog": "Torna al blog",
+    "previous": "Precedente",
+    "next": "Successivo"
   }
 }
