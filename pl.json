@@ -863,6 +863,20 @@
         "saving": "Zapisywanie...",
         "saved": "Zapisano!",
         "saveError": "Błąd w zapisywaniu"
+      },
+      "uploads": {
+        "title": "Przesyłanie archiwów",
+        "description": "Kontroluje przesyłanie archiwów na całej platformie.",
+        "disableLabel": "Wyłączyć przesyłanie",
+        "disableHelp": "Żadne nowe archiwum nie będzie mogło zostać przesłane.",
+        "reasonLabel": "Wyświetlany powód (opcjonalnie)",
+        "reasonPlaceholder": "Np.: Trwa konserwacja, wznowienie o 18:00",
+        "save": "Zapisz",
+        "saving": "Zapisywanie...",
+        "saved": "Zapisano!",
+        "saveError": "Błąd",
+        "disabledBanner": "Przesyłanie archiwów zostało tymczasowo wyłączone przez administrację.",
+        "disabledBannerReason": "Powód: {{reason}}"
       }
     },
     "encoding": {

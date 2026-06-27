@@ -823,6 +823,20 @@
         "saving": "A guardar...",
         "saved": "Guardado!",
         "saveError": "Erro"
+      },
+      "uploads": {
+        "title": "Envios de arquivos",
+        "description": "Controla o envio de arquivos em toda a plataforma.",
+        "disableLabel": "Desativar os envios",
+        "disableHelp": "Nenhum novo arquivo poderá ser enviado.",
+        "reasonLabel": "Motivo exibido (opcional)",
+        "reasonPlaceholder": "Ex.: Manutenção em curso, retomada prevista às 18h",
+        "save": "Guardar",
+        "saving": "A guardar...",
+        "saved": "Guardado!",
+        "saveError": "Erro",
+        "disabledBanner": "O envio de arquivos foi temporariamente desativado pelo staff.",
+        "disabledBannerReason": "Motivo: {{reason}}"
       }
     },
     "encoding": {

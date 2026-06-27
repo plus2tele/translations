@@ -868,6 +868,20 @@
         "saving": "Saving...",
         "saved": "Saved!",
         "saveError": "Error"
+      },
+      "uploads": {
+        "title": "Archive Uploads",
+        "description": "Control archive submissions across the entire platform.",
+        "disableLabel": "Disable uploads",
+        "disableHelp": "No new archive can be submitted.",
+        "reasonLabel": "Displayed reason (optional)",
+        "reasonPlaceholder": "E.g. Maintenance in progress, resuming at 6pm",
+        "save": "Save",
+        "saving": "Saving...",
+        "saved": "Saved!",
+        "saveError": "Error",
+        "disabledBanner": "Archive uploads are temporarily disabled by the staff.",
+        "disabledBannerReason": "Reason: {{reason}}"
       }
     },
     "encoding": {

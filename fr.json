@@ -868,6 +868,20 @@
         "saving": "Enregistrement...",
         "saved": "Enregistré !",
         "saveError": "Erreur"
+      },
+      "uploads": {
+        "title": "Uploads d'archives",
+        "description": "Contrôle les dépôts d'archives sur toute la plateforme.",
+        "disableLabel": "Désactiver les uploads",
+        "disableHelp": "Aucune nouvelle archive ne pourra être déposée.",
+        "reasonLabel": "Raison affichée (optionnelle)",
+        "reasonPlaceholder": "Ex : Maintenance en cours, reprise prévue à 18h",
+        "save": "Enregistrer",
+        "saving": "Enregistrement...",
+        "saved": "Enregistré !",
+        "saveError": "Erreur",
+        "disabledBanner": "Les dépôts d'archives sont temporairement désactivés par le staff.",
+        "disabledBannerReason": "Raison : {{reason}}"
       }
     },
     "encoding": {

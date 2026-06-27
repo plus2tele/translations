@@ -763,6 +763,20 @@
         "saving": "Guardando...",
         "saved": "¡Guardado!",
         "saveError": "Error"
+      },
+      "uploads": {
+        "title": "Subidas de archivos",
+        "description": "Controla las subidas de archivos en toda la plataforma.",
+        "disableLabel": "Desactivar las subidas",
+        "disableHelp": "No se podrá subir ningún archivo nuevo.",
+        "reasonLabel": "Razón mostrada (opcional)",
+        "reasonPlaceholder": "Ej.: Mantenimiento en curso, reanudación prevista a las 18h",
+        "save": "Guardar",
+        "saving": "Guardando...",
+        "saved": "¡Guardado!",
+        "saveError": "Error",
+        "disabledBanner": "Las subidas de archivos han sido desactivadas temporalmente por el staff.",
+        "disabledBannerReason": "Motivo: {{reason}}"
       }
     },
     "encoding": {

@@ -863,6 +863,20 @@
         "saving": "Se salvează...",
         "saved": "Salvat!",
         "saveError": "Eroare"
+      },
+      "uploads": {
+        "title": "Încărcări de arhive",
+        "description": "Controlează încărcările de arhive pe întreaga platformă.",
+        "disableLabel": "Dezactivați încărcările",
+        "disableHelp": "Nicio nouă arhivă nu va putea fi încărcată.",
+        "reasonLabel": "Motiv afișat (opțional)",
+        "reasonPlaceholder": "Ex.: Întreținere în curs, reluare prevăzută la 18:00",
+        "save": "Salvează",
+        "saving": "Se salvează...",
+        "saved": "Salvat!",
+        "saveError": "Eroare",
+        "disabledBanner": "Încărcarea arhivelor a fost temporar dezactivată de către staff.",
+        "disabledBannerReason": "Motiv: {{reason}}"
       }
     },
     "encoding": {

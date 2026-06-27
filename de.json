@@ -804,6 +804,20 @@
         "saving": "Speichern...",
         "saved": "Gespeichert!",
         "saveError": "Fehler"
+      },
+      "uploads": {
+        "title": "Archiv-Uploads",
+        "description": "Steuert das Einreichen von Archiven auf der gesamten Plattform.",
+        "disableLabel": "Uploads deaktivieren",
+        "disableHelp": "Es können keine neuen Archive eingereicht werden.",
+        "reasonLabel": "Angezeigter Grund (optional)",
+        "reasonPlaceholder": "z.B. Wartung läuft, Wiederaufnahme um 18 Uhr",
+        "save": "Speichern",
+        "saving": "Speichern...",
+        "saved": "Gespeichert!",
+        "saveError": "Fehler",
+        "disabledBanner": "Das Hochladen von Archiven wurde vorübergehend vom Staff deaktiviert.",
+        "disabledBannerReason": "Grund: {{reason}}"
       }
     },
     "encoding": {

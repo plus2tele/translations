@@ -836,6 +836,20 @@
         "saving": "Salvataggio...",
         "saved": "Salvato!",
         "saveError": "Errore"
+      },
+      "uploads": {
+        "title": "Upload di archivi",
+        "description": "Controlla il caricamento di archivi su tutta la piattaforma.",
+        "disableLabel": "Disabilitare gli upload",
+        "disableHelp": "Nessun nuovo archivio potrà essere caricato.",
+        "reasonLabel": "Motivo visualizzato (opzionale)",
+        "reasonPlaceholder": "Es.: Manutenzione in corso, ripresa prevista alle 18",
+        "save": "Salva",
+        "saving": "Salvataggio...",
+        "saved": "Salvato!",
+        "saveError": "Errore",
+        "disabledBanner": "Il caricamento di archivi è temporaneamente disabilitato dallo staff.",
+        "disabledBannerReason": "Motivo: {{reason}}"
       }
     },
     "encoding": {
