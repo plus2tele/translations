@@ -311,7 +311,8 @@
       "archivist": "Arhivist",
       "verified": "Verificat",
       "veteran": "Veteran",
-      "contributor": "Contribuitor"
+      "contributor": "Contribuitor",
+      "curateur": "Curateur"
     },
     "memberSince": "Membru din {{date}}",
     "logout": "Deconectează-te",
@@ -823,7 +824,8 @@
     "team": {
       "title": "Echipa",
       "staff": "Personalul",
-      "archivists": "Arhiviștii"
+      "archivists": "Arhiviștii",
+      "curators": "Curatori"
     }
   },
   "staff": {

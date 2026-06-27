@@ -302,7 +302,8 @@
       "archivist": "Archivar",
       "verified": "Verifiziert",
       "veteran": "Veteran",
-      "contributor": "Mitwirkender"
+      "contributor": "Mitwirkender",
+      "curateur": "Curateur"
     },
     "memberSince": "Mitglied seit {{date}}",
     "logout": "Abmelden",
@@ -947,6 +948,12 @@
     "title": "Die Community",
     "subtitle": "Entdecke die Leute, die +2Télé und zugehörige Projekte zum Leben erwecken.",
     "description": "Seite gewidmet für die +2Télé-Community und Team.",
+    "team": {
+      "title": "Das Team",
+      "staff": "Staff",
+      "archivists": "Archivisten",
+      "curators": "Kuratoren"
+    },
     "creations": {
       "title": "Community-Kreationen",
       "p2retro": {

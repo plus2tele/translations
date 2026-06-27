@@ -271,7 +271,8 @@
       "archivist": "Archivista",
       "verified": "Verificado",
       "veteran": "Veterano",
-      "contributor": "Colaborador"
+      "contributor": "Colaborador",
+      "curateur": "Curateur"
     },
     "memberSince": "Miembro desde el {{date}}",
     "logout": "Cerrar sesión",

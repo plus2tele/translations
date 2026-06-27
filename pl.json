@@ -311,7 +311,8 @@
       "archivist": "Archiwista",
       "verified": "Zweryfikowany",
       "veteran": "Weteran",
-      "contributor": "Współtwórca"
+      "contributor": "Współtwórca",
+      "curateur": "Curateur"
     },
     "memberSince": "Członek +2Télé od {{date}}",
     "logout": "Wyloguj się z profilu",
@@ -823,7 +824,8 @@
     "team": {
       "title": "Zespół",
       "staff": "Personel",
-      "archivists": "Archiwiści"
+      "archivists": "Archiwiści",
+      "curators": "Kuratorzy"
     }
   },
   "staff": {

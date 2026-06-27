@@ -302,7 +302,8 @@
       "archivist": "Arquivista",
       "verified": "Verificado",
       "veteran": "Veterano",
-      "contributor": "Colaborador"
+      "contributor": "Colaborador",
+      "curateur": "Curateur"
     },
     "memberSince": "Membro desde {{date}}",
     "logout": "Terminar sessão",

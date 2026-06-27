@@ -316,7 +316,8 @@
       "archivist": "Archivist",
       "verified": "Verified",
       "veteran": "Veteran",
-      "contributor": "Contributor"
+      "contributor": "Contributor",
+      "curateur": "Curateur"
     },
     "memberSince": "Member since {{date}}",
     "logout": "Log out",
@@ -828,7 +829,8 @@
     "team": {
       "title": "The Team",
       "staff": "Staff",
-      "archivists": "Archivists"
+      "archivists": "Archivists",
+      "curators": "Curators"
     }
   },
   "staff": {

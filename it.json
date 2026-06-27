@@ -311,7 +311,8 @@
       "archivist": "Archivista",
       "verified": "Verificato",
       "veteran": "Veterano",
-      "contributor": "Contributore"
+      "contributor": "Contributore",
+      "curateur": "Curateur"
     },
     "memberSince": "Membro dal {{date}}",
     "logout": "Disconnetti",
@@ -984,7 +985,8 @@
     "team": {
       "title": "Il team",
       "staff": "Il Staff",
-      "archivists": "Archivisti"
+      "archivists": "Archivisti",
+      "curators": "Curatori"
     }
   },
   "agences_page": {
