@@ -60,6 +60,8 @@
     "discordText": "Partagez vos souvenirs, discutez avec d'autres passionnés de télévision et restez informé des dernières archives ajoutées !",
     "discordJoin": "Rejoindre le serveur",
     "popularTitle": "Archives populaires",
+    "oldTitle": "Anciennes archives",
+    "localTitle": "Dans votre langue",
     "popularCategories": "Catégories populaires",
     "seeall": "Voir tout",
     "seeall2": "Voir toutes",
@@ -79,7 +81,9 @@
       "latest": "Impossible de charger les derniers ajouts",
       "popular": "Impossible de charger les archives populaires",
       "categories": "Impossible de charger les catégories",
-      "collections": "Impossible de charger les collections"
+      "collections": "Impossible de charger les collections",
+      "old": "Impossible de charger les archives anciennes",
+      "local": "Impossible de charger ces archives"
     }
   },
   "archives": {

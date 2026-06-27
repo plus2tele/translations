@@ -61,6 +61,8 @@
     "discordText": "Share your memories, chat with other TV enthusiasts, and stay updated on the latest archives added!",
     "discordJoin": "Join the server",
     "popularTitle": "Popular archives",
+    "oldTitle": "Old archives",
+    "localTitle": "In your language",
     "popularCategories": "Popular categories",
     "seeall": "See all",
     "seeall2": "See all",
@@ -80,7 +82,9 @@
       "latest": "Unable to load latest additions",
       "popular": "Unable to load popular archives",
       "categories": "Unable to load categories",
-      "collections": "Unable to load collections"
+      "collections": "Unable to load collections",
+      "old": "Unable to load old archives",
+      "local": "Unable to load these archives"
     }
   },
   "archives": {

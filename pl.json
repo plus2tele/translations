@@ -60,6 +60,8 @@
     "discordText": "Podziel się swoimi doświadczeniami, porozmawiaj z innymi fanami telewizji i bądź na bieżąco z naszymi nowościami w archiwum!",
     "discordJoin": "Dołącz do serwera",
     "popularTitle": "Popularne archiwa",
+    "oldTitle": "Stare archiwa",
+    "localTitle": "W twoim języku",
     "popularCategories": "Popularne kategorie",
     "seeall": "Zobacz wszystko",
     "seeall2": "Zobacz wszystkie",
@@ -79,7 +81,9 @@
       "latest": "Nie można załadować najnowszych archiwów",
       "popular": "Nie można załadować popularnych archiwów",
       "categories": "Nie można wczytać kategorii",
-      "collections": "Nie można załadować kolekcji"
+      "collections": "Nie można załadować kolekcji",
+      "old": "Nie można załadować starych archiwów",
+      "local": "Nie można załadować tych archiwów"
     }
   },
   "archives": {

@@ -59,6 +59,8 @@
     "discordText": "Partilhe as suas memórias, converse com outros entusiastas da televisão e mantenha-se informado sobre os últimos arquivos adicionados!",
     "discordJoin": "Juntar-se ao servidor",
     "popularTitle": "Arquivos populares",
+    "oldTitle": "Arquivos antigos",
+    "localTitle": "No seu idioma",
     "popularCategories": "Categorias populares",
     "seeall": "Ver tudo",
     "seeall2": "Ver todas",
@@ -78,7 +80,9 @@
       "latest": "Impossível carregar as últimas adições",
       "popular": "Impossível carregar os arquivos populares",
       "categories": "Impossível carregar as categorias",
-      "collections": "Impossível carregar as coleções"
+      "collections": "Impossível carregar as coleções",
+      "old": "Impossível carregar os arquivos antigos",
+      "local": "Impossível carregar estes arquivos"
     }
   },
   "archives": {

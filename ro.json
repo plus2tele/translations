@@ -60,6 +60,8 @@
     "discordText": "Povestește-ți amintirile, discută cu alți fani ai televiziunii și fii la curent cu cele mai noi arhive de pe site!",
     "discordJoin": "Intră pe server",
     "popularTitle": "Arhive populare",
+    "oldTitle": "Arhive vechi",
+    "localTitle": "În limba ta",
     "popularCategories": "Categorii populare",
     "seeall": "Vezi tot",
     "seeall2": "Vezi tot",
@@ -79,7 +81,9 @@
       "latest": "Nu s-au putut încărca cele mai recente adăugări",
       "popular": "Nu s-au putut încărca cele mai populare adăugări",
       "categories": "Nu s-au putut încărca categoriile",
-      "collections": "Nu s-au putut încărca colecțiile"
+      "collections": "Nu s-au putut încărca colecțiile",
+      "old": "Nu s-au putut încărca arhivele vechi",
+      "local": "Nu s-au putut încărca aceste arhive"
     }
   },
   "archives": {
