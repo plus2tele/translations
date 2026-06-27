@@ -993,6 +993,8 @@
     "by": "Von {{name}}",
     "backToBlog": "Zurück zum Blog",
     "previous": "Zurück",
-    "next": "Weiter"
+    "next": "Weiter",
+    "availableIn": "Verfügbar in",
+    "readingTime": "{{count}} Min. Lesezeit"
   }
 }

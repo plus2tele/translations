@@ -1027,6 +1027,8 @@
     "by": "By {{name}}",
     "backToBlog": "Back to blog",
     "previous": "Previous",
-    "next": "Next"
+    "next": "Next",
+    "availableIn": "Available in",
+    "readingTime": "{{count}} min read"
   }
 }

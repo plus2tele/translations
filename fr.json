@@ -1027,6 +1027,8 @@
     "by": "Par {{name}}",
     "backToBlog": "Retour au blog",
     "previous": "Précédent",
-    "next": "Suivant"
+    "next": "Suivant",
+    "availableIn": "Disponible en",
+    "readingTime": "{{count}} min de lecture"
   }
 }

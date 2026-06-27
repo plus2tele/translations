@@ -1022,6 +1022,8 @@
     "by": "De {{name}}",
     "backToBlog": "Înapoi la blog",
     "previous": "Anterior",
-    "next": "Următor"
+    "next": "Următor",
+    "availableIn": "Disponibil în",
+    "readingTime": "{{count}} min citire"
   }
 }
