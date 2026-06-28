@@ -13,6 +13,9 @@
     "save": "Save",
     "saving": "Saving…",
     "chooseFile": "Choose file",
+    "thisWeek": "This week",
+    "thisMonth": "This month",
+    "allTime": "All time",
     "explore": "Explore",
     "view": {
       "grid": "Grid view",
