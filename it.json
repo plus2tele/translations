@@ -189,6 +189,9 @@
       "linkCopied": "Link copiato negli appunti!"
     },
     "watchTitle": "Guarda {{title}} ({{year}}) su {{channel}}. Scopri questo archivio su +2Télé.",
+    "seoTitle": "Guarda {{title}} ({{year}}) — {{channel}}",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Video",
     "adultWarning": {
       "title": "Contenuto sensibile",
       "message": "Questo contenuto potrebbe urtare la sensibilità, poiché potrebbe contenere immagini violente o nudità.",

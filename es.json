@@ -159,6 +159,9 @@
       }
     },
     "watchTitle": "Ver {{title}} ({{year}}) en {{channel}}. Descubre este archivo en +2Télé.",
+    "seoTitle": "Ver {{title}} ({{year}}) — {{channel}}",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Vídeo",
     "edit": "Editar",
     "adultWarning": {
       "title": "Contenido sensible",

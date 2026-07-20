@@ -189,6 +189,9 @@
       "linkCopied": "Link copiat în clipboard!"
     },
     "watchTitle": "Urmărește {{title}} {{year}} pe {{channel}}. Vezi această arhivă pe +2Télé.",
+    "seoTitle": "Urmărește {{title}} ({{year}}) — {{channel}}",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Videoclip",
     "adultWarning": {
       "title": "Conținut sensibil",
       "message": "Acest conținut poate conține violență sau nuditate și vă poate afecta emoțional.",

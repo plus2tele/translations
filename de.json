@@ -195,6 +195,9 @@
       "linkCopied": "Link in die Zwischenablage kopiert!"
     },
     "watchTitle": "Schau {{title}} ({{year}}) auf {{channel}}. Entdecke das Archiv bei +2Télé.",
+    "seoTitle": "{{title}} ({{year}}) auf {{channel}} ansehen",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Video",
     "adultWarning": {
       "title": "Sensible Inhalte",
       "message": "Dieser Inhalt kann unangemessen sein, da er gewalttätige Bilder oder Nacktheit beinhalten kann.",

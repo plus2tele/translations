@@ -189,6 +189,9 @@
       "linkCopied": "Link skopiowany do schowka!"
     },
     "watchTitle": "Obejrzyj {{title}} ({{year}}) z {{channel}}. Odkryj to archiwum w +2Télé.",
+    "seoTitle": "Obejrzyj {{title}} ({{year}}) — {{channel}}",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Wideo",
     "adultWarning": {
       "title": "Treści wrażliwe",
       "message": "Treść ta może być nie odpowiednia dla młodszej widowni, gdyż może zawierać sceny przemocy lub nagości.",

@@ -189,6 +189,9 @@
       "linkCopied": "Lien copié dans le presse-papiers !"
     },
     "watchTitle": "Regarder {{title}} ({{year}}) sur {{channel}}. Découvrez cette archive sur +2Télé.",
+    "seoTitle": "Regarder {{title}} ({{year}}) — {{channel}}",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Vidéo",
     "adultWarning": {
       "title": "Contenu sensible",
       "message": "Ce contenu peut heurter la sensibilité, car il peut comporter des images à caractère violent ou comporter de la nudité.",

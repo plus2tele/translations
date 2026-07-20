@@ -188,6 +188,9 @@
       "linkCopied": "Ligação copiada para a área de transferência!"
     },
     "watchTitle": "Ver {{title}} ({{year}}) no {{channel}}. Descubra este arquivo em +2Télé.",
+    "seoTitle": "Ver {{title}} ({{year}}) — {{channel}}",
+    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "loadingTitle": "Vídeo",
     "adultWarning": {
       "title": "Conteúdo sensível",
       "message": "Este conteúdo pode ferir a sensibilidade, pois pode conter imagens violentas ou nudez.",
