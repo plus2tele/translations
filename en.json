@@ -1,4 +1,12 @@
 {
+    "facets": {
+        "channelType": { "title": "{{channel}} {{type}}", "description": "All {{type}} from {{channel}} — {{count}} archive videos to rewatch on +2Télé." },
+        "channelYear": { "title": "{{channel}} in {{year}}", "description": "{{channel}} archives broadcast in {{year}}: idents, station branding, adverts. {{count}} videos." },
+        "typeHub": { "title": "{{type}}", "description": "All {{type}} from French, European and international television. {{count}} archive videos." },
+        "yearHub": { "title": "Television in {{year}}", "description": "Relive {{year}} television: idents, station branding, adverts and shows. {{count}} archive videos." },
+        "habillage": { "title": "{{name}} branding — {{channel}}", "description": "The “{{name}}” on-air branding of {{channel}} ({{years}}): idents, jingles and archives. {{count}} videos." },
+        "browse": { "byChannel": "By channel", "byType": "By type", "byYear": "By year", "byHabillage": "Branding", "viewHabillage": "Explore by branding" }
+    },
     "common": {
         "loading": "Loading...",
         "error": "An error occurred",
@@ -190,7 +198,7 @@
             "linkCopied": "Link copied to clipboard!"
         },
         "watchTitle": "Watch {{title}} ({{year}}) on {{channel}}. Discover this archive on +2Télé.",
-        "seoTitle": "Watch {{title}} ({{year}}) — {{channel}}",
+        "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
         "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
         "loadingTitle": "Video",
         "adultWarning": {

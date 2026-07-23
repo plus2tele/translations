@@ -1,4 +1,12 @@
 {
+  "facets": {
+    "channelType": { "title": "{{type}} de la {{channel}}", "description": "Toate {{type}} de la {{channel}} — {{count}} videoclipuri de arhivă de revăzut pe +2Télé." },
+    "channelYear": { "title": "{{channel}} în {{year}}", "description": "Arhivele {{channel}} difuzate în {{year}}: generice, identitate vizuală, reclame. {{count}} videoclipuri." },
+    "typeHub": { "title": "{{type}}", "description": "Toate {{type}} din televiziunea franceză, europeană și internațională. {{count}} videoclipuri de arhivă." },
+    "yearHub": { "title": "Televiziunea în {{year}}", "description": "Retrăiește televiziunea din {{year}}: generice, identitate vizuală, reclame și emisiuni. {{count}} videoclipuri de arhivă." },
+    "habillage": { "title": "Identitate {{name}} — {{channel}}", "description": "Identitatea vizuală „{{name}}” a {{channel}} ({{years}}): generice, jingle-uri și arhive. {{count}} videoclipuri." },
+    "browse": { "byChannel": "După canal", "byType": "După tip", "byYear": "După an", "byHabillage": "Identități", "viewHabillage": "Explorează după identitate" }
+  },
   "common": {
     "loading": "Se încarcă...",
     "error": "A intervenit o eroare",
@@ -189,7 +197,7 @@
       "linkCopied": "Link copiat în clipboard!"
     },
     "watchTitle": "Urmărește {{title}} {{year}} pe {{channel}}. Vezi această arhivă pe +2Télé.",
-    "seoTitle": "Urmărește {{title}} ({{year}}) — {{channel}}",
+    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
     "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
     "loadingTitle": "Videoclip",
     "adultWarning": {

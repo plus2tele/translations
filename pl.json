@@ -1,4 +1,12 @@
 {
+  "facets": {
+    "channelType": { "title": "{{type}} — {{channel}}", "description": "Wszystkie {{type}} z {{channel}} — {{count}} archiwalnych nagrań do obejrzenia na +2Télé." },
+    "channelYear": { "title": "{{channel}} w {{year}}", "description": "Archiwa {{channel}} wyemitowane w {{year}}: czołówki, oprawa antenowa, reklamy. {{count}} nagrań." },
+    "typeHub": { "title": "{{type}}", "description": "Wszystkie {{type}} z telewizji francuskiej, europejskiej i międzynarodowej. {{count}} archiwalnych nagrań." },
+    "yearHub": { "title": "Telewizja w {{year}}", "description": "Przypomnij sobie telewizję z {{year}}: czołówki, oprawę antenową, reklamy i programy. {{count}} archiwalnych nagrań." },
+    "habillage": { "title": "Oprawa {{name}} — {{channel}}", "description": "Oprawa antenowa „{{name}}” {{channel}} ({{years}}): czołówki, dżingle i archiwa. {{count}} nagrań." },
+    "browse": { "byChannel": "Wg kanału", "byType": "Wg typu", "byYear": "Wg roku", "byHabillage": "Oprawa", "viewHabillage": "Przeglądaj wg oprawy" }
+  },
   "common": {
     "notFound": "Nie znaleziono strony",
     "back": "Powrót",
@@ -189,7 +197,7 @@
       "linkCopied": "Link skopiowany do schowka!"
     },
     "watchTitle": "Obejrzyj {{title}} ({{year}}) z {{channel}}. Odkryj to archiwum w +2Télé.",
-    "seoTitle": "Obejrzyj {{title}} ({{year}}) — {{channel}}",
+    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
     "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
     "loadingTitle": "Wideo",
     "adultWarning": {

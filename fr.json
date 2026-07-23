@@ -1,4 +1,12 @@
 {
+  "facets": {
+    "channelType": { "title": "{{type}} de {{channel}}", "description": "Tous les {{type}} de {{channel}} — {{count}} vidéos d’archives à revoir sur +2Télé." },
+    "channelYear": { "title": "{{channel}} en {{year}}", "description": "Les archives de {{channel}} diffusées en {{year}} : génériques, habillages, publicités. {{count}} vidéos." },
+    "typeHub": { "title": "{{type}}", "description": "Tous les {{type}} de la télévision française, européenne et internationale. {{count}} vidéos d’archives." },
+    "yearHub": { "title": "La télévision en {{year}}", "description": "Revivez la télévision de {{year}} : génériques, habillages, publicités et émissions. {{count}} archives vidéo." },
+    "habillage": { "title": "Habillage {{name}} — {{channel}}", "description": "L’habillage d’antenne « {{name}} » de {{channel}} ({{years}}) : génériques, jingles et archives. {{count}} vidéos." },
+    "browse": { "byChannel": "Par chaîne", "byType": "Par type", "byYear": "Par année", "byHabillage": "Habillages", "viewHabillage": "Explorer par habillage" }
+  },
   "common": {
     "loading": "Chargement...",
     "error": "Une erreur est survenue",
@@ -189,7 +197,7 @@
       "linkCopied": "Lien copié dans le presse-papiers !"
     },
     "watchTitle": "Regarder {{title}} ({{year}}) sur {{channel}}. Découvrez cette archive sur +2Télé.",
-    "seoTitle": "Regarder {{title}} ({{year}}) — {{channel}}",
+    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
     "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
     "loadingTitle": "Vidéo",
     "adultWarning": {

@@ -1,4 +1,12 @@
 {
+  "facets": {
+    "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos os {{type}} de {{channel}} — {{count}} vídeos de arquivo para rever no +2Télé." },
+    "channelYear": { "title": "{{channel}} em {{year}}", "description": "Arquivos de {{channel}} exibidos em {{year}}: genéricos, identidade visual, publicidade. {{count}} vídeos." },
+    "typeHub": { "title": "{{type}}", "description": "Todos os {{type}} da televisão francesa, europeia e internacional. {{count}} vídeos de arquivo." },
+    "yearHub": { "title": "A televisão em {{year}}", "description": "Reviva a televisão de {{year}}: genéricos, identidade visual, publicidade e programas. {{count}} vídeos de arquivo." },
+    "habillage": { "title": "Identidade {{name}} — {{channel}}", "description": "A identidade visual «{{name}}» de {{channel}} ({{years}}): genéricos, vinhetas e arquivos. {{count}} vídeos." },
+    "browse": { "byChannel": "Por canal", "byType": "Por tipo", "byYear": "Por ano", "byHabillage": "Identidades", "viewHabillage": "Explorar por identidade" }
+  },
   "common": {
     "loading": "A carregar...",
     "error": "Ocorreu um erro",
@@ -188,7 +196,7 @@
       "linkCopied": "Ligação copiada para a área de transferência!"
     },
     "watchTitle": "Ver {{title}} ({{year}}) no {{channel}}. Descubra este arquivo em +2Télé.",
-    "seoTitle": "Ver {{title}} ({{year}}) — {{channel}}",
+    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
     "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
     "loadingTitle": "Vídeo",
     "adultWarning": {
