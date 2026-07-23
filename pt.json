@@ -291,7 +291,7 @@
   "filters": {
     "advanced": "Filtros avançados",
     "applied": "Filtros aplicados:",
-    "clear": "Limpar filtros",
+    "clear": "Limpar filtros", "reset": "Repor",
     "results": "Resultados da pesquisa",
     "allArchives": "Todos os arquivos"
   },

@@ -292,7 +292,7 @@
   "filters": {
     "advanced": "Filtri avanzati",
     "applied": "Filtri applicati:",
-    "clear": "Cancella filtri",
+    "clear": "Cancella filtri", "reset": "Reimposta",
     "results": "Risultati della ricerca",
     "allArchives": "Tutti gli archivi",
     "sort": {

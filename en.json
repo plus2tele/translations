@@ -297,7 +297,7 @@
     "filters": {
         "advanced": "Advanced filters",
         "applied": "Applied filters :",
-        "clear": "Clear filters",
+        "clear": "Clear filters", "reset": "Reset",
         "results": "Search results",
         "allArchives": "All archives",
         "sort": {

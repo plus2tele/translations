@@ -948,7 +948,7 @@
   "filters": {
     "advanced": "Erweiterte Filter",
     "applied": "Angewandte Filter:",
-    "clear": "Filter zurücksetzen",
+    "clear": "Filter zurücksetzen", "reset": "Zurücksetzen",
     "results": "Suchergebnisse",
     "allArchives": "Alle Archivierungen",
     "sort": {

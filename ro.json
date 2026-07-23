@@ -292,7 +292,7 @@
   "filters": {
     "advanced": "Filtre avansate",
     "applied": "Filtre aplicate:",
-    "clear": "Șterge filtrele",
+    "clear": "Șterge filtrele", "reset": "Resetează",
     "results": "Rezultatele căutării",
     "allArchives": "Toate arhivele",
     "sort": {

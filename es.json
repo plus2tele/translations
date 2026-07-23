@@ -121,6 +121,7 @@
     "resultsCount_one": "{{count}} archive",
     "resultsCount_other": "{{count}} archives",
     "filters": {
+      "reset": "Restablecer",
       "sortBy": "Sort by",
       "year": "Year",
       "type": "Type"
