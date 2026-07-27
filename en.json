@@ -300,6 +300,13 @@
         "clear": "Clear filters", "reset": "Reset",
         "results": "Search results",
         "allArchives": "All archives",
+        "country": {
+            "placeholder": "No country selected",
+            "search": "Search for a country...",
+            "none": "None (empty)",
+            "notFound": "No country found",
+            "unknown": "Unknown ({{code}})"
+        },
         "sort": {
             "recent": "Recently added",
             "date": "Newest",

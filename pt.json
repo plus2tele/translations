@@ -293,7 +293,14 @@
     "applied": "Filtros aplicados:",
     "clear": "Limpar filtros", "reset": "Repor",
     "results": "Resultados da pesquisa",
-    "allArchives": "Todos os arquivos"
+    "allArchives": "Todos os arquivos",
+    "country": {
+      "placeholder": "Nenhum país selecionado",
+      "search": "Pesquisar um país...",
+      "none": "Nenhum (vazio)",
+      "notFound": "Nenhum país encontrado",
+      "unknown": "Desconhecido ({{code}})"
+    }
   },
   "auth": {
     "login": "Entrar",

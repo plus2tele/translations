@@ -295,6 +295,13 @@
     "clear": "Wyczyść filtry", "reset": "Zresetuj",
     "results": "Wyniki wyszukiwania",
     "allArchives": "Wszystkie archiwa",
+    "country": {
+      "placeholder": "Nie wybrano kraju",
+      "search": "Szukaj kraju...",
+      "none": "Brak (puste)",
+      "notFound": "Nie znaleziono kraju",
+      "unknown": "Nieznany ({{code}})"
+    },
     "sort": {
       "recent": "Ostatnio dodane",
       "date": "Najnowsze",

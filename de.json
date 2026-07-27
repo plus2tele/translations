@@ -951,6 +951,13 @@
     "clear": "Filter zurücksetzen", "reset": "Zurücksetzen",
     "results": "Suchergebnisse",
     "allArchives": "Alle Archivierungen",
+    "country": {
+      "placeholder": "Kein Land ausgewählt",
+      "search": "Land suchen...",
+      "none": "Keins (leer)",
+      "notFound": "Kein Land gefunden",
+      "unknown": "Unbekannt ({{code}})"
+    },
     "sort": {
       "recent": "Zuletzt hinzugefügt",
       "date": "Neuste",

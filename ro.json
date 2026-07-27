@@ -295,6 +295,13 @@
     "clear": "Șterge filtrele", "reset": "Resetează",
     "results": "Rezultatele căutării",
     "allArchives": "Toate arhivele",
+    "country": {
+      "placeholder": "Nicio țară selectată",
+      "search": "Caută o țară...",
+      "none": "Niciuna (gol)",
+      "notFound": "Nicio țară găsită",
+      "unknown": "Necunoscut ({{code}})"
+    },
     "sort": {
       "recent": "Adăugat recent",
       "date": "Cele mai noi",

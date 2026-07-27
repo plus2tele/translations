@@ -130,6 +130,29 @@
     "pageInfo_one": "Page {{current}} of {{total}} · {{count}} archive",
     "pageInfo_other": "Page {{current}} of {{total}} · {{count}} archives"
   },
+  "filters": {
+    "advanced": "Filtros avanzados",
+    "applied": "Filtros aplicados:",
+    "clear": "Borrar filtros",
+    "reset": "Restablecer",
+    "results": "Resultados de búsqueda",
+    "allArchives": "Todos los archivos",
+    "country": {
+      "placeholder": "Ningún país seleccionado",
+      "search": "Buscar un país...",
+      "none": "Ninguno (vacío)",
+      "notFound": "No se encontró ningún país",
+      "unknown": "Desconocido ({{code}})"
+    },
+    "sort": {
+      "recent": "Añadido recientemente",
+      "date": "Más reciente",
+      "oldest": "Más antiguo",
+      "popular": "Popularidad",
+      "alphabetical": "A-Z",
+      "alphabetical_desc": "Z-A"
+    }
+  },
   "collections": {
     "title": "Colecciones",
     "seo_title": "Colecciones Temáticas de Archivos Televisivos",
