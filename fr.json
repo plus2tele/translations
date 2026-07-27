@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Redécouvrez les trésors de la télévision à travers notre collection d'archives."
+  },
   "facets": {
     "channelType": { "title": "{{type}} de {{channel}}", "description": "Tous les {{type}} de {{channel}} — {{count}} vidéos d’archives à revoir sur +2Télé." },
     "channelYear": { "title": "{{channel}} en {{year}}", "description": "Les archives de {{channel}} diffusées en {{year}} : génériques, habillages, publicités. {{count}} vidéos." },
@@ -52,6 +55,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Archives de la télévision : jingles, habillages et génériques",
     "description": "Redécouvrez les trésors de la télévision. Accédez à des milliers d'archives, habillages d'émissions cultes, génériques et moments inoubliables de l'histoire du petit écran.",
     "exploreCollection": "Explorez notre collection de {{stats}} archives télévisuelles",
     "search": {

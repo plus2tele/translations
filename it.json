@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Riscopri i tesori della televisione attraverso la nostra raccolta di archivi."
+  },
   "facets": {
     "channelType": { "title": "{{type}} di {{channel}}", "description": "Tutti i {{type}} di {{channel}} — {{count}} video d’archivio da rivedere su +2Télé." },
     "channelYear": { "title": "{{channel}} nel {{year}}", "description": "Gli archivi di {{channel}} trasmessi nel {{year}}: sigle, grafica d’antenna, pubblicità. {{count}} video." },
@@ -52,6 +55,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Archivi televisivi: sigle, grafiche d'antenna e jingle",
     "description": "Riscopri i tesori della televisione. Accedi a migliaia di archivi, costumi di programmi cult, titoli e momenti indimenticabili della storia del piccolo schermo.",
     "exploreCollection": "Esplora la nostra collezione di {{stats}} archivi televisivi",
     "search": {

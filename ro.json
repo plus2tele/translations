@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Redescoperă comorile televiziunii prin colecția noastră de arhive."
+  },
   "facets": {
     "channelType": { "title": "{{type}} de la {{channel}}", "description": "Toate {{type}} de la {{channel}} — {{count}} videoclipuri de arhivă de revăzut pe +2Télé." },
     "channelYear": { "title": "{{channel}} în {{year}}", "description": "Arhivele {{channel}} difuzate în {{year}}: generice, identitate vizuală, reclame. {{count}} videoclipuri." },
@@ -52,6 +55,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Arhive de televiziune: jingle-uri, identități vizuale și generice",
     "description": "Redescoperă comorile televiziunii. Acesează mii de arhive TV, pachetele grafice ale posturilor de altădată, generice și momente importante din istoria micului ecran.",
     "exploreCollection": "Explorează colecția noastră formată din {{stats}} arhive audiovizuale",
     "search": {

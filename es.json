@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Redescubre los tesoros de la televisión a través de nuestra colección de archivos."
+  },
   "facets": {
     "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos los {{type}} de {{channel}} — {{count}} vídeos de archivo para volver a ver en +2Télé." },
     "channelYear": { "title": "{{channel}} en {{year}}", "description": "Archivos de {{channel}} emitidos en {{year}}: cabeceras, identidad gráfica, anuncios. {{count}} vídeos." },
@@ -46,6 +49,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Archivos de televisión: cortinillas, identidades gráficas y sintonías",
     "description": "Redescubre los tesoros de la televisión",
     "exploreCollection": "Explora nuestra colección de {{stats}} archivos televisivos",
     "search": {

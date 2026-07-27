@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Entdecke die Schätze des Fernsehens in unserer Archivsammlung neu."
+  },
   "facets": {
     "channelType": { "title": "{{type}} von {{channel}}", "description": "Alle {{type}} von {{channel}} — {{count}} Archivvideos zum Wiederansehen auf +2Télé." },
     "channelYear": { "title": "{{channel}} im Jahr {{year}}", "description": "Archive von {{channel}} aus dem Jahr {{year}}: Vorspänne, Senderdesign, Werbung. {{count}} Videos." },
@@ -52,6 +55,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Fernseharchive: Jingles, Senderdesigns und Vorspanne",
     "description": "Entdecke die Schätze des Fernsehens neu. Tausende Archive, Designs berühmter Serien, Intros und unvergessliche Momente der Fernsehgeschichte.",
     "exploreCollection": "Entdecke unsere Sammlung von {{stats}} Fernseharchiven",
     "search": {

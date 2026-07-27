@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Odkryj na nowo skarby telewizji dzięki naszej kolekcji archiwów."
+  },
   "facets": {
     "channelType": { "title": "{{type}} — {{channel}}", "description": "Wszystkie {{type}} z {{channel}} — {{count}} archiwalnych nagrań do obejrzenia na +2Télé." },
     "channelYear": { "title": "{{channel}} w {{year}}", "description": "Archiwa {{channel}} wyemitowane w {{year}}: czołówki, oprawa antenowa, reklamy. {{count}} nagrań." },
@@ -52,6 +55,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Archiwa telewizyjne: dżingle, oprawy antenowe i czołówki",
     "description": "Odkrywaj na nowo perełki telewizji i poznawaj nowe. Dostęp do tysięcy archiwów, opraw graficznych, dżingli, czołówek i wielu innych ujęć z telewizora.",
     "exploreCollection": "Odkryj naszą kolekcję {{stats}} archiwów telewizyjnych",
     "search": {

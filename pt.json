@@ -1,4 +1,7 @@
 {
+  "seo": {
+    "defaultDescription": "Redescubra os tesouros da televisão através da nossa coleção de arquivos."
+  },
   "facets": {
     "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos os {{type}} de {{channel}} — {{count}} vídeos de arquivo para rever no +2Télé." },
     "channelYear": { "title": "{{channel}} em {{year}}", "description": "Arquivos de {{channel}} exibidos em {{year}}: genéricos, identidade visual, publicidade. {{count}} vídeos." },
@@ -51,6 +54,7 @@
     "blog": "Blog"
   },
   "home": {
+    "seoTitle": "Arquivos de televisão: vinhetas, identidades visuais e genéricos",
     "description": "Redescubra os tesouros da televisão. Aceda a milhares de arquivos, programas de culto, genéricos e momentos inesquecíveis da história do pequeno ecrã.",
     "exploreCollection": "Explore a nossa coleção de {{stats}} arquivos televisivos",
     "search": {

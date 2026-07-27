@@ -1,4 +1,7 @@
 {
+    "seo": {
+        "defaultDescription": "Rediscover the treasures of television through our archive collection."
+    },
     "facets": {
         "channelType": { "title": "{{channel}} {{type}}", "description": "All {{type}} from {{channel}} — {{count}} archive videos to rewatch on +2Télé." },
         "channelYear": { "title": "{{channel}} in {{year}}", "description": "{{channel}} archives broadcast in {{year}}: idents, station branding, adverts. {{count}} videos." },
@@ -52,6 +55,7 @@
         "blog": "Blog"
     },
     "home": {
+        "seoTitle": "Television archives: idents, bumpers and title sequences",
         "description": "Rediscover the treasures of television. Access thousands of archives, brandings of popular shows, intros and unforgettable moments of television history.",
         "exploreCollection": "Explore our collection of {{stats}} television archives",
         "search": {
