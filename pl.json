@@ -210,6 +210,27 @@
       "confirm": "Potwierdzam, że mam ukończone 18 lat",
       "cancel": "Anuluj"
     },
+    "ageVerification": {
+      "intro": "Odtworzenie tego archiwum wymaga weryfikacji wieku przeprowadzanej przez AgeVerif, niezależnego dostawcę. +2Télé nie otrzymuje ani Twojego zdjęcia, ani dokumentu tożsamości, ani daty urodzenia.",
+      "methodFaceAge": "Szacowanie wieku na podstawie twarzy (Face Age): dostawca ocenia Twój wiek na podstawie ujęcia.",
+      "methodWallet": "France Identité: Twój cyfrowy portfel tożsamości przekazuje wyłącznie informację, że jesteś osobą pełnoletnią.",
+      "action": "Zweryfikuj mój wiek",
+      "verifying": "Weryfikacja…",
+      "noticeVisitor": "Ta weryfikacja obowiązuje przez czas trwania sesji przeglądania.",
+      "noticeAccount": "Ta weryfikacja zostanie powiązana z Twoim kontem i będzie można ją odwołać.",
+      "privacyLink": "Dowiedz się więcej",
+      "errors": {
+        "failed": "Weryfikacja nie została ukończona. Spróbuj ponownie.",
+        "cancelled": "Weryfikacja anulowana.",
+        "popup_blocked": "Przeglądarka zablokowała okno weryfikacji. Zezwól na wyskakujące okna i spróbuj ponownie.",
+        "not_adult": "Nie udało się potwierdzić Twojej pełnoletności.",
+        "invalid_state": "Sesja weryfikacji wygasła. Spróbuj ponownie.",
+        "provider_error": "Usługa weryfikacji jest chwilowo niedostępna.",
+        "unavailable": "Weryfikacja wieku jest obecnie niedostępna.",
+        "timeout": "Weryfikacja trwała zbyt długo. Spróbuj ponownie.",
+        "internal_error": "Wystąpił błąd. Spróbuj ponownie później."
+      }
+    },
     "photosensitiveWarning": {
       "title": "Ostrzeżenie o epilepsji",
       "message": "Ta treść może zawierać efekty stroboskopowe, błyski lub szybkie sekwencje, które mogą wywołać ataki epilepsji u osób wrażliwych na światło.",
@@ -220,6 +241,10 @@
       "message": "To archiwum zostało ponownie opublikowane w lepszej jakości.",
       "action": "Zobacz wersję w lepszej jakości"
     }
+  },
+  "embed": {
+    "adultBlocked": "To archiwum jest przeznaczone dla osób powyżej 18 lat i nie może być odtwarzane w osadzonym odtwarzaczu.",
+    "watchOnSite": "Zobacz na +2Télé"
   },
   "ranking": {
     "title": "Ranking",
@@ -517,6 +542,16 @@
         "send": "Wyślij kod",
         "confirm": "Potwierdź"
       }
+    },
+    "ageVerification": {
+      "title": "Weryfikacja wieku",
+      "description": "Zweryfikuj wiek jeden raz, aby korzystać z archiwów od 18 lat na wszystkich urządzeniach, bez powtarzania przy każdej wizycie.",
+      "action": "Zweryfikuj mój wiek",
+      "verified": "Wiek zweryfikowany",
+      "verifiedSince": "Zweryfikowano {{date}}",
+      "verifiedGeneric": "Weryfikacja aktywna",
+      "revoke": "Usuń",
+      "privacyNotice": "Nie przechowujemy żadnego zdjęcia, dokumentu tożsamości ani daty urodzenia."
     }
   },
   "archivist": {

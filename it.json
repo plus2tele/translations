@@ -210,6 +210,27 @@
       "confirm": "Confermo di avere 18 anni o più",
       "cancel": "Annulla"
     },
+    "ageVerification": {
+      "intro": "Per guardare questo archivio è necessaria una verifica dell'età effettuata da AgeVerif, un fornitore indipendente. +2Télé non riceve né la tua immagine, né il tuo documento d'identità, né la tua data di nascita.",
+      "methodFaceAge": "Stima facciale (Face Age): il fornitore stima la tua età a partire da uno scatto.",
+      "methodWallet": "France Identité: il tuo portafoglio d'identità digitale comunica soltanto che sei maggiorenne.",
+      "action": "Verifica la mia età",
+      "verifying": "Verifica in corso…",
+      "noticeVisitor": "Questa verifica vale per la tua sessione di navigazione.",
+      "noticeAccount": "Questa verifica sarà collegata al tuo account e resterà revocabile.",
+      "privacyLink": "Scopri di più",
+      "errors": {
+        "failed": "La verifica non è andata a buon fine. Riprova.",
+        "cancelled": "Verifica annullata.",
+        "popup_blocked": "Il tuo browser ha bloccato la finestra di verifica. Consenti i pop-up e riprova.",
+        "not_adult": "Non è stato possibile confermare la tua maggiore età.",
+        "invalid_state": "La sessione di verifica è scaduta. Riprova.",
+        "provider_error": "Il servizio di verifica è momentaneamente non disponibile.",
+        "unavailable": "La verifica dell'età non è disponibile in questo momento.",
+        "timeout": "La verifica ha richiesto troppo tempo. Riprova.",
+        "internal_error": "Si è verificato un errore. Riprova più tardi."
+      }
+    },
     "photosensitiveWarning": {
       "title": "Avviso epilessia",
       "message": "Questo contenuto può contenere effetti stroboscopici, lampeggi o sequenze rapide che potrebbero scatenare crisi epilettiche nelle persone fotosensibili.",
@@ -220,6 +241,10 @@
       "message": "Questo archivio è stato ripubblicato in qualità migliore.",
       "action": "Guarda la versione di qualità migliore"
     }
+  },
+  "embed": {
+    "adultBlocked": "Questo archivio è vietato ai minori di 18 anni e non può essere riprodotto in modalità incorporata.",
+    "watchOnSite": "Guarda su +2Télé"
   },
   "ranking": {
     "title": "Classifica",
@@ -513,6 +538,16 @@
         "send": "Invia codice",
         "confirm": "Conferma"
       }
+    },
+    "ageVerification": {
+      "title": "Verifica dell'età",
+      "description": "Verifica una volta la tua maggiore età per accedere agli archivi vietati ai minori di 18 anni da tutti i tuoi dispositivi, senza ripetere l'operazione a ogni visita.",
+      "action": "Verifica la mia età",
+      "verified": "Età verificata",
+      "verifiedSince": "Verificato il {{date}}",
+      "verifiedGeneric": "Verifica attiva",
+      "revoke": "Rimuovi",
+      "privacyNotice": "Non conserviamo alcuna immagine, documento d'identità o data di nascita."
     },
     "notifications": {
       "title": "Notifiche",

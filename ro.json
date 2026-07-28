@@ -210,6 +210,27 @@
       "confirm": "Am peste 18 ani",
       "cancel": "Anulare"
     },
+    "ageVerification": {
+      "intro": "Vizionarea acestei arhive necesită o verificare a vârstei realizată de AgeVerif, un furnizor independent. +2Télé nu primește nici imaginea ta, nici actul de identitate, nici data nașterii.",
+      "methodFaceAge": "Estimare facială (Face Age): furnizorul estimează vârsta ta pornind de la o captură.",
+      "methodWallet": "France Identité: portofelul tău de identitate digitală transmite doar faptul că ești major.",
+      "action": "Verifică vârsta mea",
+      "verifying": "Se verifică…",
+      "noticeVisitor": "Această verificare este valabilă pe durata sesiunii de navigare.",
+      "noticeAccount": "Această verificare va fi asociată contului tău și va rămâne revocabilă.",
+      "privacyLink": "Află mai multe",
+      "errors": {
+        "failed": "Verificarea nu a putut fi finalizată. Încearcă din nou.",
+        "cancelled": "Verificare anulată.",
+        "popup_blocked": "Browserul a blocat fereastra de verificare. Permite fereastrele pop-up și încearcă din nou.",
+        "not_adult": "Nu s-a putut confirma că ești major.",
+        "invalid_state": "Sesiunea de verificare a expirat. Încearcă din nou.",
+        "provider_error": "Serviciul de verificare este momentan indisponibil.",
+        "unavailable": "Verificarea vârstei nu este disponibilă momentan.",
+        "timeout": "Verificarea a durat prea mult. Încearcă din nou.",
+        "internal_error": "A apărut o eroare. Încearcă mai târziu."
+      }
+    },
     "photosensitiveWarning": {
       "title": "Avertisment epilepsie",
       "message": "Acest conținut poate conține efecte stroboscopice, blițuri sau secvențe rapide care ar putea declanșa crize de epilepsie la persoanele fotosensibile.",
@@ -220,6 +241,10 @@
       "message": "Această arhivă a fost republicată într-o calitate mai bună.",
       "action": "Vezi versiunea de calitate superioară"
     }
+  },
+  "embed": {
+    "adultBlocked": "Această arhivă este interzisă minorilor sub 18 ani și nu poate fi redată în player încorporat.",
+    "watchOnSite": "Vezi pe +2Télé"
   },
   "ranking": {
     "title": "Clasament",
@@ -517,6 +542,16 @@
         "send": "Trimite codul",
         "confirm": "Confirmă"
       }
+    },
+    "ageVerification": {
+      "title": "Verificarea vârstei",
+      "description": "Verifică o singură dată că ești major pentru a accesa arhivele interzise minorilor sub 18 ani de pe toate dispozitivele, fără să reiei procedura la fiecare vizită.",
+      "action": "Verifică vârsta mea",
+      "verified": "Vârstă verificată",
+      "verifiedSince": "Verificat pe {{date}}",
+      "verifiedGeneric": "Verificare activă",
+      "revoke": "Șterge",
+      "privacyNotice": "Nu păstrăm nicio imagine, niciun act de identitate și nicio dată de naștere."
     }
   },
   "archivist": {

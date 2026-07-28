@@ -211,6 +211,27 @@
             "confirm": "I confirm I am 18 or older",
             "cancel": "Cancel"
         },
+        "ageVerification": {
+            "intro": "Watching this archive requires an age check carried out by AgeVerif, an independent provider. +2Télé never receives your photo, your ID document or your date of birth.",
+            "methodFaceAge": "Facial age estimation (Face Age): the provider estimates your age from a live capture.",
+            "methodWallet": "France Identité: your European digital identity wallet only discloses that you are of age.",
+            "action": "Verify my age",
+            "verifying": "Verifying…",
+            "noticeVisitor": "This check lasts for your browsing session.",
+            "noticeAccount": "This check will be linked to your account and stays revocable.",
+            "privacyLink": "Learn more",
+            "errors": {
+                "failed": "The check could not be completed. Please try again.",
+                "cancelled": "Verification cancelled.",
+                "popup_blocked": "Your browser blocked the verification window. Allow pop-ups and try again.",
+                "not_adult": "Your age could not be confirmed.",
+                "invalid_state": "The verification session expired. Please try again.",
+                "provider_error": "The verification service is temporarily unavailable.",
+                "unavailable": "Age verification is currently unavailable.",
+                "timeout": "The check took too long. Please try again.",
+                "internal_error": "Something went wrong. Please try again later."
+            }
+        },
         "photosensitiveWarning": {
             "title": "Epilepsy Warning",
             "message": "This content may contain flashing lights, strobes or rapid sequences that could trigger epileptic seizures in photosensitive people.",
@@ -221,6 +242,10 @@
             "message": "This archive has been republished in better quality.",
             "action": "View the better quality version"
         }
+    },
+    "embed": {
+        "adultBlocked": "This archive is rated 18+ and cannot be played in an embedded player.",
+        "watchOnSite": "Watch on +2Télé"
     },
     "ranking": {
         "title": "Rankings",
@@ -522,6 +547,16 @@
                 "send": "Send code",
                 "confirm": "Confirm"
             }
+        },
+        "ageVerification": {
+            "title": "Age verification",
+            "description": "Verify your age once to reach archives rated 18+ from all your devices, without starting over on every visit.",
+            "action": "Verify my age",
+            "verified": "Age verified",
+            "verifiedSince": "Verified on {{date}}",
+            "verifiedGeneric": "Verification active",
+            "revoke": "Remove",
+            "privacyNotice": "We store no photo, no ID document and no date of birth."
         }
     },
     "archivist": {

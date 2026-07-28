@@ -210,6 +210,27 @@
       "confirm": "Je confirme avoir 18 ans ou plus",
       "cancel": "Annuler"
     },
+    "ageVerification": {
+      "intro": "L'accès à cette archive nécessite une vérification de votre âge par AgeVerif, un prestataire indépendant. +2Télé ne reçoit ni votre image, ni votre pièce d'identité, ni votre date de naissance.",
+      "methodFaceAge": "Estimation faciale (Face Age) : le prestataire estime votre âge à partir d'une prise de vue.",
+      "methodWallet": "France Identité : votre portefeuille d'identité numérique transmet uniquement le fait que vous êtes majeur·e.",
+      "action": "Vérifier mon âge",
+      "verifying": "Vérification en cours…",
+      "noticeVisitor": "Cette vérification vaut pour votre session de navigation.",
+      "noticeAccount": "Cette vérification sera rattachée à votre compte et restera révocable.",
+      "privacyLink": "En savoir plus",
+      "errors": {
+        "failed": "La vérification n'a pas abouti. Merci de réessayer.",
+        "cancelled": "Vérification annulée.",
+        "popup_blocked": "La fenêtre de vérification a été bloquée par votre navigateur. Autorisez les fenêtres surgissantes puis réessayez.",
+        "not_adult": "La majorité n'a pas pu être établie.",
+        "invalid_state": "La session de vérification a expiré. Merci de réessayer.",
+        "provider_error": "Le service de vérification est momentanément indisponible.",
+        "unavailable": "La vérification de l'âge n'est pas disponible pour le moment.",
+        "timeout": "La vérification a pris trop de temps. Merci de réessayer.",
+        "internal_error": "Une erreur est survenue. Merci de réessayer plus tard."
+      }
+    },
     "photosensitiveWarning": {
       "title": "Avertissement épilepsie",
       "message": "Ce contenu peut contenir des effets lumineux stroboscopiques, des flashs ou des séquences rapides susceptibles de provoquer des crises d'épilepsie chez les personnes photosensibles.",
@@ -220,6 +241,10 @@
       "message": "Cette archive a été republiée en meilleure qualité.",
       "action": "Voir la version en meilleure qualité"
     }
+  },
+  "embed": {
+    "adultBlocked": "Cette archive est déconseillée aux moins de 18 ans et n'est pas lisible en lecture intégrée.",
+    "watchOnSite": "Regarder sur +2Télé"
   },
   "ranking": {
     "title": "Classement",
@@ -517,6 +542,16 @@
         "send": "Envoyer le code",
         "confirm": "Confirmer"
       }
+    },
+    "ageVerification": {
+      "title": "Vérification de l'âge",
+      "description": "Vérifiez une fois votre majorité pour accéder aux archives déconseillées aux moins de 18 ans depuis tous vos appareils, sans recommencer à chaque visite.",
+      "action": "Vérifier mon âge",
+      "verified": "Majorité vérifiée",
+      "verifiedSince": "Vérifié le {{date}}",
+      "verifiedGeneric": "Vérification active",
+      "revoke": "Supprimer",
+      "privacyNotice": "Nous ne conservons ni image, ni pièce d'identité, ni date de naissance."
     }
   },
   "archivist": {

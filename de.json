@@ -216,10 +216,35 @@
       "confirm": "Ich bestätige, dass ich 18 oder älter bin",
       "cancel": "Abbrechen"
     },
+    "ageVerification": {
+      "intro": "Für dieses Archiv ist eine Altersprüfung durch AgeVerif erforderlich, einen unabhängigen Anbieter. +2Télé erhält weder dein Bild noch deinen Ausweis noch dein Geburtsdatum.",
+      "methodFaceAge": "Gesichtsbasierte Altersschätzung (Face Age): der Anbieter schätzt dein Alter anhand einer Aufnahme.",
+      "methodWallet": "France Identité: deine europäische digitale Identitäts-Wallet übermittelt nur, dass du volljährig bist.",
+      "action": "Alter bestätigen",
+      "verifying": "Prüfung läuft…",
+      "noticeVisitor": "Diese Prüfung gilt für deine Browser-Sitzung.",
+      "noticeAccount": "Diese Prüfung wird mit deinem Konto verknüpft und bleibt widerrufbar.",
+      "privacyLink": "Mehr erfahren",
+      "errors": {
+        "failed": "Die Prüfung konnte nicht abgeschlossen werden. Bitte versuche es erneut.",
+        "cancelled": "Prüfung abgebrochen.",
+        "popup_blocked": "Dein Browser hat das Prüfungsfenster blockiert. Erlaube Pop-ups und versuche es erneut.",
+        "not_adult": "Deine Volljährigkeit konnte nicht bestätigt werden.",
+        "invalid_state": "Die Prüfungssitzung ist abgelaufen. Bitte versuche es erneut.",
+        "provider_error": "Der Prüfdienst ist vorübergehend nicht verfügbar.",
+        "unavailable": "Die Altersprüfung ist derzeit nicht verfügbar.",
+        "timeout": "Die Prüfung hat zu lange gedauert. Bitte versuche es erneut.",
+        "internal_error": "Ein Fehler ist aufgetreten. Bitte versuche es später erneut."
+      }
+    },
     "betterQuality": {
       "message": "Dieses Archiv wurde in besserer Qualität neu veröffentlicht.",
       "action": "Bessere Qualität ansehen"
     }
+  },
+  "embed": {
+    "adultBlocked": "Dieses Archiv ist ab 18 Jahren freigegeben und kann nicht eingebettet abgespielt werden.",
+    "watchOnSite": "Auf +2Télé ansehen"
   },
   "ranking": {
     "title": "Rangliste",
@@ -495,6 +520,16 @@
         "send": "Code senden",
         "confirm": "Bestätigen"
       }
+    },
+    "ageVerification": {
+      "title": "Altersprüfung",
+      "description": "Bestätige dein Alter einmalig, um Archive ab 18 auf allen deinen Geräten zu sehen, ohne die Prüfung bei jedem Besuch zu wiederholen.",
+      "action": "Alter bestätigen",
+      "verified": "Alter bestätigt",
+      "verifiedSince": "Bestätigt am {{date}}",
+      "verifiedGeneric": "Prüfung aktiv",
+      "revoke": "Entfernen",
+      "privacyNotice": "Wir speichern kein Bild, keinen Ausweis und kein Geburtsdatum."
     },
     "notifications": {
       "title": "Benachrichtigungen",
