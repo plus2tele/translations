@@ -14,6 +14,7 @@
     "notFound": "Nie znaleziono strony",
     "back": "Powrót",
     "seeMore": "Zobacz więcej",
+    "seeLess": "Zobacz mniej",
     "cancel": "Anuluj",
     "submit": "Potwierdź",
     "search": "Szukaj",
@@ -160,6 +161,8 @@
     "noSearchResults": "Nie znaleziono żadnych kolekcji"
   },
   "player": {
+    "like": "Dodaj do polubionych",
+    "unlike": "Usuń z polubionych",
     "collection": "Kolekcja",
     "previousVideo": "Poprzednie wideo",
     "nextVideo": "Następne wideo",
@@ -195,6 +198,7 @@
     "actions": {
       "quick": "Szybkie akcje",
       "random": "Losowe archiwa",
+      "allArchives": "Wszystkie archiwa",
       "explore": "Odkrywaj kolekcje"
     },
     "toast": {
@@ -356,6 +360,28 @@
     "switchAccount": "Zmień konto"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Ulubione",
+      "allTitle": "Wszystkie polubione archiwa",
+      "allTitleOwner": "Wszystkie moje polubienia",
+      "count": "Polubione archiwa: {{count}}",
+      "empty": "Brak polubionych archiwów.",
+      "emptyOwner": "Nie polubiłeś jeszcze żadnego archiwum.",
+      "noFeatured": "Brak ulubionych.",
+      "noFeaturedOwner": "Wyróżnij swoje ulubione polubienia gwiazdką poniżej.",
+      "private": "Ten użytkownik nie udostępnia swoich ulubionych.",
+      "addComment": "Dodaj notatkę",
+      "commentPlaceholder": "Dlaczego to archiwum zapadło Ci w pamięć?",
+      "feature": "Dodaj do ulubionych",
+      "unfeature": "Usuń z ulubionych",
+      "moveUp": "Przesuń w górę",
+      "moveDown": "Przesuń w dół"
+    },
+    "featuredLike": {
+      "title": "Ulubione",
+      "lastLike": "Ostatnie polubienie",
+      "empty": "Brak ulubionych."
+    },
     "title": "Mój profil",
     "description": "Zarządzaj swoim profilem i ustawieniami",
     "settings": "Ustawienia",
@@ -384,6 +410,8 @@
       "viewChannel": "Zobacz kanał"
     },
     "form": {
+      "publicLikes": "Publiczne ulubione",
+      "publicLikesHelp": "Pozwól odwiedzającym zobaczyć wyróżnione przez Ciebie archiwa.",
       "avatar": "Awatar",
       "motto": "Biografia",
       "mottoPlaceholder": "Podziel się cytatem, który Cię reprezentuje...",
@@ -421,6 +449,7 @@
     },
     "notFound": "Nie znaleziono profilu",
     "tabs": {
+      "likes": "Ulubione",
       "archives": "Opublikowane archiwa",
       "comments": "Komentarze"
     },

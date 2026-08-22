@@ -16,6 +16,7 @@
     "notFound": "Página não encontrada",
     "back": "Voltar",
     "seeMore": "Ver mais",
+    "seeLess": "Ver menos",
     "cancel": "Cancelar",
     "submit": "Enviar",
     "search": "Pesquisar",
@@ -159,6 +160,8 @@
     "noSearchResults": "Nenhuma coleção encontrada para esta pesquisa"
   },
   "player": {
+    "like": "Adicionar aos meus gostos",
+    "unlike": "Remover dos meus gostos",
     "collection": "Coleção",
     "previousVideo": "Vídeo anterior",
     "nextVideo": "Vídeo seguinte",
@@ -194,6 +197,7 @@
     "actions": {
       "quick": "Ações rápidas",
       "random": "Arquivo aleatório",
+      "allArchives": "Todos os arquivos",
       "explore": "Explorar a coleção"
     },
     "toast": {
@@ -347,6 +351,28 @@
     "switchAccount": "Mudar de conta"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Favoritos",
+      "allTitle": "Todos os arquivos com gosto",
+      "allTitleOwner": "Todos os meus gostos",
+      "count": "{{count}} arquivos com gosto",
+      "empty": "Ainda não há arquivos com gosto.",
+      "emptyOwner": "Ainda não gostou de nenhum arquivo.",
+      "noFeatured": "Ainda não há favoritos.",
+      "noFeaturedOwner": "Destaque os seus gostos preferidos com a estrela abaixo.",
+      "private": "Este utilizador mantém os seus favoritos privados.",
+      "addComment": "Adicionar uma nota",
+      "commentPlaceholder": "Porque é que este arquivo o marcou?",
+      "feature": "Adicionar aos favoritos",
+      "unfeature": "Remover dos favoritos",
+      "moveUp": "Mover para cima",
+      "moveDown": "Mover para baixo"
+    },
+    "featuredLike": {
+      "title": "Favorito",
+      "lastLike": "Último gosto",
+      "empty": "Ainda não há favoritos."
+    },
     "title": "O meu perfil",
     "description": "Gerir o seu perfil e definições",
     "settings": "Definições",
@@ -375,6 +401,8 @@
       "viewChannel": "Ver canal"
     },
     "form": {
+      "publicLikes": "Favoritos públicos",
+      "publicLikesHelp": "Permitir que os visitantes vejam os arquivos que destacou.",
       "avatar": "Avatar",
       "motto": "Citação pessoal",
       "mottoPlaceholder": "Partilhe uma citação que o represente...",
@@ -412,6 +440,7 @@
     },
     "notFound": "Perfil não encontrado",
     "tabs": {
+      "likes": "Favoritos",
       "archives": "Arquivos publicados",
       "comments": "Comentários"
     },

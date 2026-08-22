@@ -16,6 +16,7 @@
     "notFound": "Seite nicht gefunden",
     "back": "Zurück",
     "seeMore": "Mehr sehen",
+    "seeLess": "Weniger anzeigen",
     "cancel": "Abbrechen",
     "submit": "Senden",
     "search": "Suchen",
@@ -166,6 +167,8 @@
     "noSearchResults": "Keine Sammlung für diese Suche gefunden"
   },
   "player": {
+    "like": "Zu meinen Likes hinzufügen",
+    "unlike": "Aus meinen Likes entfernen",
     "collection": "Sammlung",
     "previousVideo": "Vorheriges Video",
     "nextVideo": "Nächstes Video",
@@ -201,6 +204,7 @@
     "actions": {
       "quick": "Schnellaktionen",
       "random": "Zufälliger Archivinhalt",
+      "allArchives": "Alle Archive",
       "explore": "Die Sammlung erkunden"
     },
     "toast": {
@@ -338,6 +342,28 @@
     "switchAccount": "Konto wechseln"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Favoriten",
+      "allTitle": "Alle gelikten Archive",
+      "allTitleOwner": "Alle meine Likes",
+      "count": "{{count}} gelikte Archive",
+      "empty": "Noch keine gelikten Archive.",
+      "emptyOwner": "Du hast noch kein Archiv geliked.",
+      "noFeatured": "Noch keine Favoriten.",
+      "noFeaturedOwner": "Hebe deine liebsten Likes mit dem Stern unten hervor.",
+      "private": "Diese Person hält ihre Favoriten privat.",
+      "addComment": "Notiz hinzufügen",
+      "commentPlaceholder": "Warum ist dir dieses Archiv im Gedächtnis geblieben?",
+      "feature": "Zu Favoriten hinzufügen",
+      "unfeature": "Aus Favoriten entfernen",
+      "moveUp": "Nach oben verschieben",
+      "moveDown": "Nach unten verschieben"
+    },
+    "featuredLike": {
+      "title": "Favorit",
+      "lastLike": "Letztes Like",
+      "empty": "Noch keine Favoriten."
+    },
     "title": "Mein Profil",
     "description": "Verwalte dein Profil und deine Einstellungen",
     "settings": "Einstellungen",
@@ -366,6 +392,8 @@
       "viewChannel": "Kanal ansehen"
     },
     "form": {
+      "publicLikes": "Öffentliche Favoriten",
+      "publicLikesHelp": "Besuchern erlauben, die von dir hervorgehobenen Archive zu sehen.",
       "avatar": "Avatar",
       "motto": "Persönliches Zitat",
       "mottoPlaceholder": "Teile ein Zitat, das dich beschreibt...",
@@ -403,6 +431,7 @@
     },
     "notFound": "Profil nicht gefunden",
     "tabs": {
+      "likes": "Favoriten",
       "archives": "Veröffentlichte Archive",
       "comments": "Kommentare"
     },

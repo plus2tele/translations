@@ -16,6 +16,7 @@
     "notFound": "Pagina non trovata",
     "back": "Indietro",
     "seeMore": "Vedi altro",
+    "seeLess": "Vedi meno",
     "cancel": "Annulla",
     "submit": "Invia",
     "search": "Cerca",
@@ -160,6 +161,8 @@
     "noSearchResults": "Nessuna collezione trovata per questa ricerca"
   },
   "player": {
+    "like": "Aggiungi ai miei mi piace",
+    "unlike": "Rimuovi dai miei mi piace",
     "collection": "Collezione",
     "previousVideo": "Video precedente",
     "nextVideo": "Video successivo",
@@ -195,6 +198,7 @@
     "actions": {
       "quick": "Azioni rapide",
       "random": "Archivio casuale",
+      "allArchives": "Tutti gli archivi",
       "explore": "Esplora la collezione"
     },
     "toast": {
@@ -356,6 +360,28 @@
     "switchAccount": "Cambia account"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Preferiti",
+      "allTitle": "Tutti gli archivi con mi piace",
+      "allTitleOwner": "Tutti i miei mi piace",
+      "count": "{{count}} archivi con mi piace",
+      "empty": "Nessun archivio con mi piace per ora.",
+      "emptyOwner": "Non hai ancora messo mi piace a nessun archivio.",
+      "noFeatured": "Nessun preferito per ora.",
+      "noFeaturedOwner": "Metti in evidenza i tuoi mi piace preferiti con la stella qui sotto.",
+      "private": "Questo utente tiene privati i suoi preferiti.",
+      "addComment": "Aggiungi una nota",
+      "commentPlaceholder": "Perché questo archivio ti ha colpito?",
+      "feature": "Aggiungi ai preferiti",
+      "unfeature": "Rimuovi dai preferiti",
+      "moveUp": "Sposta in alto",
+      "moveDown": "Sposta in basso"
+    },
+    "featuredLike": {
+      "title": "Preferito",
+      "lastLike": "Ultimo mi piace",
+      "empty": "Nessun preferito per ora."
+    },
     "title": "Il mio profilo",
     "description": "Gestisci il tuo profilo e le impostazioni",
     "settings": "Impostazioni",
@@ -384,6 +410,8 @@
       "viewChannel": "Vedi canale"
     },
     "form": {
+      "publicLikes": "Preferiti pubblici",
+      "publicLikesHelp": "Consenti ai visitatori di vedere gli archivi che hai messo in evidenza.",
       "avatar": "Avatar",
       "motto": "Citazione personale",
       "mottoPlaceholder": "Condividi una citazione che ti rappresenta...",
@@ -421,6 +449,7 @@
     },
     "notFound": "Profilo non trovato",
     "tabs": {
+      "likes": "Preferiti",
       "archives": "Archivi pubblicati",
       "comments": "Commenti"
     },

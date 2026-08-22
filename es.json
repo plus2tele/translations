@@ -16,6 +16,7 @@
     "notFound": "Página no encontrada",
     "back": "Volver",
     "seeMore": "Ver más",
+    "seeLess": "Ver menos",
     "cancel": "Cancelar",
     "submit": "Enviar",
     "search": "Buscar",
@@ -165,11 +166,20 @@
     "createdAt": "Creada el {{date}}"
   },
   "player": {
+    "like": "Añadir a mis me gusta",
+    "unlike": "Quitar de mis me gusta",
     "collection": "Colección",
     "previousVideo": "Video anterior",
     "nextVideo": "Video siguiente",
     "autoplay": "Reproducción automática",
     "noCollectionArchives": "No hay archivos en esta colección",
+    "quickActions": "Acciones rápidas",
+    "actions": {
+      "quick": "Acciones rápidas",
+      "random": "Archivo aleatorio",
+      "explore": "Explorar la colección",
+      "allArchives": "Todos los archivos"
+    },
     "channel": "Canal",
     "type": "Tipo",
     "year": "Año",
@@ -331,6 +341,28 @@
     "switchAccount": "Cambiar de cuenta"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Destacados",
+      "allTitle": "Todos los archivos con me gusta",
+      "allTitleOwner": "Todos mis me gusta",
+      "count": "{{count}} archivos con me gusta",
+      "empty": "Aún no hay archivos con me gusta.",
+      "emptyOwner": "Todavía no has marcado ningún archivo.",
+      "noFeatured": "Aún no hay destacados.",
+      "noFeaturedOwner": "Destaca tus me gusta favoritos con la estrella de abajo.",
+      "private": "Este usuario mantiene sus destacados en privado.",
+      "addComment": "Añadir una nota",
+      "commentPlaceholder": "¿Por qué te marcó este archivo?",
+      "feature": "Añadir a destacados",
+      "unfeature": "Quitar de destacados",
+      "moveUp": "Mover arriba",
+      "moveDown": "Mover abajo"
+    },
+    "featuredLike": {
+      "title": "Destacado",
+      "lastLike": "Último me gusta",
+      "empty": "Aún no hay destacados."
+    },
     "title": "Mi perfil",
     "description": "Administra tu perfil y tus ajustes",
     "settings": "Ajustes",
@@ -348,6 +380,8 @@
     "deleteAccount": "Eliminar mi cuenta",
     "deleteConfirm": "¿Estás seguro de que deseas eliminar tu cuenta? Esta acción es irreversible.",
     "form": {
+      "publicLikes": "Destacados públicos",
+      "publicLikesHelp": "Permitir que los visitantes vean los archivos que has destacado.",
       "avatar": "Avatar",
       "motto": "Cita personal",
       "mottoPlaceholder": "Comparte una cita que te represente...",
@@ -389,6 +423,7 @@
     },
     "notFound": "Perfil no encontrado",
     "tabs": {
+      "likes": "Destacados",
       "archives": "Archivos publicados",
       "comments": "Comentarios"
     },

@@ -16,6 +16,7 @@
         "notFound": "Page not found",
         "back": "Back",
         "seeMore": "See more",
+        "seeLess": "See less",
         "cancel": "Cancel",
         "submit": "Submit",
         "search": "Search",
@@ -161,6 +162,8 @@
         "noSearchResults": "No collection found for this search"
     },
     "player": {
+        "like": "Add to my likes",
+        "unlike": "Remove from my likes",
         "collection": "Collection",
         "previousVideo": "Previous video",
         "nextVideo": "Next video",
@@ -196,6 +199,7 @@
         "actions": {
             "quick": "Quick actions",
             "random": "Random archive",
+            "allArchives": "All archives",
             "explore": "Explore the collection"
         },
         "toast": {
@@ -361,6 +365,28 @@
         "switchAccount": "Switch account"
     },
     "profile": {
+        "likes": {
+            "featuredTitle": "Highlights",
+            "allTitle": "All liked archives",
+            "allTitleOwner": "All my likes",
+            "count": "{{count}} liked archives",
+            "empty": "No liked archives yet.",
+            "emptyOwner": "You haven't liked any archive yet.",
+            "noFeatured": "No highlights yet.",
+            "noFeaturedOwner": "Feature your favorite likes using the star below.",
+            "private": "This user keeps their highlights private.",
+            "addComment": "Add a note",
+            "commentPlaceholder": "Why did this archive stick with you?",
+            "feature": "Add to highlights",
+            "unfeature": "Remove from highlights",
+            "moveUp": "Move up",
+            "moveDown": "Move down"
+        },
+        "featuredLike": {
+            "title": "Highlight",
+            "lastLike": "Latest like",
+            "empty": "No highlights yet."
+        },
         "title": "My profile",
         "description": "Manage your +2Télé profile, consult your published archives and personalise your account preferences, profile picture and Discord notifications.",
         "settings": "Settings",
@@ -389,6 +415,8 @@
             "viewChannel": "View channel"
         },
         "form": {
+            "publicLikes": "Public highlights",
+            "publicLikesHelp": "Allow visitors to see the archives you have featured.",
             "avatar": "Avatar",
             "motto": "Personal quote",
             "mottoPlaceholder": "Share a quote that represents you...",
@@ -426,6 +454,7 @@
         },
         "notFound": "Profile not found",
         "tabs": {
+            "likes": "Highlights",
             "archives": "Published archives",
             "comments": "Comments"
         },

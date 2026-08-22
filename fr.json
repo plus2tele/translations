@@ -16,6 +16,7 @@
     "notFound": "Page non trouvée",
     "back": "Retour",
     "seeMore": "Voir plus",
+    "seeLess": "Voir moins",
     "cancel": "Annuler",
     "submit": "Envoyer",
     "search": "Rechercher",
@@ -160,6 +161,8 @@
     "noSearchResults": "Aucune collection trouvée pour cette recherche"
   },
   "player": {
+    "like": "Ajouter à mes likes",
+    "unlike": "Retirer des likes",
     "collection": "Collection",
     "previousVideo": "Vidéo précédente",
     "nextVideo": "Vidéo suivante",
@@ -195,6 +198,7 @@
     "actions": {
       "quick": "Actions rapides",
       "random": "Archive aléatoire",
+      "allArchives": "Toutes les archives",
       "explore": "Explorer la collection"
     },
     "toast": {
@@ -356,6 +360,28 @@
     "switchAccount": "Changer de compte"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Coups de cœur",
+      "allTitle": "Toutes les archives aimées",
+      "allTitleOwner": "Tous mes likes",
+      "count": "{{count}} archives aimées",
+      "empty": "Aucune archive aimée pour l’instant.",
+      "emptyOwner": "Vous n’avez encore liké aucune archive.",
+      "noFeatured": "Aucun coup de cœur pour l’instant.",
+      "noFeaturedOwner": "Mettez en avant vos likes préférés avec l’étoile ci-dessous.",
+      "private": "Cet utilisateur garde ses coups de cœur pour lui.",
+      "addComment": "Ajouter une note",
+      "commentPlaceholder": "Pourquoi cette archive vous a marqué ?",
+      "feature": "Mettre en coup de cœur",
+      "unfeature": "Retirer des coups de cœur",
+      "moveUp": "Déplacer vers le haut",
+      "moveDown": "Déplacer vers le bas"
+    },
+    "featuredLike": {
+      "title": "Coup de cœur",
+      "lastLike": "Dernier like",
+      "empty": "Aucun coup de cœur pour l’instant."
+    },
     "title": "Mon profil",
     "description": "Gérez votre profil +2Télé, consultez vos archives publiées et personnalisez vos préférences de compte, avatar et notifications Discord.",
     "settings": "Paramètres",
@@ -384,6 +410,8 @@
       "viewChannel": "Voir la chaîne"
     },
     "form": {
+      "publicLikes": "Coups de cœur publics",
+      "publicLikesHelp": "Autoriser les visiteurs à voir les archives que vous avez mises en avant.",
       "avatar": "Avatar",
       "motto": "Citation personnelle",
       "mottoPlaceholder": "Partagez une citation qui vous représente...",
@@ -421,6 +449,7 @@
     },
     "notFound": "Profil introuvable",
     "tabs": {
+      "likes": "Coups de cœur",
       "archives": "Archives publiées",
       "comments": "Commentaires"
     },

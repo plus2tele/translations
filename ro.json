@@ -16,6 +16,7 @@
     "notFound": "Pagină negăsită",
     "back": "Înapoi",
     "seeMore": "Mai multe",
+    "seeLess": "Mai puține",
     "cancel": "Anulare",
     "submit": "Publicare",
     "search": "Căutare",
@@ -160,6 +161,8 @@
     "noSearchResults": "Nu au fost găsite colecții pentru această căutare"
   },
   "player": {
+    "like": "Adaugă la aprecierile mele",
+    "unlike": "Elimină din aprecierile mele",
     "collection": "Colecție",
     "previousVideo": "Clipul precedent",
     "nextVideo": "Clipul următor",
@@ -195,6 +198,7 @@
     "actions": {
       "quick": "Acțiuni rapide",
       "random": "Arhivă aleatorie",
+      "allArchives": "Toate arhivele",
       "explore": "Explorează colecția"
     },
     "toast": {
@@ -356,6 +360,28 @@
     "switchAccount": "Schimbă contul"
   },
   "profile": {
+    "likes": {
+      "featuredTitle": "Favorite",
+      "allTitle": "Toate arhivele apreciate",
+      "allTitleOwner": "Toate aprecierile mele",
+      "count": "{{count}} arhive apreciate",
+      "empty": "Nicio arhivă apreciată deocamdată.",
+      "emptyOwner": "Nu ai apreciat încă nicio arhivă.",
+      "noFeatured": "Niciun favorit deocamdată.",
+      "noFeaturedOwner": "Evidențiază aprecierile preferate cu steaua de mai jos.",
+      "private": "Acest utilizator își păstrează favoritele private.",
+      "addComment": "Adaugă o notă",
+      "commentPlaceholder": "De ce te-a marcat această arhivă?",
+      "feature": "Adaugă la favorite",
+      "unfeature": "Elimină din favorite",
+      "moveUp": "Mută mai sus",
+      "moveDown": "Mută mai jos"
+    },
+    "featuredLike": {
+      "title": "Favorit",
+      "lastLike": "Ultima apreciere",
+      "empty": "Niciun favorit deocamdată."
+    },
     "title": "Profilul meu",
     "description": "Gestionează-ți profilul și setările",
     "settings": "Setări",
@@ -384,6 +410,8 @@
       "viewChannel": "Vezi canalul"
     },
     "form": {
+      "publicLikes": "Favorite publice",
+      "publicLikesHelp": "Permite vizitatorilor să vadă arhivele pe care le-ai evidențiat.",
       "avatar": "Avatar",
       "motto": "Citat personal",
       "mottoPlaceholder": "Scrie un citat care te reprezintă...",
@@ -421,6 +449,7 @@
     },
     "notFound": "Profil negăsit",
     "tabs": {
+      "likes": "Favorite",
       "archives": "Arhive publicate",
       "comments": "Comentarii"
     },
