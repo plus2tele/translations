@@ -1120,5 +1120,169 @@
     "next": "Următor",
     "availableIn": "Disponibil în",
     "readingTime": "{{count}} min citire"
+  },
+  "channelAdmin": {
+    "actions": {
+      "add": "Adaugă",
+      "save": "Salvează",
+      "edit": "Editează",
+      "delete": "Șterge",
+      "reset": "Resetează",
+      "remove": "Elimină"
+    },
+    "page": {
+      "title": "Gestionarea canalelor",
+      "subtitle": "Gestionează ordinea și conținutul canalelor",
+      "seoTitle": "Gestionarea canalelor — Zona arhivarului",
+      "seoDescription": "Gestionează ordinea și conținutul canalelor de televiziune în zona ta de arhivar +2Télé.",
+      "new": "Canal nou",
+      "searchPlaceholder": "Caută un canal…",
+      "empty": "Nu a fost găsit niciun canal",
+      "savingOrder": "Se salvează ordinea…",
+      "orderError": "Ordinea nu a putut fi salvată",
+      "separatorBadge": "Separator",
+      "deleteConfirmTitle": "Ștergi acest canal?",
+      "deleteConfirmDescription": "„{{name}}” va fi șters definitiv. Această acțiune este ireversibilă.",
+      "deleteError": "Canalul nu a putut fi șters"
+    },
+    "form": {
+      "createTitle": "Canal nou",
+      "editTitle": "Editează — {{name}}",
+      "requiredHint": "Câmpurile marcate cu asterisc (*) sunt obligatorii.",
+      "tabs": {
+        "infos": "Informații",
+        "descriptions": "Descrieri",
+        "logos": "Logotecă",
+        "periods": "Perioade",
+        "history": "Istoric",
+        "habillages": "Identități"
+      },
+      "fields": {
+        "name": "Nume",
+        "status": "Stare",
+        "endedAt": "Data încheierii",
+        "position": "Poziție",
+        "isSeparator": "Acest canal este un separator",
+        "colorPrimary": "Culoare principală",
+        "country": "Țară",
+        "wikiLink": "Link wiki",
+        "copyright": "Drepturi de autor",
+        "description": "Descriere scurtă (FR)",
+        "info": "Informații detaliate",
+        "descriptionLong": "Descriere lungă (FR)"
+      },
+      "placeholders": {
+        "name": "Ex.: France 2",
+        "description": "Descriere scurtă a canalului…",
+        "info": "Note scurte, informații suplimentare…",
+        "descriptionLong": "Istoric, detalii etc.",
+        "copyright": "Informații despre drepturile de autor",
+        "wikiLink": "https://…"
+      },
+      "help": {
+        "isSeparator": "Un separator servește drept titlu în lista de canale: nu are pagină proprie.",
+        "info": "Acceptă HTML",
+        "descriptionLong": "Acceptă Markdown",
+        "position": "Stabilește ordinea de afișare în lista de canale.",
+        "endedAt": "Indică data la care a încetat emisia."
+      },
+      "status": {
+        "alive": "În emisie",
+        "dead": "Închis"
+      },
+      "position": {
+        "first": "1 — La început",
+        "after": "{{position}} — După {{name}}",
+        "auto": "Automat (la sfârșit)"
+      },
+      "translations": {
+        "show": "Afișează traducerile",
+        "hide": "Ascunde traducerile",
+        "name": "Nume",
+        "shortDescription": "Descriere scurtă",
+        "longDescription": "Descriere lungă",
+        "completion": "{{done}}/{{total}} limbi completate"
+      },
+      "validation": {
+        "summary": "Corectează câmpurile semnalate.",
+        "nameRequired": "Numele este obligatoriu.",
+        "descriptionRequired": "Descrierea scurtă este obligatorie.",
+        "endedAtRequired": "Indică data încheierii pentru un canal închis.",
+        "colorInvalid": "Culoare nevalidă (format așteptat: #RRGGBB).",
+        "wikiLinkInvalid": "Adresa trebuie să înceapă cu http:// sau https://.",
+        "tooLong": "Maximum {{max}} de caractere."
+      },
+      "unsaved": {
+        "title": "Modificări nesalvate",
+        "description": "Modificările se vor pierde dacă închizi acum.",
+        "stay": "Continuă editarea",
+        "discard": "Închide fără să salvezi"
+      },
+      "success": {
+        "created": "Canalul a fost creat.",
+        "updated": "Canalul a fost actualizat."
+      },
+      "error": {
+        "generic": "A apărut o eroare la salvare."
+      },
+      "preview": {
+        "noName": "Numele canalului"
+      },
+      "charCount": "{{current}}/{{max}}"
+    },
+    "logos": {
+      "title": "Logotecă",
+      "count_one": "{{count}} logo",
+      "count_few": "{{count}} logouri",
+      "count_other": "{{count}} de logouri",
+      "empty": "Niciun logo pentru acest canal",
+      "choose": "Alege o imagine",
+      "noLabel": "Fără etichetă",
+      "labelPlaceholder": "Etichetă (ex.: Logo 1992)",
+      "startYear": "Anul de început",
+      "endYear": "Anul de sfârșit",
+      "upload": "Încarcă",
+      "deleteConfirm": "Ștergi acest logo?",
+      "uploadError": "Logoul nu a putut fi încărcat",
+      "updateError": "Logoul nu a putut fi modificat",
+      "deleteError": "Logoul nu a putut fi șters"
+    },
+    "periods": {
+      "title": "Istoric",
+      "count_one": "{{count}} perioadă",
+      "count_few": "{{count}} perioade",
+      "count_other": "{{count}} de perioade",
+      "empty": "Nicio perioadă înregistrată",
+      "namePlaceholder": "Nume *",
+      "ownerPlaceholder": "Proprietar (opțional)",
+      "start": "Început",
+      "end": "Sfârșit (gol = în curs)",
+      "descriptionPlaceholder": "Descriere / note (opțional)",
+      "logo": "Logo asociat",
+      "present": "prezent",
+      "deleteConfirm": "Ștergi această perioadă?",
+      "createError": "Perioada nu a putut fi creată",
+      "updateError": "Perioada nu a putut fi modificată",
+      "deleteError": "Perioada nu a putut fi ștearsă"
+    },
+    "habillages": {
+      "title": "Familii de identități",
+      "count_one": "{{count}} familie",
+      "count_few": "{{count}} familii",
+      "count_other": "{{count}} de familii",
+      "empty": "Nicio familie de identități",
+      "namePlaceholder": "Nume *",
+      "versionPlaceholder": "Versiune (ex.: v2, Revizuită)",
+      "start": "Început",
+      "end": "Sfârșit (gol = în curs)",
+      "descriptionPlaceholder": "Descriere / note (opțional)",
+      "color": "Culoare",
+      "present": "prezent",
+      "deleteConfirm": "Ștergi această familie de identități?",
+      "deleteConfirmNote": "Arhivele asociate nu vor fi șterse.",
+      "createError": "Familia nu a putut fi creată",
+      "updateError": "Familia nu a putut fi modificată",
+      "deleteError": "Familia nu a putut fi ștearsă"
+    }
   }
 }

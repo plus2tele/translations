@@ -1125,5 +1125,166 @@
     "next": "Suivant",
     "availableIn": "Disponible en",
     "readingTime": "{{count}} min de lecture"
+  },
+  "channelAdmin": {
+    "actions": {
+      "add": "Ajouter",
+      "save": "Enregistrer",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "reset": "Réinitialiser",
+      "remove": "Retirer"
+    },
+    "page": {
+      "title": "Gestion des chaînes",
+      "subtitle": "Gérez l'ordre et le contenu des chaînes",
+      "seoTitle": "Gestion des chaînes — Espace archiviste",
+      "seoDescription": "Gérez l'ordre et le contenu des chaînes de télévision dans votre espace archiviste +2Télé.",
+      "new": "Nouvelle chaîne",
+      "searchPlaceholder": "Rechercher une chaîne…",
+      "empty": "Aucune chaîne trouvée",
+      "savingOrder": "Sauvegarde de l'ordre…",
+      "orderError": "Erreur lors de la sauvegarde de l'ordre",
+      "separatorBadge": "Séparateur",
+      "deleteConfirmTitle": "Supprimer cette chaîne ?",
+      "deleteConfirmDescription": "« {{name}} » sera définitivement supprimée. Cette action est irréversible.",
+      "deleteError": "Erreur lors de la suppression"
+    },
+    "form": {
+      "createTitle": "Nouvelle chaîne",
+      "editTitle": "Modifier — {{name}}",
+      "requiredHint": "Les champs marqués d'un astérisque (*) sont obligatoires.",
+      "tabs": {
+        "infos": "Infos",
+        "descriptions": "Descriptions",
+        "logos": "Logothèque",
+        "periods": "Périodes",
+        "history": "Historique",
+        "habillages": "Habillages"
+      },
+      "fields": {
+        "name": "Nom",
+        "status": "Statut",
+        "endedAt": "Date de fin",
+        "position": "Position",
+        "isSeparator": "Cette chaîne est un séparateur",
+        "colorPrimary": "Couleur primaire",
+        "country": "Pays",
+        "wikiLink": "Lien wiki",
+        "copyright": "Copyright",
+        "description": "Description courte (FR)",
+        "info": "Infos détaillées",
+        "descriptionLong": "Description longue (FR)"
+      },
+      "placeholders": {
+        "name": "Ex. France 2",
+        "description": "Description courte de la chaîne…",
+        "info": "Notes courtes, informations supplémentaires…",
+        "descriptionLong": "Histoire, détails, etc.",
+        "copyright": "Informations sur les droits d'auteur",
+        "wikiLink": "https://…"
+      },
+      "help": {
+        "isSeparator": "Un séparateur sert d'intertitre dans la liste : il n'a pas de page dédiée.",
+        "info": "HTML supporté",
+        "descriptionLong": "Markdown supporté",
+        "position": "Détermine l'ordre d'affichage dans la liste des chaînes.",
+        "endedAt": "Renseignez la date d'arrêt de la diffusion."
+      },
+      "status": {
+        "alive": "En vie",
+        "dead": "Morte / Terminée"
+      },
+      "position": {
+        "first": "1 — Au début",
+        "after": "{{position}} — Après {{name}}",
+        "auto": "Automatique (à la fin)"
+      },
+      "translations": {
+        "show": "Afficher les traductions",
+        "hide": "Masquer les traductions",
+        "name": "Nom",
+        "shortDescription": "Description courte",
+        "longDescription": "Description longue",
+        "completion": "{{done}}/{{total}} langues renseignées"
+      },
+      "validation": {
+        "summary": "Veuillez corriger les champs signalés.",
+        "nameRequired": "Le nom est obligatoire.",
+        "descriptionRequired": "La description courte est obligatoire.",
+        "endedAtRequired": "Indiquez la date de fin d'une chaîne terminée.",
+        "colorInvalid": "Couleur invalide (format attendu : #RRGGBB).",
+        "wikiLinkInvalid": "L'adresse doit commencer par http:// ou https://.",
+        "tooLong": "Maximum {{max}} caractères."
+      },
+      "unsaved": {
+        "title": "Modifications non enregistrées",
+        "description": "Vos modifications seront perdues si vous fermez maintenant.",
+        "stay": "Continuer l'édition",
+        "discard": "Fermer sans enregistrer"
+      },
+      "success": {
+        "created": "Chaîne créée avec succès.",
+        "updated": "Chaîne mise à jour avec succès."
+      },
+      "error": {
+        "generic": "Une erreur est survenue lors de la sauvegarde."
+      },
+      "preview": {
+        "noName": "Nom de la chaîne"
+      },
+      "charCount": "{{current}}/{{max}}"
+    },
+    "logos": {
+      "title": "Logothèque",
+      "count_one": "{{count}} logo",
+      "count_other": "{{count}} logos",
+      "empty": "Aucun logo pour cette chaîne",
+      "choose": "Choisir une image",
+      "noLabel": "Sans label",
+      "labelPlaceholder": "Label (ex. Logo 1992)",
+      "startYear": "Année de début",
+      "endYear": "Année de fin",
+      "upload": "Envoyer",
+      "deleteConfirm": "Supprimer ce logo ?",
+      "uploadError": "Erreur lors de l'envoi du logo",
+      "updateError": "Erreur lors de la modification du logo",
+      "deleteError": "Erreur lors de la suppression"
+    },
+    "periods": {
+      "title": "Historique",
+      "count_one": "{{count}} période",
+      "count_other": "{{count}} périodes",
+      "empty": "Aucune période renseignée",
+      "namePlaceholder": "Nom *",
+      "ownerPlaceholder": "Propriétaire (facultatif)",
+      "start": "Début",
+      "end": "Fin (vide = en cours)",
+      "descriptionPlaceholder": "Description / notes (facultatif)",
+      "logo": "Logo associé",
+      "present": "à présent",
+      "deleteConfirm": "Supprimer cette période ?",
+      "createError": "Erreur lors de la création de la période",
+      "updateError": "Erreur lors de la modification de la période",
+      "deleteError": "Erreur lors de la suppression"
+    },
+    "habillages": {
+      "title": "Familles d'habillages",
+      "count_one": "{{count}} famille",
+      "count_other": "{{count}} familles",
+      "empty": "Aucune famille d'habillage",
+      "namePlaceholder": "Nom *",
+      "versionPlaceholder": "Version (ex. v2, Révisée)",
+      "start": "Début",
+      "end": "Fin (vide = en cours)",
+      "descriptionPlaceholder": "Description / notes (facultatif)",
+      "color": "Couleur",
+      "present": "à présent",
+      "deleteConfirm": "Supprimer cette famille d'habillage ?",
+      "deleteConfirmNote": "Les archives associées ne seront pas supprimées.",
+      "createError": "Erreur lors de la création",
+      "updateError": "Erreur lors de la modification",
+      "deleteError": "Erreur lors de la suppression"
+    }
   }
 }

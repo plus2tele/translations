@@ -1094,5 +1094,166 @@
     "next": "Weiter",
     "availableIn": "Verfügbar in",
     "readingTime": "{{count}} Min. Lesezeit"
+  },
+  "channelAdmin": {
+    "actions": {
+      "add": "Hinzufügen",
+      "save": "Speichern",
+      "edit": "Bearbeiten",
+      "delete": "Löschen",
+      "reset": "Zurücksetzen",
+      "remove": "Entfernen"
+    },
+    "page": {
+      "title": "Senderverwaltung",
+      "subtitle": "Reihenfolge und Inhalt der Sender verwalten",
+      "seoTitle": "Senderverwaltung — Archivarsbereich",
+      "seoDescription": "Verwalte Reihenfolge und Inhalt der Fernsehsender in deinem +2Télé-Archivarsbereich.",
+      "new": "Neuer Sender",
+      "searchPlaceholder": "Sender suchen…",
+      "empty": "Kein Sender gefunden",
+      "savingOrder": "Reihenfolge wird gespeichert…",
+      "orderError": "Die Reihenfolge konnte nicht gespeichert werden",
+      "separatorBadge": "Trenner",
+      "deleteConfirmTitle": "Diesen Sender löschen?",
+      "deleteConfirmDescription": "„{{name}}“ wird endgültig gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.",
+      "deleteError": "Der Sender konnte nicht gelöscht werden"
+    },
+    "form": {
+      "createTitle": "Neuer Sender",
+      "editTitle": "Bearbeiten — {{name}}",
+      "requiredHint": "Mit einem Sternchen (*) markierte Felder sind Pflichtfelder.",
+      "tabs": {
+        "infos": "Infos",
+        "descriptions": "Beschreibungen",
+        "logos": "Logothek",
+        "periods": "Zeiträume",
+        "history": "Verlauf",
+        "habillages": "Designs"
+      },
+      "fields": {
+        "name": "Name",
+        "status": "Status",
+        "endedAt": "Enddatum",
+        "position": "Position",
+        "isSeparator": "Dieser Sender ist ein Trenner",
+        "colorPrimary": "Primärfarbe",
+        "country": "Land",
+        "wikiLink": "Wiki-Link",
+        "copyright": "Urheberrecht",
+        "description": "Kurzbeschreibung (FR)",
+        "info": "Detaillierte Infos",
+        "descriptionLong": "Lange Beschreibung (FR)"
+      },
+      "placeholders": {
+        "name": "z. B. France 2",
+        "description": "Kurzbeschreibung des Senders…",
+        "info": "Kurze Notizen, zusätzliche Informationen…",
+        "descriptionLong": "Geschichte, Details usw.",
+        "copyright": "Angaben zum Urheberrecht",
+        "wikiLink": "https://…"
+      },
+      "help": {
+        "isSeparator": "Ein Trenner dient als Überschrift in der Senderliste und hat keine eigene Seite.",
+        "info": "HTML wird unterstützt",
+        "descriptionLong": "Markdown wird unterstützt",
+        "position": "Bestimmt die Anzeigereihenfolge in der Senderliste.",
+        "endedAt": "Gib an, wann die Ausstrahlung eingestellt wurde."
+      },
+      "status": {
+        "alive": "Auf Sendung",
+        "dead": "Eingestellt"
+      },
+      "position": {
+        "first": "1 — Am Anfang",
+        "after": "{{position}} — Nach {{name}}",
+        "auto": "Automatisch (am Ende)"
+      },
+      "translations": {
+        "show": "Übersetzungen anzeigen",
+        "hide": "Übersetzungen ausblenden",
+        "name": "Name",
+        "shortDescription": "Kurzbeschreibung",
+        "longDescription": "Lange Beschreibung",
+        "completion": "{{done}}/{{total}} Sprachen ausgefüllt"
+      },
+      "validation": {
+        "summary": "Bitte korrigiere die markierten Felder.",
+        "nameRequired": "Der Name ist erforderlich.",
+        "descriptionRequired": "Die Kurzbeschreibung ist erforderlich.",
+        "endedAtRequired": "Gib das Enddatum eines eingestellten Senders an.",
+        "colorInvalid": "Ungültige Farbe (erwartetes Format: #RRGGBB).",
+        "wikiLinkInvalid": "Die Adresse muss mit http:// oder https:// beginnen.",
+        "tooLong": "Maximal {{max}} Zeichen."
+      },
+      "unsaved": {
+        "title": "Nicht gespeicherte Änderungen",
+        "description": "Deine Änderungen gehen verloren, wenn du jetzt schließt.",
+        "stay": "Weiter bearbeiten",
+        "discard": "Ohne Speichern schließen"
+      },
+      "success": {
+        "created": "Sender erfolgreich erstellt.",
+        "updated": "Sender erfolgreich aktualisiert."
+      },
+      "error": {
+        "generic": "Beim Speichern ist ein Fehler aufgetreten."
+      },
+      "preview": {
+        "noName": "Sendername"
+      },
+      "charCount": "{{current}}/{{max}}"
+    },
+    "logos": {
+      "title": "Logothek",
+      "count_one": "{{count}} Logo",
+      "count_other": "{{count}} Logos",
+      "empty": "Kein Logo für diesen Sender",
+      "choose": "Bild auswählen",
+      "noLabel": "Ohne Bezeichnung",
+      "labelPlaceholder": "Bezeichnung (z. B. Logo 1992)",
+      "startYear": "Startjahr",
+      "endYear": "Endjahr",
+      "upload": "Hochladen",
+      "deleteConfirm": "Dieses Logo löschen?",
+      "uploadError": "Das Logo konnte nicht hochgeladen werden",
+      "updateError": "Das Logo konnte nicht geändert werden",
+      "deleteError": "Das Logo konnte nicht gelöscht werden"
+    },
+    "periods": {
+      "title": "Verlauf",
+      "count_one": "{{count}} Zeitraum",
+      "count_other": "{{count}} Zeiträume",
+      "empty": "Kein Zeitraum erfasst",
+      "namePlaceholder": "Name *",
+      "ownerPlaceholder": "Eigentümer (optional)",
+      "start": "Beginn",
+      "end": "Ende (leer = laufend)",
+      "descriptionPlaceholder": "Beschreibung / Notizen (optional)",
+      "logo": "Zugeordnetes Logo",
+      "present": "heute",
+      "deleteConfirm": "Diesen Zeitraum löschen?",
+      "createError": "Der Zeitraum konnte nicht erstellt werden",
+      "updateError": "Der Zeitraum konnte nicht geändert werden",
+      "deleteError": "Der Zeitraum konnte nicht gelöscht werden"
+    },
+    "habillages": {
+      "title": "Design-Familien",
+      "count_one": "{{count}} Familie",
+      "count_other": "{{count}} Familien",
+      "empty": "Keine Design-Familie",
+      "namePlaceholder": "Name *",
+      "versionPlaceholder": "Version (z. B. v2, Überarbeitet)",
+      "start": "Beginn",
+      "end": "Ende (leer = laufend)",
+      "descriptionPlaceholder": "Beschreibung / Notizen (optional)",
+      "color": "Farbe",
+      "present": "heute",
+      "deleteConfirm": "Diese Design-Familie löschen?",
+      "deleteConfirmNote": "Die zugehörigen Archive werden nicht gelöscht.",
+      "createError": "Die Familie konnte nicht erstellt werden",
+      "updateError": "Die Familie konnte nicht geändert werden",
+      "deleteError": "Die Familie konnte nicht gelöscht werden"
+    }
   }
 }

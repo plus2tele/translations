@@ -1120,5 +1120,172 @@
     "next": "Następna",
     "availableIn": "Dostępne w",
     "readingTime": "{{count}} min czytania"
+  },
+  "channelAdmin": {
+    "actions": {
+      "add": "Dodaj",
+      "save": "Zapisz",
+      "edit": "Edytuj",
+      "delete": "Usuń",
+      "reset": "Zresetuj",
+      "remove": "Usuń"
+    },
+    "page": {
+      "title": "Zarządzanie kanałami",
+      "subtitle": "Zarządzaj kolejnością i treścią kanałów",
+      "seoTitle": "Zarządzanie kanałami — Strefa archiwisty",
+      "seoDescription": "Zarządzaj kolejnością i treścią kanałów telewizyjnych w swojej strefie archiwisty +2Télé.",
+      "new": "Nowy kanał",
+      "searchPlaceholder": "Szukaj kanału…",
+      "empty": "Nie znaleziono żadnego kanału",
+      "savingOrder": "Zapisywanie kolejności…",
+      "orderError": "Nie udało się zapisać kolejności",
+      "separatorBadge": "Separator",
+      "deleteConfirmTitle": "Usunąć ten kanał?",
+      "deleteConfirmDescription": "„{{name}}” zostanie trwale usunięty. Tej operacji nie można cofnąć.",
+      "deleteError": "Nie udało się usunąć kanału"
+    },
+    "form": {
+      "createTitle": "Nowy kanał",
+      "editTitle": "Edytuj — {{name}}",
+      "requiredHint": "Pola oznaczone gwiazdką (*) są wymagane.",
+      "tabs": {
+        "infos": "Informacje",
+        "descriptions": "Opisy",
+        "logos": "Logoteka",
+        "periods": "Okresy",
+        "history": "Historia",
+        "habillages": "Oprawy"
+      },
+      "fields": {
+        "name": "Nazwa",
+        "status": "Status",
+        "endedAt": "Data zakończenia",
+        "position": "Pozycja",
+        "isSeparator": "Ten kanał jest separatorem",
+        "colorPrimary": "Kolor główny",
+        "country": "Kraj",
+        "wikiLink": "Link do wiki",
+        "copyright": "Prawa autorskie",
+        "description": "Krótki opis (FR)",
+        "info": "Szczegółowe informacje",
+        "descriptionLong": "Długi opis (FR)"
+      },
+      "placeholders": {
+        "name": "Np. France 2",
+        "description": "Krótki opis kanału…",
+        "info": "Krótkie notatki, dodatkowe informacje…",
+        "descriptionLong": "Historia, szczegóły itp.",
+        "copyright": "Informacje o prawach autorskich",
+        "wikiLink": "https://…"
+      },
+      "help": {
+        "isSeparator": "Separator pełni rolę nagłówka na liście kanałów — nie ma własnej strony.",
+        "info": "Obsługuje HTML",
+        "descriptionLong": "Obsługuje Markdown",
+        "position": "Określa kolejność wyświetlania na liście kanałów.",
+        "endedAt": "Podaj datę zakończenia nadawania."
+      },
+      "status": {
+        "alive": "Nadaje",
+        "dead": "Zakończony"
+      },
+      "position": {
+        "first": "1 — Na początku",
+        "after": "{{position}} — Po {{name}}",
+        "auto": "Automatycznie (na końcu)"
+      },
+      "translations": {
+        "show": "Pokaż tłumaczenia",
+        "hide": "Ukryj tłumaczenia",
+        "name": "Nazwa",
+        "shortDescription": "Krótki opis",
+        "longDescription": "Długi opis",
+        "completion": "Wypełniono {{done}}/{{total}} języków"
+      },
+      "validation": {
+        "summary": "Popraw zaznaczone pola.",
+        "nameRequired": "Nazwa jest wymagana.",
+        "descriptionRequired": "Krótki opis jest wymagany.",
+        "endedAtRequired": "Podaj datę zakończenia dla kanału, który przestał nadawać.",
+        "colorInvalid": "Nieprawidłowy kolor (oczekiwany format: #RRGGBB).",
+        "wikiLinkInvalid": "Adres musi zaczynać się od http:// lub https://.",
+        "tooLong": "Maksymalnie {{max}} znaków."
+      },
+      "unsaved": {
+        "title": "Niezapisane zmiany",
+        "description": "Twoje zmiany zostaną utracone, jeśli teraz zamkniesz.",
+        "stay": "Kontynuuj edycję",
+        "discard": "Zamknij bez zapisywania"
+      },
+      "success": {
+        "created": "Kanał został utworzony.",
+        "updated": "Kanał został zaktualizowany."
+      },
+      "error": {
+        "generic": "Podczas zapisywania wystąpił błąd."
+      },
+      "preview": {
+        "noName": "Nazwa kanału"
+      },
+      "charCount": "{{current}}/{{max}}"
+    },
+    "logos": {
+      "title": "Logoteka",
+      "count_one": "{{count}} logo",
+      "count_few": "{{count}} logo",
+      "count_many": "{{count}} logo",
+      "count_other": "{{count}} logo",
+      "empty": "Brak logo dla tego kanału",
+      "choose": "Wybierz obraz",
+      "noLabel": "Bez etykiety",
+      "labelPlaceholder": "Etykieta (np. Logo 1992)",
+      "startYear": "Rok rozpoczęcia",
+      "endYear": "Rok zakończenia",
+      "upload": "Wyślij",
+      "deleteConfirm": "Usunąć to logo?",
+      "uploadError": "Nie udało się wysłać logo",
+      "updateError": "Nie udało się zmienić logo",
+      "deleteError": "Nie udało się usunąć logo"
+    },
+    "periods": {
+      "title": "Historia",
+      "count_one": "{{count}} okres",
+      "count_few": "{{count}} okresy",
+      "count_many": "{{count}} okresów",
+      "count_other": "{{count}} okresu",
+      "empty": "Nie zapisano żadnego okresu",
+      "namePlaceholder": "Nazwa *",
+      "ownerPlaceholder": "Właściciel (opcjonalnie)",
+      "start": "Początek",
+      "end": "Koniec (puste = trwa)",
+      "descriptionPlaceholder": "Opis / notatki (opcjonalnie)",
+      "logo": "Powiązane logo",
+      "present": "obecnie",
+      "deleteConfirm": "Usunąć ten okres?",
+      "createError": "Nie udało się utworzyć okresu",
+      "updateError": "Nie udało się zmienić okresu",
+      "deleteError": "Nie udało się usunąć okresu"
+    },
+    "habillages": {
+      "title": "Rodziny opraw",
+      "count_one": "{{count}} rodzina",
+      "count_few": "{{count}} rodziny",
+      "count_many": "{{count}} rodzin",
+      "count_other": "{{count}} rodziny",
+      "empty": "Brak rodzin opraw",
+      "namePlaceholder": "Nazwa *",
+      "versionPlaceholder": "Wersja (np. v2, Poprawiona)",
+      "start": "Początek",
+      "end": "Koniec (puste = trwa)",
+      "descriptionPlaceholder": "Opis / notatki (opcjonalnie)",
+      "color": "Kolor",
+      "present": "obecnie",
+      "deleteConfirm": "Usunąć tę rodzinę opraw?",
+      "deleteConfirmNote": "Powiązane archiwa nie zostaną usunięte.",
+      "createError": "Nie udało się utworzyć rodziny",
+      "updateError": "Nie udało się zmienić rodziny",
+      "deleteError": "Nie udało się usunąć rodziny"
+    }
   }
 }

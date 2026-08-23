@@ -1079,5 +1079,166 @@
     "next": "Próximo",
     "availableIn": "Disponível em",
     "readingTime": "{{count}} min de leitura"
+  },
+  "channelAdmin": {
+    "actions": {
+      "add": "Adicionar",
+      "save": "Guardar",
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "reset": "Repor",
+      "remove": "Remover"
+    },
+    "page": {
+      "title": "Gestão de canais",
+      "subtitle": "Faça a gestão da ordem e do conteúdo dos canais",
+      "seoTitle": "Gestão de canais — Área de arquivista",
+      "seoDescription": "Faça a gestão da ordem e do conteúdo dos canais de televisão na sua área de arquivista +2Télé.",
+      "new": "Novo canal",
+      "searchPlaceholder": "Procurar um canal…",
+      "empty": "Nenhum canal encontrado",
+      "savingOrder": "A guardar a ordem…",
+      "orderError": "Não foi possível guardar a ordem",
+      "separatorBadge": "Separador",
+      "deleteConfirmTitle": "Eliminar este canal?",
+      "deleteConfirmDescription": "«{{name}}» será eliminado definitivamente. Esta ação é irreversível.",
+      "deleteError": "Não foi possível eliminar o canal"
+    },
+    "form": {
+      "createTitle": "Novo canal",
+      "editTitle": "Editar — {{name}}",
+      "requiredHint": "Os campos marcados com um asterisco (*) são obrigatórios.",
+      "tabs": {
+        "infos": "Informações",
+        "descriptions": "Descrições",
+        "logos": "Logoteca",
+        "periods": "Períodos",
+        "history": "Histórico",
+        "habillages": "Identidades"
+      },
+      "fields": {
+        "name": "Nome",
+        "status": "Estado",
+        "endedAt": "Data de fim",
+        "position": "Posição",
+        "isSeparator": "Este canal é um separador",
+        "colorPrimary": "Cor principal",
+        "country": "País",
+        "wikiLink": "Ligação wiki",
+        "copyright": "Direitos de autor",
+        "description": "Descrição curta (FR)",
+        "info": "Informações detalhadas",
+        "descriptionLong": "Descrição longa (FR)"
+      },
+      "placeholders": {
+        "name": "Ex.: France 2",
+        "description": "Descrição curta do canal…",
+        "info": "Notas breves, informações adicionais…",
+        "descriptionLong": "História, detalhes, etc.",
+        "copyright": "Informações sobre os direitos de autor",
+        "wikiLink": "https://…"
+      },
+      "help": {
+        "isSeparator": "Um separador serve de título na lista de canais: não tem página própria.",
+        "info": "Suporta HTML",
+        "descriptionLong": "Suporta Markdown",
+        "position": "Determina a ordem de apresentação na lista de canais.",
+        "endedAt": "Indique a data em que a emissão terminou."
+      },
+      "status": {
+        "alive": "No ar",
+        "dead": "Encerrado"
+      },
+      "position": {
+        "first": "1 — No início",
+        "after": "{{position}} — Depois de {{name}}",
+        "auto": "Automática (no fim)"
+      },
+      "translations": {
+        "show": "Mostrar as traduções",
+        "hide": "Ocultar as traduções",
+        "name": "Nome",
+        "shortDescription": "Descrição curta",
+        "longDescription": "Descrição longa",
+        "completion": "{{done}}/{{total}} idiomas preenchidos"
+      },
+      "validation": {
+        "summary": "Corrija os campos assinalados.",
+        "nameRequired": "O nome é obrigatório.",
+        "descriptionRequired": "A descrição curta é obrigatória.",
+        "endedAtRequired": "Indique a data de fim de um canal encerrado.",
+        "colorInvalid": "Cor inválida (formato esperado: #RRGGBB).",
+        "wikiLinkInvalid": "O endereço deve começar por http:// ou https://.",
+        "tooLong": "Máximo de {{max}} caracteres."
+      },
+      "unsaved": {
+        "title": "Alterações não guardadas",
+        "description": "As suas alterações serão perdidas se fechar agora.",
+        "stay": "Continuar a editar",
+        "discard": "Fechar sem guardar"
+      },
+      "success": {
+        "created": "Canal criado com sucesso.",
+        "updated": "Canal atualizado com sucesso."
+      },
+      "error": {
+        "generic": "Ocorreu um erro ao guardar."
+      },
+      "preview": {
+        "noName": "Nome do canal"
+      },
+      "charCount": "{{current}}/{{max}}"
+    },
+    "logos": {
+      "title": "Logoteca",
+      "count_one": "{{count}} logótipo",
+      "count_other": "{{count}} logótipos",
+      "empty": "Nenhum logótipo para este canal",
+      "choose": "Escolher uma imagem",
+      "noLabel": "Sem etiqueta",
+      "labelPlaceholder": "Etiqueta (ex.: Logo 1992)",
+      "startYear": "Ano de início",
+      "endYear": "Ano de fim",
+      "upload": "Enviar",
+      "deleteConfirm": "Eliminar este logótipo?",
+      "uploadError": "Não foi possível enviar o logótipo",
+      "updateError": "Não foi possível alterar o logótipo",
+      "deleteError": "Não foi possível eliminar o logótipo"
+    },
+    "periods": {
+      "title": "Histórico",
+      "count_one": "{{count}} período",
+      "count_other": "{{count}} períodos",
+      "empty": "Nenhum período registado",
+      "namePlaceholder": "Nome *",
+      "ownerPlaceholder": "Proprietário (opcional)",
+      "start": "Início",
+      "end": "Fim (vazio = em curso)",
+      "descriptionPlaceholder": "Descrição / notas (opcional)",
+      "logo": "Logótipo associado",
+      "present": "atualidade",
+      "deleteConfirm": "Eliminar este período?",
+      "createError": "Não foi possível criar o período",
+      "updateError": "Não foi possível alterar o período",
+      "deleteError": "Não foi possível eliminar o período"
+    },
+    "habillages": {
+      "title": "Famílias de identidade",
+      "count_one": "{{count}} família",
+      "count_other": "{{count}} famílias",
+      "empty": "Nenhuma família de identidade",
+      "namePlaceholder": "Nome *",
+      "versionPlaceholder": "Versão (ex.: v2, Revista)",
+      "start": "Início",
+      "end": "Fim (vazio = em curso)",
+      "descriptionPlaceholder": "Descrição / notas (opcional)",
+      "color": "Cor",
+      "present": "atualidade",
+      "deleteConfirm": "Eliminar esta família de identidade?",
+      "deleteConfirmNote": "Os arquivos associados não serão eliminados.",
+      "createError": "Não foi possível criar a família",
+      "updateError": "Não foi possível alterar a família",
+      "deleteError": "Não foi possível eliminar a família"
+    }
   }
 }
