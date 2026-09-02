@@ -3,12 +3,33 @@
         "defaultDescription": "Rediscover the treasures of television through our archive collection."
     },
     "facets": {
-        "channelType": { "title": "{{channel}} {{type}}", "description": "All {{type}} from {{channel}} — {{count}} archive videos to rewatch on +2Télé." },
-        "channelYear": { "title": "{{channel}} in {{year}}", "description": "{{channel}} archives broadcast in {{year}}: idents, station branding, adverts. {{count}} videos." },
-        "typeHub": { "title": "{{type}}", "description": "All {{type}} from French, European and international television. {{count}} archive videos." },
-        "yearHub": { "title": "Television in {{year}}", "description": "Relive {{year}} television: idents, station branding, adverts and shows. {{count}} archive videos." },
-        "habillage": { "title": "{{name}} branding — {{channel}}", "description": "The “{{name}}” on-air branding of {{channel}} ({{years}}): idents, jingles and archives. {{count}} videos." },
-        "browse": { "byChannel": "By channel", "byType": "By type", "byYear": "By year", "byHabillage": "Branding", "viewHabillage": "Explore by branding" }
+        "channelType": {
+            "title": "{{channel}} {{type}}",
+            "description": "All {{type}} from {{channel}} — {{count}} archive videos to rewatch on +2Télé."
+        },
+        "channelYear": {
+            "title": "{{channel}} in {{year}}",
+            "description": "{{channel}} archives broadcast in {{year}}: idents, station branding, adverts. {{count}} videos."
+        },
+        "typeHub": {
+            "title": "{{type}}",
+            "description": "All {{type}} from French, European and international television. {{count}} archive videos."
+        },
+        "yearHub": {
+            "title": "Television in {{year}}",
+            "description": "Relive {{year}} television: idents, station branding, adverts and shows. {{count}} archive videos."
+        },
+        "habillage": {
+            "title": "{{name}} branding — {{channel}}",
+            "description": "The “{{name}}” on-air branding of {{channel}} ({{years}}): idents, jingles and archives. {{count}} videos."
+        },
+        "browse": {
+            "byChannel": "By channel",
+            "byType": "By type",
+            "byYear": "By year",
+            "byHabillage": "Branding",
+            "viewHabillage": "Explore by branding"
+        }
     },
     "common": {
         "loading": "Loading...",
@@ -330,7 +351,8 @@
     "filters": {
         "advanced": "Advanced filters",
         "applied": "Applied filters :",
-        "clear": "Clear filters", "reset": "Reset",
+        "clear": "Clear filters",
+        "reset": "Reset",
         "results": "Search results",
         "allArchives": "All archives",
         "country": {
@@ -590,7 +612,7 @@
     },
     "archivist": {
         "title": "Archivist space",
-        "description": "Access to your archivist space to manage, add and edit your television archives contributions on the +2Télé platform.",
+        "description": "Access your archivist space to manage, add and edit your television archives contributions on the +2Télé platform.",
         "become": "Become an archivist",
         "nav": {
             "stats": "Home",
@@ -869,7 +891,7 @@
     },
     "community": {
         "title": "Community Guidelines",
-        "description": "Consult the charter of the +2Télé Community: Rules and guidelines for maintaing a respectful and welcoming environment for all televisions passionates.",
+        "description": "Consult the +2Télé community charter: Rules and guidelines for maintaing a respectful and welcoming environment for all televisions passionates.",
         "intro": "To maintain a welcoming and constructive environment, we have established rules that all members must respect during their interactions on +2Télé.",
         "rules": {
             "title": "Community Rules",
@@ -1131,165 +1153,165 @@
         "availableIn": "Available in",
         "readingTime": "{{count}} min read"
     },
-  "channelAdmin": {
-    "actions": {
-      "add": "Add",
-      "save": "Save",
-      "edit": "Edit",
-      "delete": "Delete",
-      "reset": "Reset",
-      "remove": "Remove"
-    },
-    "page": {
-      "title": "Channel management",
-      "subtitle": "Manage the order and content of channels",
-      "seoTitle": "Channel management — Archivist area",
-      "seoDescription": "Manage the order and content of TV channels in your +2Télé archivist area.",
-      "new": "New channel",
-      "searchPlaceholder": "Search for a channel…",
-      "empty": "No channel found",
-      "savingOrder": "Saving order…",
-      "orderError": "Could not save the new order",
-      "separatorBadge": "Separator",
-      "deleteConfirmTitle": "Delete this channel?",
-      "deleteConfirmDescription": "“{{name}}” will be permanently deleted. This action cannot be undone.",
-      "deleteError": "Could not delete the channel"
-    },
-    "form": {
-      "createTitle": "New channel",
-      "editTitle": "Edit — {{name}}",
-      "requiredHint": "Fields marked with an asterisk (*) are required.",
-      "tabs": {
-        "infos": "Info",
-        "descriptions": "Descriptions",
-        "logos": "Logo library",
-        "periods": "Periods",
-        "history": "History",
-        "habillages": "Idents"
-      },
-      "fields": {
-        "name": "Name",
-        "status": "Status",
-        "endedAt": "End date",
-        "position": "Position",
-        "isSeparator": "This channel is a separator",
-        "colorPrimary": "Primary colour",
-        "country": "Country",
-        "wikiLink": "Wiki link",
-        "copyright": "Copyright",
-        "description": "Short description (FR)",
-        "info": "Detailed info",
-        "descriptionLong": "Long description (FR)"
-      },
-      "placeholders": {
-        "name": "E.g. France 2",
-        "description": "Short description of the channel…",
-        "info": "Brief notes, additional information…",
-        "descriptionLong": "History, details, etc.",
-        "copyright": "Copyright information",
-        "wikiLink": "https://…"
-      },
-      "help": {
-        "isSeparator": "A separator acts as a heading in the channel list: it has no page of its own.",
-        "info": "HTML supported",
-        "descriptionLong": "Markdown supported",
-        "position": "Determines the display order in the channel list.",
-        "endedAt": "Enter the date broadcasting stopped."
-      },
-      "status": {
-        "alive": "On air",
-        "dead": "Closed down"
-      },
-      "position": {
-        "first": "1 — At the top",
-        "after": "{{position}} — After {{name}}",
-        "auto": "Automatic (at the end)"
-      },
-      "translations": {
-        "show": "Show translations",
-        "hide": "Hide translations",
-        "name": "Name",
-        "shortDescription": "Short description",
-        "longDescription": "Long description",
-        "completion": "{{done}}/{{total}} languages filled in"
-      },
-      "validation": {
-        "summary": "Please correct the highlighted fields.",
-        "nameRequired": "Name is required.",
-        "descriptionRequired": "Short description is required.",
-        "endedAtRequired": "Please give an end date for a closed-down channel.",
-        "colorInvalid": "Invalid colour (expected format: #RRGGBB).",
-        "wikiLinkInvalid": "The address must start with http:// or https://.",
-        "tooLong": "Maximum {{max}} characters."
-      },
-      "unsaved": {
-        "title": "Unsaved changes",
-        "description": "Your changes will be lost if you close now.",
-        "stay": "Keep editing",
-        "discard": "Close without saving"
-      },
-      "success": {
-        "created": "Channel created successfully.",
-        "updated": "Channel updated successfully."
-      },
-      "error": {
-        "generic": "Something went wrong while saving."
-      },
-      "preview": {
-        "noName": "Channel name"
-      },
-      "charCount": "{{current}}/{{max}}"
-    },
-    "logos": {
-      "title": "Logo library",
-      "count_one": "{{count}} logo",
-      "count_other": "{{count}} logos",
-      "empty": "No logo for this channel",
-      "choose": "Choose an image",
-      "noLabel": "No label",
-      "labelPlaceholder": "Label (e.g. Logo 1992)",
-      "startYear": "Start year",
-      "endYear": "End year",
-      "upload": "Upload",
-      "deleteConfirm": "Delete this logo?",
-      "uploadError": "Could not upload the logo",
-      "updateError": "Could not update the logo",
-      "deleteError": "Could not delete the logo"
-    },
-    "periods": {
-      "title": "History",
-      "count_one": "{{count}} period",
-      "count_other": "{{count}} periods",
-      "empty": "No period recorded",
-      "namePlaceholder": "Name *",
-      "ownerPlaceholder": "Owner (optional)",
-      "start": "Start",
-      "end": "End (empty = ongoing)",
-      "descriptionPlaceholder": "Description / notes (optional)",
-      "logo": "Linked logo",
-      "present": "present",
-      "deleteConfirm": "Delete this period?",
-      "createError": "Could not create the period",
-      "updateError": "Could not update the period",
-      "deleteError": "Could not delete the period"
-    },
-    "habillages": {
-      "title": "Ident families",
-      "count_one": "{{count}} family",
-      "count_other": "{{count}} families",
-      "empty": "No ident family",
-      "namePlaceholder": "Name *",
-      "versionPlaceholder": "Version (e.g. v2, Revised)",
-      "start": "Start",
-      "end": "End (empty = ongoing)",
-      "descriptionPlaceholder": "Description / notes (optional)",
-      "color": "Colour",
-      "present": "present",
-      "deleteConfirm": "Delete this ident family?",
-      "deleteConfirmNote": "The linked archives will not be deleted.",
-      "createError": "Could not create the family",
-      "updateError": "Could not update the family",
-      "deleteError": "Could not delete the family"
+    "channelAdmin": {
+        "actions": {
+            "add": "Add",
+            "save": "Save",
+            "edit": "Edit",
+            "delete": "Delete",
+            "reset": "Reset",
+            "remove": "Remove"
+        },
+        "page": {
+            "title": "Channel management",
+            "subtitle": "Manage the order and content of channels",
+            "seoTitle": "Channel management — Archivist area",
+            "seoDescription": "Manage the order and content of TV channels in your +2Télé archivist area.",
+            "new": "New channel",
+            "searchPlaceholder": "Search for a channel…",
+            "empty": "No channel found",
+            "savingOrder": "Saving order…",
+            "orderError": "Could not save the new order",
+            "separatorBadge": "Separator",
+            "deleteConfirmTitle": "Delete this channel?",
+            "deleteConfirmDescription": "“{{name}}” will be permanently deleted. This action cannot be undone.",
+            "deleteError": "Could not delete the channel"
+        },
+        "form": {
+            "createTitle": "New channel",
+            "editTitle": "Edit — {{name}}",
+            "requiredHint": "Fields marked with an asterisk (*) are required.",
+            "tabs": {
+                "infos": "Info",
+                "descriptions": "Descriptions",
+                "logos": "Logo library",
+                "periods": "Periods",
+                "history": "History",
+                "habillages": "Idents"
+            },
+            "fields": {
+                "name": "Name",
+                "status": "Status",
+                "endedAt": "End date",
+                "position": "Position",
+                "isSeparator": "This channel is a separator",
+                "colorPrimary": "Primary colour",
+                "country": "Country",
+                "wikiLink": "Wiki link",
+                "copyright": "Copyright",
+                "description": "Short description (FR)",
+                "info": "Detailed info",
+                "descriptionLong": "Long description (FR)"
+            },
+            "placeholders": {
+                "name": "E.g. France 2",
+                "description": "Short description of the channel…",
+                "info": "Brief notes, additional information…",
+                "descriptionLong": "History, details, etc.",
+                "copyright": "Copyright information",
+                "wikiLink": "https://…"
+            },
+            "help": {
+                "isSeparator": "A separator acts as a heading in the channel list: it has no page of its own.",
+                "info": "HTML supported",
+                "descriptionLong": "Markdown supported",
+                "position": "Determines the display order in the channel list.",
+                "endedAt": "Enter the date broadcasting stopped."
+            },
+            "status": {
+                "alive": "On air",
+                "dead": "Closed down"
+            },
+            "position": {
+                "first": "1 — At the top",
+                "after": "{{position}} — After {{name}}",
+                "auto": "Automatic (at the end)"
+            },
+            "translations": {
+                "show": "Show translations",
+                "hide": "Hide translations",
+                "name": "Name",
+                "shortDescription": "Short description",
+                "longDescription": "Long description",
+                "completion": "{{done}}/{{total}} languages filled in"
+            },
+            "validation": {
+                "summary": "Please correct the highlighted fields.",
+                "nameRequired": "Name is required.",
+                "descriptionRequired": "Short description is required.",
+                "endedAtRequired": "Please give an end date for a closed-down channel.",
+                "colorInvalid": "Invalid colour (expected format: #RRGGBB).",
+                "wikiLinkInvalid": "The address must start with http:// or https://.",
+                "tooLong": "Maximum {{max}} characters."
+            },
+            "unsaved": {
+                "title": "Unsaved changes",
+                "description": "Your changes will be lost if you close now.",
+                "stay": "Keep editing",
+                "discard": "Close without saving"
+            },
+            "success": {
+                "created": "Channel created successfully.",
+                "updated": "Channel updated successfully."
+            },
+            "error": {
+                "generic": "Something went wrong while saving."
+            },
+            "preview": {
+                "noName": "Channel name"
+            },
+            "charCount": "{{current}}/{{max}}"
+        },
+        "logos": {
+            "title": "Logo library",
+            "count_one": "{{count}} logo",
+            "count_other": "{{count}} logos",
+            "empty": "No logo for this channel",
+            "choose": "Choose an image",
+            "noLabel": "No label",
+            "labelPlaceholder": "Label (e.g. Logo 1992)",
+            "startYear": "Start year",
+            "endYear": "End year",
+            "upload": "Upload",
+            "deleteConfirm": "Delete this logo?",
+            "uploadError": "Could not upload the logo",
+            "updateError": "Could not update the logo",
+            "deleteError": "Could not delete the logo"
+        },
+        "periods": {
+            "title": "History",
+            "count_one": "{{count}} period",
+            "count_other": "{{count}} periods",
+            "empty": "No period recorded",
+            "namePlaceholder": "Name *",
+            "ownerPlaceholder": "Owner (optional)",
+            "start": "Start",
+            "end": "End (empty = ongoing)",
+            "descriptionPlaceholder": "Description / notes (optional)",
+            "logo": "Linked logo",
+            "present": "present",
+            "deleteConfirm": "Delete this period?",
+            "createError": "Could not create the period",
+            "updateError": "Could not update the period",
+            "deleteError": "Could not delete the period"
+        },
+        "habillages": {
+            "title": "Ident families",
+            "count_one": "{{count}} family",
+            "count_other": "{{count}} families",
+            "empty": "No ident family",
+            "namePlaceholder": "Name *",
+            "versionPlaceholder": "Version (e.g. v2, Revised)",
+            "start": "Start",
+            "end": "End (empty = ongoing)",
+            "descriptionPlaceholder": "Description / notes (optional)",
+            "color": "Colour",
+            "present": "present",
+            "deleteConfirm": "Delete this ident family?",
+            "deleteConfirmNote": "The linked archives will not be deleted.",
+            "createError": "Could not create the family",
+            "updateError": "Could not update the family",
+            "deleteError": "Could not delete the family"
+        }
     }
-  }
 }
