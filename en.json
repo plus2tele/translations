@@ -431,6 +431,7 @@
         "userArchives": "{{username}}'s archives",
         "archivesCount": "{{count}} archives total",
         "noArchives": "No archives published yet",
+        "noComments": "No comments have been posted yet",
         "publicDescription": "{{username}}'s profile on +2Télé",
         "socialLinks": {
             "title": "Social links",

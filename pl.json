@@ -404,6 +404,7 @@
     "userArchives": "Archiwa {{username}}",
     "archivesCount": "{{count}} archiwów łącznie",
     "noArchives": "Brak archiwów na ten moment",
+    "noComments": "Na razie nie opublikowano żadnych komentarzy",
     "publicDescription": "Profil użytkownika {{username}} na +2Télé",
     "socialLinks": {
       "title": "Linki społecznościowe",

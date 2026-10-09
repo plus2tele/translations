@@ -404,6 +404,7 @@
     "userArchives": "Arhivele lui {{username}}",
     "archivesCount": "{{count}} arhive în total",
     "noArchives": "Încă nu au fost publicate arhive",
+    "noComments": "Nu s-a publicat încă niciun comentariu",
     "publicDescription": "Profilul lui {{username}} pe +2Télé",
     "socialLinks": {
       "title": "Linkuri sociale",
