@@ -3,11 +3,11 @@
     "defaultDescription": "Entdecke die Schätze des Fernsehens in unserer Archivsammlung neu."
   },
   "facets": {
-    "channelType": { "title": "{{type}} von {{channel}}", "description": "Alle {{type}} von {{channel}} — {{count}} Archivvideos zum Wiederansehen auf +2Télé." },
+    "channelType": { "title": "{{type}} von {{channel}}", "description": "Alle {{type}} von {{channel}} - {{count}} Archivvideos zum Wiederansehen auf +2Télé." },
     "channelYear": { "title": "{{channel}} im Jahr {{year}}", "description": "Archive von {{channel}} aus dem Jahr {{year}}: Vorspänne, Senderdesign, Werbung. {{count}} Videos." },
     "typeHub": { "title": "{{type}}", "description": "Alle {{type}} des französischen, europäischen und internationalen Fernsehens. {{count}} Archivvideos." },
     "yearHub": { "title": "Das Fernsehen im Jahr {{year}}", "description": "Erlebe das Fernsehen von {{year}}: Vorspänne, Senderdesign, Werbung und Sendungen. {{count}} Archivvideos." },
-    "habillage": { "title": "Design {{name}} — {{channel}}", "description": "Das On-Air-Design „{{name}}“ von {{channel}} ({{years}}): Vorspänne, Jingles und Archive. {{count}} Videos." },
+    "habillage": { "title": "Design {{name}} - {{channel}}", "description": "Das On-Air-Design „{{name}}“ von {{channel}} ({{years}}): Vorspänne, Jingles und Archive. {{count}} Videos." },
     "browse": { "byChannel": "Nach Sender", "byType": "Nach Typ", "byYear": "Nach Jahr", "byHabillage": "Senderdesign", "viewHabillage": "Nach Design erkunden" }
   },
   "common": {
@@ -211,8 +211,8 @@
       "linkCopied": "Link in die Zwischenablage kopiert!"
     },
     "watchTitle": "Schau {{title}} ({{year}}) auf {{channel}}. Entdecke das Archiv bei +2Télé.",
-    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
-    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "seoTitle": "{{title}} - {{type}} {{channel}} ({{year}})",
+    "seoTitleGeneric": "{{channel}} - {{type}} {{year}}",
     "loadingTitle": "Video",
     "adultWarning": {
       "title": "Sensible Inhalte",
@@ -656,7 +656,7 @@
         "description": "Details zu diesem Archivinhalt",
         "copyright": "Urheberrechtsinformationen",
         "select": "Auswählen...",
-        "noCollection": "— Keine Sammlung —",
+        "noCollection": "- Keine Sammlung -",
         "searchCollection": "Sammlung suchen..."
       },
       "adultContent": {
@@ -1108,7 +1108,7 @@
     "page": {
       "title": "Senderverwaltung",
       "subtitle": "Reihenfolge und Inhalt der Sender verwalten",
-      "seoTitle": "Senderverwaltung — Archivarsbereich",
+      "seoTitle": "Senderverwaltung - Archivarsbereich",
       "seoDescription": "Verwalte Reihenfolge und Inhalt der Fernsehsender in deinem +2Télé-Archivarsbereich.",
       "new": "Neuer Sender",
       "searchPlaceholder": "Sender suchen…",
@@ -1122,7 +1122,7 @@
     },
     "form": {
       "createTitle": "Neuer Sender",
-      "editTitle": "Bearbeiten — {{name}}",
+      "editTitle": "Bearbeiten - {{name}}",
       "requiredHint": "Mit einem Sternchen (*) markierte Felder sind Pflichtfelder.",
       "tabs": {
         "infos": "Infos",
@@ -1166,8 +1166,8 @@
         "dead": "Eingestellt"
       },
       "position": {
-        "first": "1 — Am Anfang",
-        "after": "{{position}} — Nach {{name}}",
+        "first": "1 - Am Anfang",
+        "after": "{{position}} - Nach {{name}}",
         "auto": "Automatisch (am Ende)"
       },
       "translations": {

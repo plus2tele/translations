@@ -3,11 +3,11 @@
     "defaultDescription": "Redescubre los tesoros de la televisión a través de nuestra colección de archivos."
   },
   "facets": {
-    "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos los {{type}} de {{channel}} — {{count}} vídeos de archivo para volver a ver en +2Télé." },
+    "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos los {{type}} de {{channel}} - {{count}} vídeos de archivo para volver a ver en +2Télé." },
     "channelYear": { "title": "{{channel}} en {{year}}", "description": "Archivos de {{channel}} emitidos en {{year}}: cabeceras, identidad gráfica, anuncios. {{count}} vídeos." },
     "typeHub": { "title": "{{type}}", "description": "Todos los {{type}} de la televisión francesa, europea e internacional. {{count}} vídeos de archivo." },
     "yearHub": { "title": "La televisión en {{year}}", "description": "Revive la televisión de {{year}}: cabeceras, identidad gráfica, anuncios y programas. {{count}} vídeos de archivo." },
-    "habillage": { "title": "Identidad {{name}} — {{channel}}", "description": "La identidad gráfica «{{name}}» de {{channel}} ({{years}}): cabeceras, sintonías y archivos. {{count}} vídeos." },
+    "habillage": { "title": "Identidad {{name}} - {{channel}}", "description": "La identidad gráfica «{{name}}» de {{channel}} ({{years}}): cabeceras, sintonías y archivos. {{count}} vídeos." },
     "browse": { "byChannel": "Por canal", "byType": "Por tipo", "byYear": "Por año", "byHabillage": "Identidades", "viewHabillage": "Explorar por identidad" }
   },
   "common": {
@@ -205,8 +205,8 @@
       }
     },
     "watchTitle": "Ver {{title}} ({{year}}) en {{channel}}. Descubre este archivo en +2Télé.",
-    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
-    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "seoTitle": "{{title}} - {{type}} {{channel}} ({{year}})",
+    "seoTitleGeneric": "{{channel}} - {{type}} {{year}}",
     "loadingTitle": "Vídeo",
     "edit": "Editar",
     "adultWarning": {
@@ -644,7 +644,7 @@
         "description": "Detalles sobre este archivo",
         "copyright": "Información de derechos de autor",
         "select": "Seleccionar...",
-        "noCollection": "— Sin colección —",
+        "noCollection": "- Sin colección -",
         "searchCollection": "Buscar una colección..."
       },
       "adultContent": {
@@ -1053,7 +1053,7 @@
     "page": {
       "title": "Gestión de canales",
       "subtitle": "Gestiona el orden y el contenido de los canales",
-      "seoTitle": "Gestión de canales — Espacio archivista",
+      "seoTitle": "Gestión de canales - Espacio archivista",
       "seoDescription": "Gestiona el orden y el contenido de los canales de televisión en tu espacio archivista de +2Télé.",
       "new": "Nuevo canal",
       "searchPlaceholder": "Buscar un canal…",
@@ -1067,7 +1067,7 @@
     },
     "form": {
       "createTitle": "Nuevo canal",
-      "editTitle": "Editar — {{name}}",
+      "editTitle": "Editar - {{name}}",
       "requiredHint": "Los campos marcados con un asterisco (*) son obligatorios.",
       "tabs": {
         "infos": "Información",
@@ -1111,8 +1111,8 @@
         "dead": "Cerrado"
       },
       "position": {
-        "first": "1 — Al principio",
-        "after": "{{position}} — Después de {{name}}",
+        "first": "1 - Al principio",
+        "after": "{{position}} - Después de {{name}}",
         "auto": "Automática (al final)"
       },
       "translations": {

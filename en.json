@@ -5,7 +5,7 @@
     "facets": {
         "channelType": {
             "title": "{{channel}} {{type}}",
-            "description": "All {{type}} from {{channel}} — {{count}} archive videos to rewatch on +2Télé."
+            "description": "All {{type}} from {{channel}} - {{count}} archive videos to rewatch on +2Télé."
         },
         "channelYear": {
             "title": "{{channel}} in {{year}}",
@@ -20,7 +20,7 @@
             "description": "Relive {{year}} television: idents, station branding, adverts and shows. {{count}} archive videos."
         },
         "habillage": {
-            "title": "{{name}} branding — {{channel}}",
+            "title": "{{name}} branding - {{channel}}",
             "description": "The “{{name}}” on-air branding of {{channel}} ({{years}}): idents, jingles and archives. {{count}} videos."
         },
         "browse": {
@@ -227,8 +227,8 @@
             "linkCopied": "Link copied to clipboard!"
         },
         "watchTitle": "Watch {{title}} ({{year}}) on {{channel}}. Discover this archive on +2Télé.",
-        "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
-        "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+        "seoTitle": "{{title}} - {{type}} {{channel}} ({{year}})",
+        "seoTitleGeneric": "{{channel}} - {{type}} {{year}}",
         "loadingTitle": "Video",
         "adultWarning": {
             "title": "Sensitive Content",
@@ -703,7 +703,7 @@
                 "description": "Details concerning this archive",
                 "copyright": "Copyright information",
                 "select": "Select...",
-                "noCollection": "— No collection —",
+                "noCollection": "- No collection -",
                 "searchCollection": "Search a collection..."
             },
             "adultContent": {
@@ -1166,7 +1166,7 @@
         "page": {
             "title": "Channel management",
             "subtitle": "Manage the order and content of channels",
-            "seoTitle": "Channel management — Archivist area",
+            "seoTitle": "Channel management - Archivist area",
             "seoDescription": "Manage the order and content of TV channels in your +2Télé archivist area.",
             "new": "New channel",
             "searchPlaceholder": "Search for a channel…",
@@ -1180,7 +1180,7 @@
         },
         "form": {
             "createTitle": "New channel",
-            "editTitle": "Edit — {{name}}",
+            "editTitle": "Edit - {{name}}",
             "requiredHint": "Fields marked with an asterisk (*) are required.",
             "tabs": {
                 "infos": "Info",
@@ -1224,8 +1224,8 @@
                 "dead": "Closed down"
             },
             "position": {
-                "first": "1 — At the top",
-                "after": "{{position}} — After {{name}}",
+                "first": "1 - At the top",
+                "after": "{{position}} - After {{name}}",
                 "auto": "Automatic (at the end)"
             },
             "translations": {

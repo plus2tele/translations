@@ -3,11 +3,11 @@
     "defaultDescription": "Redescoperă comorile televiziunii prin colecția noastră de arhive."
   },
   "facets": {
-    "channelType": { "title": "{{type}} de la {{channel}}", "description": "Toate {{type}} de la {{channel}} — {{count}} videoclipuri de arhivă de revăzut pe +2Télé." },
+    "channelType": { "title": "{{type}} de la {{channel}}", "description": "Toate {{type}} de la {{channel}} - {{count}} videoclipuri de arhivă de revăzut pe +2Télé." },
     "channelYear": { "title": "{{channel}} în {{year}}", "description": "Arhivele {{channel}} difuzate în {{year}}: generice, identitate vizuală, reclame. {{count}} videoclipuri." },
     "typeHub": { "title": "{{type}}", "description": "Toate {{type}} din televiziunea franceză, europeană și internațională. {{count}} videoclipuri de arhivă." },
     "yearHub": { "title": "Televiziunea în {{year}}", "description": "Retrăiește televiziunea din {{year}}: generice, identitate vizuală, reclame și emisiuni. {{count}} videoclipuri de arhivă." },
-    "habillage": { "title": "Identitate {{name}} — {{channel}}", "description": "Identitatea vizuală „{{name}}” a {{channel}} ({{years}}): generice, jingle-uri și arhive. {{count}} videoclipuri." },
+    "habillage": { "title": "Identitate {{name}} - {{channel}}", "description": "Identitatea vizuală „{{name}}” a {{channel}} ({{years}}): generice, jingle-uri și arhive. {{count}} videoclipuri." },
     "browse": { "byChannel": "După canal", "byType": "După tip", "byYear": "După an", "byHabillage": "Identități", "viewHabillage": "Explorează după identitate" }
   },
   "common": {
@@ -205,8 +205,8 @@
       "linkCopied": "Link copiat în clipboard!"
     },
     "watchTitle": "Urmărește {{title}} {{year}} pe {{channel}}. Vezi această arhivă pe +2Télé.",
-    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
-    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "seoTitle": "{{title}} - {{type}} {{channel}} ({{year}})",
+    "seoTitleGeneric": "{{channel}} - {{type}} {{year}}",
     "loadingTitle": "Videoclip",
     "adultWarning": {
       "title": "Conținut sensibil",
@@ -675,7 +675,7 @@
         "description": "Detalii în legătură cu această arhivă",
         "copyright": "Informații legate de drepturile de autor",
         "select": "Selectează...",
-        "noCollection": "— Fără colecție —",
+        "noCollection": "- Fără colecție -",
         "searchCollection": "Caută o colecție..."
       },
       "adultContent": {
@@ -1134,7 +1134,7 @@
     "page": {
       "title": "Gestionarea canalelor",
       "subtitle": "Gestionează ordinea și conținutul canalelor",
-      "seoTitle": "Gestionarea canalelor — Zona arhivarului",
+      "seoTitle": "Gestionarea canalelor - Zona arhivarului",
       "seoDescription": "Gestionează ordinea și conținutul canalelor de televiziune în zona ta de arhivar +2Télé.",
       "new": "Canal nou",
       "searchPlaceholder": "Caută un canal…",
@@ -1148,7 +1148,7 @@
     },
     "form": {
       "createTitle": "Canal nou",
-      "editTitle": "Editează — {{name}}",
+      "editTitle": "Editează - {{name}}",
       "requiredHint": "Câmpurile marcate cu asterisc (*) sunt obligatorii.",
       "tabs": {
         "infos": "Informații",
@@ -1192,8 +1192,8 @@
         "dead": "Închis"
       },
       "position": {
-        "first": "1 — La început",
-        "after": "{{position}} — După {{name}}",
+        "first": "1 - La început",
+        "after": "{{position}} - După {{name}}",
         "auto": "Automat (la sfârșit)"
       },
       "translations": {

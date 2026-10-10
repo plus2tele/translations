@@ -3,11 +3,11 @@
     "defaultDescription": "Odkryj na nowo skarby telewizji dzięki naszej kolekcji archiwów."
   },
   "facets": {
-    "channelType": { "title": "{{type}} — {{channel}}", "description": "Wszystkie {{type}} z {{channel}} — {{count}} archiwalnych nagrań do obejrzenia na +2Télé." },
+    "channelType": { "title": "{{type}} - {{channel}}", "description": "Wszystkie {{type}} z {{channel}} - {{count}} archiwalnych nagrań do obejrzenia na +2Télé." },
     "channelYear": { "title": "{{channel}} w {{year}}", "description": "Archiwa {{channel}} wyemitowane w {{year}}: czołówki, oprawa antenowa, reklamy. {{count}} nagrań." },
     "typeHub": { "title": "{{type}}", "description": "Wszystkie {{type}} z telewizji francuskiej, europejskiej i międzynarodowej. {{count}} archiwalnych nagrań." },
     "yearHub": { "title": "Telewizja w {{year}}", "description": "Przypomnij sobie telewizję z {{year}}: czołówki, oprawę antenową, reklamy i programy. {{count}} archiwalnych nagrań." },
-    "habillage": { "title": "Oprawa {{name}} — {{channel}}", "description": "Oprawa antenowa „{{name}}” {{channel}} ({{years}}): czołówki, dżingle i archiwa. {{count}} nagrań." },
+    "habillage": { "title": "Oprawa {{name}} - {{channel}}", "description": "Oprawa antenowa „{{name}}” {{channel}} ({{years}}): czołówki, dżingle i archiwa. {{count}} nagrań." },
     "browse": { "byChannel": "Wg kanału", "byType": "Wg typu", "byYear": "Wg roku", "byHabillage": "Oprawa", "viewHabillage": "Przeglądaj wg oprawy" }
   },
   "common": {
@@ -205,8 +205,8 @@
       "linkCopied": "Link skopiowany do schowka!"
     },
     "watchTitle": "Obejrzyj {{title}} ({{year}}) z {{channel}}. Odkryj to archiwum w +2Télé.",
-    "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
-    "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+    "seoTitle": "{{title}} - {{type}} {{channel}} ({{year}})",
+    "seoTitleGeneric": "{{channel}} - {{type}} {{year}}",
     "loadingTitle": "Wideo",
     "adultWarning": {
       "title": "Treści wrażliwe",
@@ -675,7 +675,7 @@
         "description": "Szczegóły dotyczące tego archiwum",
         "copyright": "Informacje o prawach autorskich",
         "select": "Wybierz...",
-        "noCollection": "— Brak kolekcji —",
+        "noCollection": "- Brak kolekcji -",
         "searchCollection": "Szukaj kolekcji..."
       },
       "adultContent": {
@@ -1134,7 +1134,7 @@
     "page": {
       "title": "Zarządzanie kanałami",
       "subtitle": "Zarządzaj kolejnością i treścią kanałów",
-      "seoTitle": "Zarządzanie kanałami — Strefa archiwisty",
+      "seoTitle": "Zarządzanie kanałami - Strefa archiwisty",
       "seoDescription": "Zarządzaj kolejnością i treścią kanałów telewizyjnych w swojej strefie archiwisty +2Télé.",
       "new": "Nowy kanał",
       "searchPlaceholder": "Szukaj kanału…",
@@ -1148,7 +1148,7 @@
     },
     "form": {
       "createTitle": "Nowy kanał",
-      "editTitle": "Edytuj — {{name}}",
+      "editTitle": "Edytuj - {{name}}",
       "requiredHint": "Pola oznaczone gwiazdką (*) są wymagane.",
       "tabs": {
         "infos": "Informacje",
@@ -1181,7 +1181,7 @@
         "wikiLink": "https://…"
       },
       "help": {
-        "isSeparator": "Separator pełni rolę nagłówka na liście kanałów — nie ma własnej strony.",
+        "isSeparator": "Separator pełni rolę nagłówka na liście kanałów - nie ma własnej strony.",
         "info": "Obsługuje HTML",
         "descriptionLong": "Obsługuje Markdown",
         "position": "Określa kolejność wyświetlania na liście kanałów.",
@@ -1192,8 +1192,8 @@
         "dead": "Zakończony"
       },
       "position": {
-        "first": "1 — Na początku",
-        "after": "{{position}} — Po {{name}}",
+        "first": "1 - Na początku",
+        "after": "{{position}} - Po {{name}}",
         "auto": "Automatycznie (na końcu)"
       },
       "translations": {

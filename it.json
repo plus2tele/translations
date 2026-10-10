@@ -5,7 +5,7 @@
     "facets": {
         "channelType": {
             "title": "{{type}} di {{channel}}",
-            "description": "Tutti i {{type}} di {{channel}} — {{count}} video d’archivio da rivedere su +2Télé."
+            "description": "Tutti i {{type}} di {{channel}} - {{count}} video d’archivio da rivedere su +2Télé."
         },
         "channelYear": {
             "title": "{{channel}} nel {{year}}",
@@ -20,7 +20,7 @@
             "description": "Rivivi la televisione del {{year}}: sigle, grafica d’antenna, pubblicità e programmi. {{count}} video d’archivio."
         },
         "habillage": {
-            "title": "Grafica {{name}} — {{channel}}",
+            "title": "Grafica {{name}} - {{channel}}",
             "description": "La grafica d’antenna «{{name}}» di {{channel}} ({{years}}): sigle, jingle e archivi. {{count}} video."
         },
         "browse": {
@@ -226,8 +226,8 @@
             "linkCopied": "Link copiato negli appunti!"
         },
         "watchTitle": "Guarda {{title}} ({{year}}) su {{channel}}. Scopri questo archivio su +2Télé.",
-        "seoTitle": "{{title}} — {{type}} {{channel}} ({{year}})",
-        "seoTitleGeneric": "{{channel}} — {{type}} {{year}}",
+        "seoTitle": "{{title}} - {{type}} {{channel}} ({{year}})",
+        "seoTitleGeneric": "{{channel}} - {{type}} {{year}}",
         "loadingTitle": "Video",
         "adultWarning": {
             "title": "Contenuto sensibile",
@@ -698,7 +698,7 @@
                 "description": "Dettagli riguardanti questo archivio",
                 "copyright": "Informazioni sui diritti d'autore",
                 "select": "Seleziona...",
-                "noCollection": "— Nessuna raccolta —",
+                "noCollection": "- Nessuna raccolta -",
                 "searchCollection": "Cerca una raccolta..."
             },
             "adultContent": {
@@ -1161,7 +1161,7 @@
         "page": {
             "title": "Gestione dei canali",
             "subtitle": "Gestisci l'ordine e il contenuto dei canali",
-            "seoTitle": "Gestione dei canali — Area archivista",
+            "seoTitle": "Gestione dei canali - Area archivista",
             "seoDescription": "Gestisci l'ordine e il contenuto dei canali televisivi nella tua area archivista +2Télé.",
             "new": "Nuovo canale",
             "searchPlaceholder": "Cerca un canale…",
@@ -1175,7 +1175,7 @@
         },
         "form": {
             "createTitle": "Nuovo canale",
-            "editTitle": "Modifica — {{name}}",
+            "editTitle": "Modifica - {{name}}",
             "requiredHint": "I campi contrassegnati da un asterisco (*) sono obbligatori.",
             "tabs": {
                 "infos": "Informazioni",
@@ -1219,8 +1219,8 @@
                 "dead": "Cessato"
             },
             "position": {
-                "first": "1 — All'inizio",
-                "after": "{{position}} — Dopo {{name}}",
+                "first": "1 - All'inizio",
+                "after": "{{position}} - Dopo {{name}}",
                 "auto": "Automatica (alla fine)"
             },
             "translations": {
