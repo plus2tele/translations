@@ -633,8 +633,14 @@
         "ready": "Prêt",
         "error": "Erreur",
         "errorServer": "Erreur serveur",
-        "errorNetwork": "Erreur réseau"
+        "errorNetwork": "Erreur réseau",
+        "loadingEncoder": "Préparation de l'encodeur…",
+        "encoding": "Encodage {{progress}} %",
+        "thumbnail": "Miniature…",
+        "uploading": "Envoi {{progress}} %",
+        "sending": "Envoi…"
       },
+      "encodingNotice": "L'encodage se fait dans votre navigateur : gardez cet onglet ouvert jusqu'à la fin de l'envoi.",
       "viewArchive": "Voir l'archive",
       "success": {
         "title": "Importation terminée !",
@@ -769,6 +775,7 @@
       },
       "confirmReplaceMedia": "Êtes-vous sûr de vouloir remplacer la vidéo ? Cette action est irréversible.",
       "dragDropReplace": "Cliquez ou glissez une vidéo ici pour remplacer",
+      "videoReplaced": "La nouvelle vidéo a été envoyée. Elle sera en ligne dans quelques instants.",
       "delete": "SUPPRIMER",
       "republish": {
         "title": "Republiée en meilleure qualité",
@@ -912,12 +919,11 @@
         "credits": "Produit et animé par Manu Lassabe. Intervenants : Max (Zeima), Guillaume et Valentin.",
         "listen": "Écouter sur :"
       },
-      "fandetele": {
-        "title": "Fan de Télé, Le Direct",
-        "subtitle": "L'émission qui fait le tour des actus sur la télé française",
-        "description": "Retrouvez toute l'actualité de la télévision française en direct.",
-        "credits": "Par 60 Hz Productions",
-        "watch": "Regarder sur YouTube"
+      "plus2media": {
+        "title": "+2Media",
+        "subtitle": "L'émission qui vous reconnecte à vos écrans",
+        "description": "+2Media, c'est le podcast de l'actualité média.",
+        "credits": "Produit et animé par Manu Lassabe. Intervenants : Max (Zeima), Guillaume et Valentin."
       }
     },
     "team": {

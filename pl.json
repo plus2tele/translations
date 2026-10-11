@@ -907,12 +907,11 @@
         "credits": "Produkcja i prowadzenie: Manu Lassabe. Uczestnicy: Max (Zeima), Guillaume i Valentin.",
         "listen": "Słuchaj na:"
       },
-      "fandetele": {
-        "title": "Fan de Télé, Le Direct",
-        "subtitle": "Program, w którym prezentowane są wiadomości z telewizji francuskiej",
-        "description": "Dowiaduj się najnowszych francuskich wiadomości telewizyjnych na żywo.",
-        "credits": "Przez 60 Hz Productions",
-        "watch": "Oglądaj na YouTube"
+      "plus2media": {
+        "title": "+2Media",
+        "subtitle": "Program, który ponownie łączy cię z ekranami",
+        "description": "+2Media to podcast o wiadomościach ze świata mediów.",
+        "credits": "Produkcja i prowadzenie: Manu Lassabe. Goście: Max (Zeima), Guillaume i Valentin."
       }
     },
     "team": {

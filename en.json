@@ -660,8 +660,14 @@
                 "ready": "Ready",
                 "error": "Error",
                 "errorServer": "Server error",
-                "errorNetwork": "Network error"
+                "errorNetwork": "Network error",
+                "loadingEncoder": "Preparing encoder…",
+                "encoding": "Encoding {{progress}}%",
+                "thumbnail": "Thumbnail…",
+                "uploading": "Uploading {{progress}}%",
+                "sending": "Uploading…"
             },
+            "encodingNotice": "Encoding runs in your browser: keep this tab open until the upload is complete.",
             "viewArchive": "View archive",
             "success": {
                 "title": "Upload complete!",
@@ -796,6 +802,7 @@
             },
             "confirmReplaceMedia": "Are you sure you want to replace the video? This action cannot be undone.",
             "dragDropReplace": "Click or drag a video here to replace",
+            "videoReplaced": "The new video has been uploaded. It will be online in a few moments.",
             "delete": "DELETE",
             "republish": {
                 "title": "Republished in better quality",
@@ -939,12 +946,11 @@
                 "credits": "Produced and hosted by Manu Lassabe. Participants: Max (Zeima), Guillaume, and Valentin.",
                 "listen": "Listen on:"
             },
-            "fandetele": {
-                "title": "Fan de Télé, The Live",
-                "subtitle": "The show that covers French TV news",
-                "description": "Find all the latest French TV news live.",
-                "credits": "By 60 Hz Productions",
-                "watch": "Watch on YouTube"
+            "plus2media": {
+                "title": "+2Media",
+                "subtitle": "The show that reconnects you to your screens",
+                "description": "+2Media is the podcast about media news.",
+                "credits": "Produced and hosted by Manu Lassabe. Guests: Max (Zeima), Guillaume and Valentin."
             }
         },
         "team": {

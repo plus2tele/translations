@@ -907,12 +907,11 @@
         "credits": "Produs și susținut de Manu Lassabe. Participanți: Max (Zeima), Guillaume și Valentin.",
         "listen": "Ascultă pe:"
       },
-      "fandetele": {
-        "title": "Fan de Télé, Le Direct",
-        "subtitle": "Serialul ce acoperă știrile televiziunii franceze",
-        "description": "Găsește toate știrile franceze în direct.",
-        "credits": "De 60 Hz Productions",
-        "watch": "Urmărește pe YouTube"
+      "plus2media": {
+        "title": "+2Media",
+        "subtitle": "Emisiunea care te reconectează la ecranele tale",
+        "description": "+2Media este podcastul despre actualitatea media.",
+        "credits": "Produs și prezentat de Manu Lassabe. Invitați: Max (Zeima), Guillaume și Valentin."
       }
     },
     "team": {

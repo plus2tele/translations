@@ -1095,12 +1095,11 @@
                 "credits": "Prodotto e animato da Manu Lassabe. Relatori: Max (Zeima), Guillaume e Valentin.",
                 "listen": "Ascoltare su :"
             },
-            "fandetele": {
-                "title": "Fan de Télé, Le Direct",
-                "subtitle": "Il programma che racconta le notizie sulla TV francese",
-                "description": "Scopri tutte le notizie della televisione francese in diretta.",
-                "credits": "Per 60 Hz Productions",
-                "watch": "Guardare su YouTube"
+            "plus2media": {
+                "title": "+2Media",
+                "subtitle": "Il programma che ti riconnette ai tuoi schermi",
+                "description": "+2Media è il podcast sull'attualità dei media.",
+                "credits": "Prodotto e condotto da Manu Lassabe. Ospiti: Max (Zeima), Guillaume e Valentin."
             }
         },
         "team": {

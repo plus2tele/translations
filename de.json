@@ -1054,6 +1054,12 @@
         "description": "Auf dem Menü: Geschichten, die du nicht vergessen wirst, Spiele und Neuigkeiten.",
         "credits": "Produziert und gehostet von Manu Lassabe. Teilnehmer: Max (Zeima), Guillaume und Valentin.",
         "listen": "Anhören auf:"
+      },
+      "plus2media": {
+        "title": "+2Media",
+        "subtitle": "Die Sendung, die dich wieder mit deinen Bildschirmen verbindet",
+        "description": "+2Media ist der Podcast rund um Mediennews.",
+        "credits": "Produziert und gehostet von Manu Lassabe. Teilnehmer: Max (Zeima), Guillaume und Valentin."
       }
     }
   },
