@@ -2,6 +2,8 @@
   "seo": {
     "defaultDescription": "Redécouvrez les trésors de la télévision à travers notre collection d'archives."
   },
+  "notFound": { "message": "Cette page n'existe pas ou a été supprimée.", "backHome": "Retourner à l'accueil" },
+  "agence": { "seo_title": "{{name}} - habillages et créations pour la télévision", "seo_description": "Découvrez les habillages, génériques et créations télévisuelles de {{name}} et les chaînes pour lesquelles l'agence a travaillé." },
   "facets": {
     "channelType": { "title": "{{type}} de {{channel}}", "description": "Tous les {{type}} de {{channel}} - {{count}} vidéos d’archives à revoir sur +2Télé." },
     "channelYear": { "title": "{{channel}} en {{year}}", "description": "Les archives de {{channel}} diffusées en {{year}} : génériques, habillages, publicités. {{count}} vidéos." },
@@ -131,6 +133,8 @@
     }
   },
   "channel": {
+    "seo_title": "Habillages, logos et archives de {{name}}",
+    "seo_description": "Habillages d'antenne, génériques, jingles, logos et archives vidéo de {{name}}. Redécouvrez l'identité visuelle de la chaîne sur +2Télé.",
     "back": "Retour aux chaînes",
     "status": {
       "active": "En activité",
@@ -150,6 +154,7 @@
     "pageInfo_other": "Page {{current}} sur {{total}} · {{count}} archives"
   },
   "collections": {
+    "seoDescription": "Découvrez la collection {{title}} sur +2Télé : {{count}} archives vidéo de la télévision.",
     "title": "Collections",
     "seo_title": "Collections d'Archives Télévisuelles Thématiques",
     "description": "Parcourez nos collections thématiques d'archives télévisuelles internationales : sélections curatoriales autour d'émissions, de chaînes ou d'époques marquantes de l'histoire de la télévision.",

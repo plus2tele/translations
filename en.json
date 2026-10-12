@@ -2,6 +2,8 @@
     "seo": {
         "defaultDescription": "Rediscover the treasures of television through our archive collection."
     },
+  "notFound": { "message": "This page doesn't exist or has been removed.", "backHome": "Back to home" },
+  "agence": { "seo_title": "{{name}} - TV branding and broadcast design", "seo_description": "Discover the branding packages, intros and TV creations by {{name}}, and the channels the agency worked for." },
     "facets": {
         "channelType": {
             "title": "{{channel}} {{type}}",
@@ -153,6 +155,8 @@
         }
     },
     "channel": {
+    "seo_title": "{{name}} idents, logos and archive footage",
+    "seo_description": "On-air branding, intros, jingles, logos and archive videos from {{name}}. Rediscover the channel's visual identity on +2Télé.",
         "back": "Back to channels",
         "status": {
             "active": "Active",
@@ -172,6 +176,7 @@
         "pageInfo_other": "Page {{current}} of {{total}} · {{count}} archives"
     },
     "collections": {
+    "seoDescription": "Discover the {{title}} collection on +2Télé: {{count}} TV archive videos.",
         "title": "Collections",
         "seo_title": "Thematic Television Archive Collections",
         "description": "Browse our curated thematic collections of international television archives: selections around iconic shows, channels or defining eras of television history.",

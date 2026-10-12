@@ -2,6 +2,8 @@
   "seo": {
     "defaultDescription": "Odkryj na nowo skarby telewizji dzięki naszej kolekcji archiwów."
   },
+  "notFound": { "message": "Ta strona nie istnieje lub została usunięta.", "backHome": "Wróć na stronę główną" },
+  "agence": { "seo_title": "{{name}} - oprawa graficzna i projekty telewizyjne", "seo_description": "Poznaj oprawy graficzne, czołówki i realizacje telewizyjne {{name}} oraz stacje, dla których pracowała agencja." },
   "facets": {
     "channelType": { "title": "{{type}} - {{channel}}", "description": "Wszystkie {{type}} z {{channel}} - {{count}} archiwalnych nagrań do obejrzenia na +2Télé." },
     "channelYear": { "title": "{{channel}} w {{year}}", "description": "Archiwa {{channel}} wyemitowane w {{year}}: czołówki, oprawa antenowa, reklamy. {{count}} nagrań." },
@@ -131,6 +133,8 @@
     }
   },
   "channel": {
+    "seo_title": "Oprawa graficzna, logo i archiwa {{name}}",
+    "seo_description": "Oprawa antenowa, czołówki, dżingle, logo i archiwalne nagrania {{name}}. Odkryj na nowo identyfikację wizualną stacji na +2Télé.",
     "back": "Powrót do kanałów",
     "status": {
       "active": "Nadaje",
@@ -150,6 +154,7 @@
     "pageInfo_other": "Strona {{current}} z {{total}} wszystkich · {{count}} w archiwum"
   },
   "collections": {
+    "seoDescription": "Odkryj kolekcję {{title}} na +2Télé: {{count}} archiwalnych nagrań telewizyjnych.",
     "title": "Kolekcje",
     "seo_title": "Tematyczne Kolekcje Archiwów Telewizyjnych",
     "description": "Przeglądaj nasze kuratorskie kolekcje tematyczne międzynarodowych archiwów telewizyjnych: wybory poświęcone kultowym programom, stacjom lub przełomowym epokom w historii telewizji.",

@@ -2,6 +2,8 @@
   "seo": {
     "defaultDescription": "Redescubre los tesoros de la televisión a través de nuestra colección de archivos."
   },
+  "notFound": { "message": "Esta página no existe o ha sido eliminada.", "backHome": "Volver al inicio" },
+  "agence": { "seo_title": "{{name}} - imagen y diseño para televisión", "seo_description": "Descubre la imagen corporativa, cabeceras y creaciones televisivas de {{name}} y los canales para los que trabajó la agencia." },
   "facets": {
     "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos los {{type}} de {{channel}} - {{count}} vídeos de archivo para volver a ver en +2Télé." },
     "channelYear": { "title": "{{channel}} en {{year}}", "description": "Archivos de {{channel}} emitidos en {{year}}: cabeceras, identidad gráfica, anuncios. {{count}} vídeos." },
@@ -116,6 +118,8 @@
     }
   },
   "channel": {
+    "seo_title": "Cortinillas, logotipos y archivos de {{name}}",
+    "seo_description": "Imagen corporativa, cabeceras, jingles, logotipos y vídeos de archivo de {{name}}. Redescubre la identidad visual del canal en +2Télé.",
     "back": "Back to channels",
     "status": {
       "active": "Active",
@@ -159,6 +163,7 @@
     }
   },
   "collections": {
+    "seoDescription": "Descubre la colección {{title}} en +2Télé: {{count}} vídeos de archivo de televisión.",
     "title": "Colecciones",
     "seo_title": "Colecciones Temáticas de Archivos Televisivos",
     "description": "Explora nuestras colecciones temáticas de archivos de televisión internacional: selecciones curatoriales sobre programas icónicos, cadenas o épocas destacadas de la historia de la televisión.",

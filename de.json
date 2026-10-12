@@ -2,6 +2,8 @@
   "seo": {
     "defaultDescription": "Entdecke die Schätze des Fernsehens in unserer Archivsammlung neu."
   },
+  "notFound": { "message": "Diese Seite existiert nicht oder wurde entfernt.", "backHome": "Zurück zur Startseite" },
+  "agence": { "seo_title": "{{name}} - Senderdesign und TV-Kreationen", "seo_description": "Entdecke Senderdesigns, Vorspänne und TV-Kreationen von {{name}} sowie die Sender, für die die Agentur gearbeitet hat." },
   "facets": {
     "channelType": { "title": "{{type}} von {{channel}}", "description": "Alle {{type}} von {{channel}} - {{count}} Archivvideos zum Wiederansehen auf +2Télé." },
     "channelYear": { "title": "{{channel}} im Jahr {{year}}", "description": "Archive von {{channel}} aus dem Jahr {{year}}: Vorspänne, Senderdesign, Werbung. {{count}} Videos." },
@@ -137,6 +139,8 @@
     }
   },
   "channel": {
+    "seo_title": "Senderdesign, Logos und Archive von {{name}}",
+    "seo_description": "On-Air-Design, Vorspänne, Jingles, Logos und Archivvideos von {{name}}. Entdecke das Senderdesign neu auf +2Télé.",
     "back": "Zurück zu den Sendern",
     "status": {
       "active": "Aktiv",
@@ -156,6 +160,7 @@
     "pageInfo_other": "Seite {{current}} von {{total}} · {{count}} Archivierungen"
   },
   "collections": {
+    "seoDescription": "Entdecke die Sammlung {{title}} auf +2Télé: {{count}} TV-Archivvideos.",
     "title": "Sammlungen",
     "seo_title": "Thematische Fernseharchiv-Sammlungen",
     "description": "Entdecke unsere kuratierten thematischen Sammlungen aus dem internationalen Fernseharchiv: Auswahlen rund um Kultsendungen, Sender oder prägende Epochen der Fernsehgeschichte.",

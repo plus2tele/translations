@@ -2,6 +2,8 @@
   "seo": {
     "defaultDescription": "Redescoperă comorile televiziunii prin colecția noastră de arhive."
   },
+  "notFound": { "message": "Această pagină nu există sau a fost ștearsă.", "backHome": "Înapoi la pagina principală" },
+  "agence": { "seo_title": "{{name}} - identitate vizuală și creații pentru televiziune", "seo_description": "Descoperă identitățile vizuale, genericele și creațiile TV ale {{name}} și posturile pentru care a lucrat agenția." },
   "facets": {
     "channelType": { "title": "{{type}} de la {{channel}}", "description": "Toate {{type}} de la {{channel}} - {{count}} videoclipuri de arhivă de revăzut pe +2Télé." },
     "channelYear": { "title": "{{channel}} în {{year}}", "description": "Arhivele {{channel}} difuzate în {{year}}: generice, identitate vizuală, reclame. {{count}} videoclipuri." },
@@ -131,6 +133,8 @@
     }
   },
   "channel": {
+    "seo_title": "Identitate vizuală, logouri și arhive {{name}}",
+    "seo_description": "Identitate on-air, generice, jingle-uri, logouri și videoclipuri de arhivă {{name}}. Redescoperă identitatea vizuală a postului pe +2Télé.",
     "back": "Înapoi la canale",
     "status": {
       "active": "Activ",
@@ -150,6 +154,7 @@
     "pageInfo_other": "Pagina {{current}} din {{total}} · {{count}} arhive"
   },
   "collections": {
+    "seoDescription": "Descoperă colecția {{title}} pe +2Télé: {{count}} videoclipuri de arhivă TV.",
     "title": "Colecții",
     "seo_title": "Colecții Tematice de Arhive TV",
     "description": "Explorează colecțiile noastre tematice de arhive TV internaționale: selecții curatate despre emisiuni iconice, canale sau epoci importante din istoria televiziunii.",
