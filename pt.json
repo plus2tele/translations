@@ -2,6 +2,8 @@
   "seo": {
     "defaultDescription": "Redescubra os tesouros da televisão através da nossa coleção de arquivos."
   },
+  "notFound": { "message": "Esta página não existe ou foi removida.", "backHome": "Voltar ao início" },
+  "agence": { "seo_title": "{{name}} - identidade e criações para televisão", "seo_description": "Descubra as identidades, genéricos e criações televisivas de {{name}} e os canais para os quais a agência trabalhou." },
   "facets": {
     "channelType": { "title": "{{type}} de {{channel}}", "description": "Todos os {{type}} de {{channel}} - {{count}} vídeos de arquivo para rever no +2Télé." },
     "channelYear": { "title": "{{channel}} em {{year}}", "description": "Arquivos de {{channel}} exibidos em {{year}}: genéricos, identidade visual, publicidade. {{count}} vídeos." },
@@ -130,6 +132,8 @@
     }
   },
   "channel": {
+    "seo_title": "Vinhetas, logótipos e arquivos de {{name}}",
+    "seo_description": "Identidade de antena, genéricos, jingles, logótipos e vídeos de arquivo de {{name}}. Redescubra a identidade visual do canal na +2Télé.",
     "back": "Back to channels",
     "status": {
       "active": "Active",
@@ -149,6 +153,7 @@
     "pageInfo_other": "Page {{current}} of {{total}} · {{count}} archives"
   },
   "collections": {
+    "seoDescription": "Descubra a coleção {{title}} na +2Télé: {{count}} vídeos de arquivo de televisão.",
     "title": "Coleções",
     "seo_title": "Coleções Temáticas de Arquivos Televisivos",
     "description": "Explore as nossas coleções temáticas de arquivos televisivos internacionais: seleções curatoriais sobre programas icónicos, canais ou épocas marcantes da história da televisão.",

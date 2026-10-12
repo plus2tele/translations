@@ -2,6 +2,8 @@
     "seo": {
         "defaultDescription": "Riscopri i tesori della televisione attraverso la nostra raccolta di archivi."
     },
+  "notFound": { "message": "Questa pagina non esiste o è stata rimossa.", "backHome": "Torna alla home" },
+  "agence": { "seo_title": "{{name}} - grafica e creazioni per la televisione", "seo_description": "Scopri le grafiche, le sigle e le creazioni televisive di {{name}} e i canali per cui l'agenzia ha lavorato." },
     "facets": {
         "channelType": {
             "title": "{{type}} di {{channel}}",
@@ -152,6 +154,8 @@
         }
     },
     "channel": {
+    "seo_title": "Sigle, loghi e archivi di {{name}}",
+    "seo_description": "Grafica di rete, sigle, jingle, loghi e video d'archivio di {{name}}. Riscopri l'identità visiva del canale su +2Télé.",
         "back": "Back to channels",
         "status": {
             "active": "Active",
@@ -171,6 +175,7 @@
         "pageInfo_other": "Page {{current}} of {{total}} · {{count}} archives"
     },
     "collections": {
+    "seoDescription": "Scopri la collezione {{title}} su +2Télé: {{count}} video d'archivio televisivi.",
         "title": "Collezioni",
         "seo_title": "Collezioni Tematiche di Archivi Televisivi",
         "description": "Sfoglia le nostre collezioni tematiche di archivi televisivi internazionali: selezioni curate intorno a programmi iconici, canali o epoche significative della storia della televisione.",
